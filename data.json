@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-05 10:15",
+  "updated_at": "2026-06-05 10:22",
   "inception": "2026-06-04",
   "days": 2,
-  "return_pct": -0.02,
+  "return_pct": -0.06,
   "n_holdings": 5,
-  "cash_weight": 50.5,
+  "cash_weight": 50.4,
   "holdings": [
     {
       "name": "다우",
@@ -21,8 +21,8 @@
     {
       "name": "대우건설",
       "mkt": "KR",
-      "weight": 9.2,
-      "pnl_pct": -0.2
+      "weight": 9.1,
+      "pnl_pct": -0.7
     },
     {
       "name": "할리버턴",
