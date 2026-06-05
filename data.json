@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06 03:27",
+  "updated_at": "2026-06-06 03:32",
   "inception": "2026-06-04",
   "days": 3,
   "return_pct": -1.79,
@@ -10,13 +10,13 @@
       "name": "다우",
       "mkt": "US",
       "weight": 11.6,
-      "pnl_pct": -3.0
+      "pnl_pct": -2.9
     },
     {
       "name": "모더나",
       "mkt": "US",
       "weight": 10.7,
-      "pnl_pct": -7.3
+      "pnl_pct": -7.6
     },
     {
       "name": "대우건설",
@@ -28,13 +28,13 @@
       "name": "할리버턴",
       "mkt": "US",
       "weight": 8.9,
-      "pnl_pct": -3.8
+      "pnl_pct": -3.7
     },
     {
       "name": "APA",
       "mkt": "US",
       "weight": 8.4,
-      "pnl_pct": -3.0
+      "pnl_pct": -2.9
     }
   ],
   "history": [
