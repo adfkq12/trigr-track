@@ -29,6 +29,14 @@
   .hero .cap{color:var(--sub);font-size:13.5px;letter-spacing:.4px}
   .hero .big{font-size:54px;font-weight:800;letter-spacing:-1.5px;margin:6px 0 2px;font-variant-numeric:tabular-nums}
   .hero .note{color:var(--faint);font-size:12.5px}
+  .hero .status{margin:9px 0 2px}
+  .stat{display:inline-flex;align-items:center;gap:6px;font-size:12px;font-weight:600;padding:3px 11px;border-radius:999px}
+  .stat .sd{width:7px;height:7px;border-radius:50%}
+  .stat.live{background:rgba(34,197,94,.12);color:#22c55e}
+  .stat.live .sd{background:#22c55e;box-shadow:0 0 0 3px rgba(34,197,94,.18);animation:pulse 2s infinite}
+  .stat.closed{background:rgba(154,163,178,.10);color:var(--sub)}
+  .stat.closed .sd{background:var(--faint)}
+  @keyframes pulse{0%,100%{opacity:1}50%{opacity:.45}}
   .up{color:var(--up)} .down{color:var(--down)} .flat{color:var(--sub)}
 
   .meta{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-bottom:22px}
@@ -74,6 +82,16 @@ const $ = (s,el=document)=>el.querySelector(s);
 const fmtPct = v => (v>0?"+":"") + v.toFixed(2) + "%";
 const cls = v => v>0?"up":(v<0?"down":"flat");
 
+// updated_at(KST) 기준 신선도 — 방문자 시간대와 무관하게 절대시각으로 비교.
+// 최근 갱신이면 '실시간', 오래됐으면 '장 마감'으로 표기해 마감 동안 멈춤이 죽은 것처럼 안 보이게.
+function freshness(s){
+  try{
+    const age = (Date.now() - new Date(s.replace(" ","T")+":00+09:00").getTime())/60000;
+    return age < 20 ? {live:true, label:"실시간 갱신 중"}
+                    : {live:false, label:"장 마감 — 다음 개장 시 갱신"};
+  }catch(e){ return {live:false, label:"장 마감 — 다음 개장 시 갱신"}; }
+}
+
 function sparkline(history){
   // 데이터가 얇을 땐 숨긴다 — 점 2~3개짜리 라인은 작은 변동을 폭락처럼 과장해 오해를 부름
   if(!history || history.length < 5) return "";
@@ -100,6 +118,7 @@ function sparkline(history){
 
 function render(d){
   const c = cls(d.return_pct);
+  const fr = freshness(d.updated_at);
   const rows = d.holdings.map(h=>`
     <tr><td class="nm">${h.name}<span class="tag ${h.mkt}">${h.mkt}</span>
       <div class="wbar" style="width:${Math.max(4,h.weight)}%"></div></td>
@@ -110,6 +129,7 @@ function render(d){
     <div class="hero">
       <div class="cap">누적 수익률 · 실제 체결 기준</div>
       <div class="big ${c}">${fmtPct(d.return_pct)}</div>
+      <div class="status"><span class="stat ${fr.live?'live':'closed'}"><span class="sd"></span>${fr.label}</span></div>
       <div class="note">운용 시작 ${d.inception} · 마지막 업데이트 ${d.updated_at} KST</div>
     </div>
 
@@ -132,7 +152,7 @@ function render(d){
     <div class="honest">
       <b>정직하게 밝힙니다.</b> 잃어도 괜찮은 <b>소액 실계좌</b>로 검증 중이라 금액은 공개하지 않고
       수익률·종목·비중만 보여드려요. 봇은 코스피200+S&amp;P500의 큰 회사들 중 흐름 좋은 몇 개만 담고
-      한 달에 한 번 교체합니다. 체결될 때마다 + 장중 15분마다 자동으로 이 페이지가 갱신돼요.
+      한 달에 한 번 교체합니다. 체결될 때마다 + 장중 5분마다 자동으로 이 페이지가 갱신돼요.
     </div>
 
     <p class="disc">※ 투자 권유가 아니라 개인의 운용 기록입니다. 모든 판단과 책임은 본인에게 있습니다.<br>
