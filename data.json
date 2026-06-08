@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-09 00:47",
+  "updated_at": "2026-06-09 00:52",
   "inception": "2026-06-04",
   "days": 6,
-  "return_pct": -3.64,
+  "return_pct": -3.72,
   "n_holdings": 5,
   "cash_weight": 50.9,
   "holdings": [
@@ -10,13 +10,13 @@
       "name": "다우",
       "mkt": "US",
       "weight": 11.3,
-      "pnl_pct": -3.8
+      "pnl_pct": -4.0
     },
     {
       "name": "모더나",
       "mkt": "US",
       "weight": 10.8,
-      "pnl_pct": -5.0
+      "pnl_pct": -5.3
     },
     {
       "name": "할리버턴",
@@ -44,7 +44,7 @@
     },
     {
       "date": "2026-06-09",
-      "ret_pct": -3.64
+      "ret_pct": -3.72
     }
   ]
 }
