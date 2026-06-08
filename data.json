@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08 14:12",
+  "updated_at": "2026-06-08 14:17",
   "inception": "2026-06-04",
   "days": 5,
   "return_pct": -2.7,
@@ -9,20 +9,20 @@
     {
       "name": "다우",
       "mkt": "US",
-      "weight": 11.6,
+      "weight": 11.5,
       "pnl_pct": -3.3
     },
     {
       "name": "모더나",
       "mkt": "US",
-      "weight": 10.8,
+      "weight": 10.7,
       "pnl_pct": -6.9
     },
     {
       "name": "대우건설",
       "mkt": "KR",
       "weight": 8.9,
-      "pnl_pct": -5.3
+      "pnl_pct": -6.0
     },
     {
       "name": "할리버턴",
