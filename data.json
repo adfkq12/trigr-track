@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08 12:17",
+  "updated_at": "2026-06-08 12:22",
   "inception": "2026-06-04",
   "days": 5,
   "return_pct": -2.7,
@@ -19,16 +19,16 @@
       "pnl_pct": -6.9
     },
     {
+      "name": "대우건설",
+      "mkt": "KR",
+      "weight": 8.9,
+      "pnl_pct": -6.0
+    },
+    {
       "name": "할리버턴",
       "mkt": "US",
       "weight": 8.9,
       "pnl_pct": -4.5
-    },
-    {
-      "name": "대우건설",
-      "mkt": "KR",
-      "weight": 8.8,
-      "pnl_pct": -6.5
     },
     {
       "name": "APA",
