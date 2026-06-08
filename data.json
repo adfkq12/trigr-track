@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08 14:17",
+  "updated_at": "2026-06-08 14:22",
   "inception": "2026-06-04",
   "days": 5,
   "return_pct": -2.7,
@@ -27,13 +27,13 @@
     {
       "name": "할리버턴",
       "mkt": "US",
-      "weight": 8.9,
+      "weight": 8.8,
       "pnl_pct": -4.5
     },
     {
       "name": "APA",
       "mkt": "US",
-      "weight": 8.3,
+      "weight": 8.2,
       "pnl_pct": -3.7
     }
   ],
