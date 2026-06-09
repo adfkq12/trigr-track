@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-09 11:52",
+  "updated_at": "2026-06-09 11:57",
   "inception": "2026-06-04",
   "days": 6,
-  "return_pct": -3.82,
+  "return_pct": -3.73,
   "n_holdings": 5,
   "cash_weight": 56.0,
   "holdings": [
@@ -27,8 +27,8 @@
     {
       "name": "대우건설",
       "mkt": "KR",
-      "weight": 9.6,
-      "pnl_pct": -7.0
+      "weight": 9.7,
+      "pnl_pct": -6.5
     },
     {
       "name": "APA",
@@ -44,7 +44,7 @@
     },
     {
       "date": "2026-06-09",
-      "ret_pct": -3.82
+      "ret_pct": -3.73
     }
   ]
 }
