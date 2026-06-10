@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-11 01:52",
+  "updated_at": "2026-06-11 01:57",
   "inception": "2026-06-04",
   "days": 8,
-  "return_pct": -1.57,
+  "return_pct": -1.55,
   "n_holdings": 5,
   "cash_weight": 14.5,
   "holdings": [
@@ -16,7 +16,7 @@
       "name": "APA",
       "mkt": "US",
       "weight": 17.4,
-      "pnl_pct": 1.7
+      "pnl_pct": 1.8
     },
     {
       "name": "코리아써키트",
@@ -52,7 +52,7 @@
     },
     {
       "date": "2026-06-11",
-      "ret_pct": -1.57
+      "ret_pct": -1.55
     }
   ]
 }
