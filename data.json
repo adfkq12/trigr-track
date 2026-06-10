@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-11 01:57",
+  "updated_at": "2026-06-11 02:02",
   "inception": "2026-06-04",
   "days": 8,
   "return_pct": -1.55,
@@ -16,7 +16,7 @@
       "name": "APA",
       "mkt": "US",
       "weight": 17.4,
-      "pnl_pct": 1.8
+      "pnl_pct": 1.9
     },
     {
       "name": "코리아써키트",
