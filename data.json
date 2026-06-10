@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-06-10 13:47",
+  "updated_at": "2026-06-10 13:52",
   "inception": "2026-06-04",
   "days": 7,
-  "return_pct": -3.49,
+  "return_pct": -3.39,
   "n_holdings": 6,
   "cash_weight": 29.6,
   "holdings": [
     {
       "name": "코리아써키트",
       "mkt": "KR",
-      "weight": 18.9,
-      "pnl_pct": -0.3
+      "weight": 19.0,
+      "pnl_pct": 0.1
     },
     {
       "name": "대우건설",
@@ -54,7 +54,7 @@
     },
     {
       "date": "2026-06-10",
-      "ret_pct": -3.49
+      "ret_pct": -3.39
     }
   ]
 }
