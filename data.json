@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12 01:22",
+  "updated_at": "2026-06-12 01:27",
   "inception": "2026-06-04",
   "days": 9,
   "return_pct": 2.47,
@@ -21,8 +21,8 @@
     {
       "name": "APA",
       "mkt": "US",
-      "weight": 16.6,
-      "pnl_pct": 0.5
+      "weight": 16.7,
+      "pnl_pct": 0.6
     },
     {
       "name": "대우건설",
