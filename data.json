@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-11 23:47",
+  "updated_at": "2026-06-11 23:52",
   "inception": "2026-06-04",
   "days": 8,
-  "return_pct": 2.15,
+  "return_pct": 2.11,
   "n_holdings": 5,
   "cash_weight": 14.1,
   "holdings": [
@@ -34,7 +34,7 @@
       "name": "모더나",
       "mkt": "US",
       "weight": 15.6,
-      "pnl_pct": -5.2
+      "pnl_pct": -5.4
     }
   ],
   "history": [
@@ -52,7 +52,7 @@
     },
     {
       "date": "2026-06-11",
-      "ret_pct": 2.15
+      "ret_pct": 2.11
     }
   ]
 }
