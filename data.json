@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-06-11 10:37",
+  "updated_at": "2026-06-11 10:42",
   "inception": "2026-06-04",
   "days": 8,
-  "return_pct": 0.81,
+  "return_pct": 1.45,
   "n_holdings": 5,
   "cash_weight": 14.2,
   "holdings": [
     {
       "name": "코리아써키트",
       "mkt": "KR",
-      "weight": 19.9,
-      "pnl_pct": 18.1
+      "weight": 20.2,
+      "pnl_pct": 20.4
     },
     {
       "name": "할리버턴",
       "mkt": "US",
-      "weight": 17.6,
+      "weight": 17.5,
       "pnl_pct": -1.9
     },
     {
       "name": "APA",
       "mkt": "US",
-      "weight": 16.9,
+      "weight": 16.8,
       "pnl_pct": 0.5
     },
     {
       "name": "대우건설",
       "mkt": "KR",
       "weight": 16.1,
-      "pnl_pct": -4.5
+      "pnl_pct": -3.5
     },
     {
       "name": "모더나",
       "mkt": "US",
-      "weight": 15.3,
+      "weight": 15.2,
       "pnl_pct": -8.0
     }
   ],
@@ -52,7 +52,7 @@
     },
     {
       "date": "2026-06-11",
-      "ret_pct": 0.81
+      "ret_pct": 1.45
     }
   ]
 }
