@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-06-11 14:02",
+  "updated_at": "2026-06-11 14:07",
   "inception": "2026-06-04",
   "days": 8,
-  "return_pct": 0.5,
+  "return_pct": 0.55,
   "n_holdings": 5,
   "cash_weight": 14.3,
   "holdings": [
     {
       "name": "코리아써키트",
       "mkt": "KR",
-      "weight": 19.8,
-      "pnl_pct": 17.2
+      "weight": 19.9,
+      "pnl_pct": 17.5
     },
     {
       "name": "할리버턴",
@@ -52,7 +52,7 @@
     },
     {
       "date": "2026-06-11",
-      "ret_pct": 0.5
+      "ret_pct": 0.55
     }
   ]
 }
