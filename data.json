@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-13 00:07",
+  "updated_at": "2026-06-13 00:12",
   "inception": "2026-06-04",
   "days": 10,
-  "return_pct": 3.74,
+  "return_pct": 3.63,
   "n_holdings": 5,
   "cash_weight": 14.4,
   "holdings": [
@@ -22,19 +22,19 @@
       "name": "할리버턴",
       "mkt": "US",
       "weight": 17.0,
-      "pnl_pct": -2.0
+      "pnl_pct": -2.2
     },
     {
       "name": "모더나",
       "mkt": "US",
       "weight": 16.5,
-      "pnl_pct": 2.9
+      "pnl_pct": 2.7
     },
     {
       "name": "APA",
       "mkt": "US",
       "weight": 16.0,
-      "pnl_pct": -1.4
+      "pnl_pct": -1.6
     }
   ],
   "history": [
@@ -60,7 +60,7 @@
     },
     {
       "date": "2026-06-13",
-      "ret_pct": 3.74
+      "ret_pct": 3.63
     }
   ]
 }
