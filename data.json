@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-13 03:32",
+  "updated_at": "2026-06-13 03:37",
   "inception": "2026-06-04",
   "days": 10,
-  "return_pct": 3.2,
+  "return_pct": 3.26,
   "n_holdings": 5,
   "cash_weight": 14.5,
   "holdings": [
@@ -28,13 +28,13 @@
       "name": "모더나",
       "mkt": "US",
       "weight": 16.3,
-      "pnl_pct": 0.8
+      "pnl_pct": 1.0
     },
     {
       "name": "APA",
       "mkt": "US",
       "weight": 16.0,
-      "pnl_pct": -1.8
+      "pnl_pct": -1.7
     }
   ],
   "history": [
@@ -60,7 +60,7 @@
     },
     {
       "date": "2026-06-13",
-      "ret_pct": 3.2
+      "ret_pct": 3.26
     }
   ]
 }
