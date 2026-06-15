@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-16 02:57",
+  "updated_at": "2026-06-16 03:02",
   "inception": "2026-06-04",
   "days": 13,
-  "return_pct": -0.62,
+  "return_pct": -0.35,
   "n_holdings": 6,
-  "cash_weight": 39.0,
+  "cash_weight": 38.9,
   "holdings": [
     {
       "name": "대우건설",
@@ -16,13 +16,13 @@
       "name": "할리버턴",
       "mkt": "US",
       "weight": 17.8,
-      "pnl_pct": -4.1
+      "pnl_pct": -4.2
     },
     {
       "name": "에코스타",
       "mkt": "US",
-      "weight": 17.6,
-      "pnl_pct": -1.1
+      "weight": 17.8,
+      "pnl_pct": 0.2
     },
     {
       "name": "APA",
@@ -34,7 +34,7 @@
       "name": "모더나",
       "mkt": "US",
       "weight": 15.9,
-      "pnl_pct": 2.2
+      "pnl_pct": 2.1
     },
     {
       "name": "워너 브로스 디스커버리",
@@ -74,7 +74,7 @@
     },
     {
       "date": "2026-06-16",
-      "ret_pct": -0.62
+      "ret_pct": -0.35
     }
   ]
 }
