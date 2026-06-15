@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-06-15 09:27",
+  "updated_at": "2026-06-15 09:37",
   "inception": "2026-06-04",
   "days": 12,
-  "return_pct": 5.29,
+  "return_pct": 5.54,
   "n_holdings": 5,
-  "cash_weight": 16.4,
+  "cash_weight": 16.3,
   "holdings": [
     {
       "name": "코리아써키트",
       "mkt": "KR",
       "weight": 19.3,
-      "pnl_pct": 21.6
+      "pnl_pct": 21.4
     },
     {
       "name": "대우건설",
       "mkt": "KR",
-      "weight": 17.3,
-      "pnl_pct": 9.5
+      "weight": 17.5,
+      "pnl_pct": 10.9
     },
     {
       "name": "할리버턴",
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-06-15",
-      "ret_pct": 5.29
+      "ret_pct": 5.54
     }
   ]
 }
