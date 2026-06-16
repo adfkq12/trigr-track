@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16 15:52",
+  "updated_at": "2026-06-16 15:57",
   "inception": "2026-06-04",
   "days": 13,
   "return_pct": 4.5,
@@ -21,7 +21,7 @@
     {
       "name": "할리버턴",
       "mkt": "US",
-      "weight": 16.9,
+      "weight": 17.0,
       "pnl_pct": -4.2
     },
     {
