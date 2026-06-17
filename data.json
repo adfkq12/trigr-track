@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17 15:42",
+  "updated_at": "2026-06-17 15:57",
   "inception": "2026-06-04",
   "days": 14,
   "return_pct": 2.93,
@@ -33,7 +33,7 @@
     {
       "name": "APA",
       "mkt": "US",
-      "weight": 15.4,
+      "weight": 15.5,
       "pnl_pct": -7.2
     },
     {
