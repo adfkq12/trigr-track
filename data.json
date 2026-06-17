@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-18 04:32",
+  "updated_at": "2026-06-18 04:37",
   "inception": "2026-06-04",
   "days": 15,
-  "return_pct": 2.89,
+  "return_pct": 2.94,
   "n_holdings": 6,
   "cash_weight": 6.5,
   "holdings": [
@@ -16,7 +16,7 @@
       "name": "모더나",
       "mkt": "US",
       "weight": 19.5,
-      "pnl_pct": 22.4
+      "pnl_pct": 22.6
     },
     {
       "name": "에코스타",
@@ -82,7 +82,7 @@
     },
     {
       "date": "2026-06-18",
-      "ret_pct": 2.89
+      "ret_pct": 2.94
     }
   ]
 }
