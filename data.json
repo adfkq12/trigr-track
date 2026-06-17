@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-06-17 09:07",
+  "updated_at": "2026-06-17 09:12",
   "inception": "2026-06-04",
   "days": 14,
-  "return_pct": 4.18,
+  "return_pct": 4.08,
   "n_holdings": 6,
   "cash_weight": 11.1,
   "holdings": [
     {
       "name": "대우건설",
       "mkt": "KR",
-      "weight": 20.6,
-      "pnl_pct": 20.4
+      "weight": 20.5,
+      "pnl_pct": 19.9
     },
     {
       "name": "에코스타",
@@ -78,7 +78,7 @@
     },
     {
       "date": "2026-06-17",
-      "ret_pct": 4.18
+      "ret_pct": 4.08
     }
   ]
 }
