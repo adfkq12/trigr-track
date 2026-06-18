@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19 00:27",
+  "updated_at": "2026-06-19 00:32",
   "inception": "2026-06-04",
   "days": 16,
   "return_pct": -0.98,
@@ -22,19 +22,19 @@
       "name": "에코스타",
       "mkt": "US",
       "weight": 17.5,
-      "pnl_pct": -7.2
+      "pnl_pct": -7.5
     },
     {
       "name": "할리버턴",
       "mkt": "US",
-      "weight": 17.1,
+      "weight": 17.2,
       "pnl_pct": -12.9
     },
     {
       "name": "APA",
       "mkt": "US",
       "weight": 16.1,
-      "pnl_pct": -11.8
+      "pnl_pct": -11.7
     },
     {
       "name": "워너 브로스 디스커버리",
