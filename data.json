@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-19 05:22",
+  "updated_at": "2026-06-19 05:32",
   "inception": "2026-06-04",
   "days": 16,
-  "return_pct": 0.28,
+  "return_pct": 0.27,
   "n_holdings": 6,
   "cash_weight": 6.6,
   "holdings": [
@@ -22,7 +22,7 @@
       "name": "에코스타",
       "mkt": "US",
       "weight": 17.8,
-      "pnl_pct": -4.7
+      "pnl_pct": -4.8
     },
     {
       "name": "할리버턴",
@@ -86,7 +86,7 @@
     },
     {
       "date": "2026-06-19",
-      "ret_pct": 0.28
+      "ret_pct": 0.27
     }
   ]
 }
