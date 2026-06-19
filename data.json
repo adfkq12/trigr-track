@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20 04:17",
+  "updated_at": "2026-06-20 04:22",
   "inception": "2026-06-04",
   "days": 17,
   "return_pct": -1.47,
@@ -9,7 +9,7 @@
     {
       "name": "대우건설",
       "mkt": "KR",
-      "weight": 17.0,
+      "weight": 17.1,
       "pnl_pct": -2.8
     },
     {
