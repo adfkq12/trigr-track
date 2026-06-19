@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-06-19 15:22",
+  "updated_at": "2026-06-19 15:32",
   "inception": "2026-06-04",
   "days": 16,
-  "return_pct": -1.36,
+  "return_pct": -1.47,
   "n_holdings": 6,
-  "cash_weight": 32.8,
+  "cash_weight": 32.9,
   "holdings": [
     {
       "name": "대우건설",
       "mkt": "KR",
       "weight": 16.6,
-      "pnl_pct": -2.3
+      "pnl_pct": -2.8
     },
     {
       "name": "모더나",
@@ -86,7 +86,7 @@
     },
     {
       "date": "2026-06-19",
-      "ret_pct": -1.36
+      "ret_pct": -1.47
     }
   ]
 }
