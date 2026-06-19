@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-06-19 15:52",
+  "updated_at": "2026-06-19 22:32",
   "inception": "2026-06-04",
   "days": 16,
   "return_pct": -1.47,
   "n_holdings": 6,
-  "cash_weight": 32.9,
+  "cash_weight": 30.8,
   "holdings": [
     {
       "name": "대우건설",
       "mkt": "KR",
-      "weight": 16.6,
+      "weight": 17.1,
       "pnl_pct": -2.8
     },
     {
       "name": "모더나",
       "mkt": "US",
-      "weight": 15.2,
+      "weight": 15.7,
       "pnl_pct": 27.5
     },
     {
       "name": "에코스타",
       "mkt": "US",
-      "weight": 13.0,
+      "weight": 13.4,
       "pnl_pct": -4.8
     },
     {
       "name": "할리버턴",
       "mkt": "US",
-      "weight": 12.5,
+      "weight": 12.9,
       "pnl_pct": -12.4
     },
     {
       "name": "APA",
       "mkt": "US",
-      "weight": 11.8,
+      "weight": 12.2,
       "pnl_pct": -10.5
     },
     {
