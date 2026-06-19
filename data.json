@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-06-20 00:57",
+  "updated_at": "2026-06-20 01:02",
   "inception": "2026-06-04",
   "days": 17,
   "return_pct": -1.47,
   "n_holdings": 6,
-  "cash_weight": 30.7,
+  "cash_weight": 30.8,
   "holdings": [
     {
       "name": "대우건설",
       "mkt": "KR",
-      "weight": 17.0,
+      "weight": 17.1,
       "pnl_pct": -2.8
     },
     {
