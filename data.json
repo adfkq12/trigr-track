@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23 04:07",
+  "updated_at": "2026-06-23 04:12",
   "inception": "2026-06-04",
   "days": 20,
   "return_pct": -1.73,
@@ -22,7 +22,7 @@
       "name": "APA",
       "mkt": "US",
       "weight": 13.5,
-      "pnl_pct": -6.5
+      "pnl_pct": -6.4
     },
     {
       "name": "모더나",
@@ -34,7 +34,7 @@
       "name": "슐럼버거",
       "mkt": "US",
       "weight": 13.4,
-      "pnl_pct": -1.6
+      "pnl_pct": -1.7
     },
     {
       "name": "코리아써키트",
@@ -46,7 +46,7 @@
       "name": "에코스타",
       "mkt": "US",
       "weight": 12.1,
-      "pnl_pct": -6.6
+      "pnl_pct": -6.5
     },
     {
       "name": "워너 브로스 디스커버리",
