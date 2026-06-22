@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-23 03:07",
+  "updated_at": "2026-06-23 03:12",
   "inception": "2026-06-04",
   "days": 20,
-  "return_pct": -1.91,
+  "return_pct": -1.78,
   "n_holdings": 8,
   "cash_weight": 34.0,
   "holdings": [
@@ -39,20 +39,20 @@
     {
       "name": "코리아써키트",
       "mkt": "KR",
-      "weight": 12.8,
+      "weight": 12.7,
       "pnl_pct": 0.3
     },
     {
       "name": "에코스타",
       "mkt": "US",
-      "weight": 11.9,
-      "pnl_pct": -8.0
+      "weight": 12.0,
+      "pnl_pct": -7.0
     },
     {
       "name": "워너 브로스 디스커버리",
       "mkt": "US",
       "weight": 1.5,
-      "pnl_pct": -1.9
+      "pnl_pct": -1.8
     }
   ],
   "history": [
@@ -110,7 +110,7 @@
     },
     {
       "date": "2026-06-23",
-      "ret_pct": -1.91
+      "ret_pct": -1.78
     }
   ]
 }
