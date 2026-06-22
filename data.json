@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22 15:32",
+  "updated_at": "2026-06-22 15:37",
   "inception": "2026-06-04",
   "days": 19,
   "return_pct": -0.68,
@@ -27,7 +27,7 @@
     {
       "name": "에코스타",
       "mkt": "US",
-      "weight": 11.9,
+      "weight": 12.0,
       "pnl_pct": -4.8
     },
     {
@@ -39,7 +39,7 @@
     {
       "name": "APA",
       "mkt": "US",
-      "weight": 10.8,
+      "weight": 10.9,
       "pnl_pct": -10.5
     },
     {
