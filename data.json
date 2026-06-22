@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23 05:02",
+  "updated_at": "2026-06-23 05:07",
   "inception": "2026-06-04",
   "days": 20,
   "return_pct": -1.46,
@@ -52,7 +52,7 @@
       "name": "워너 브로스 디스커버리",
       "mkt": "US",
       "weight": 1.5,
-      "pnl_pct": -1.1
+      "pnl_pct": -1.2
     }
   ],
   "history": [
