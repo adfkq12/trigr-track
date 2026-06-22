@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-23 01:42",
+  "updated_at": "2026-06-23 01:47",
   "inception": "2026-06-04",
   "days": 20,
-  "return_pct": -1.59,
+  "return_pct": -1.63,
   "n_holdings": 8,
   "cash_weight": 33.9,
   "holdings": [
@@ -15,7 +15,7 @@
     {
       "name": "할리버턴",
       "mkt": "US",
-      "weight": 13.8,
+      "weight": 13.7,
       "pnl_pct": -11.0
     },
     {
@@ -46,13 +46,13 @@
       "name": "에코스타",
       "mkt": "US",
       "weight": 11.9,
-      "pnl_pct": -7.7
+      "pnl_pct": -7.8
     },
     {
       "name": "워너 브로스 디스커버리",
       "mkt": "US",
       "weight": 1.5,
-      "pnl_pct": -2.3
+      "pnl_pct": -2.2
     }
   ],
   "history": [
@@ -110,7 +110,7 @@
     },
     {
       "date": "2026-06-23",
-      "ret_pct": -1.59
+      "ret_pct": -1.63
     }
   ]
 }
