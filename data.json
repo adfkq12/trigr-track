@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-24 00:32",
+  "updated_at": "2026-06-24 00:37",
   "inception": "2026-06-04",
   "days": 21,
-  "return_pct": -4.79,
+  "return_pct": -4.82,
   "n_holdings": 8,
   "cash_weight": 35.5,
   "holdings": [
@@ -16,7 +16,7 @@
       "name": "모더나",
       "mkt": "US",
       "weight": 14.3,
-      "pnl_pct": 23.6
+      "pnl_pct": 23.8
     },
     {
       "name": "할리버턴",
@@ -27,14 +27,14 @@
     {
       "name": "APA",
       "mkt": "US",
-      "weight": 13.8,
-      "pnl_pct": -6.4
+      "weight": 13.7,
+      "pnl_pct": -6.7
     },
     {
       "name": "슐럼버거",
       "mkt": "US",
       "weight": 13.7,
-      "pnl_pct": -1.6
+      "pnl_pct": -1.7
     },
     {
       "name": "에코스타",
@@ -114,7 +114,7 @@
     },
     {
       "date": "2026-06-24",
-      "ret_pct": -4.79
+      "ret_pct": -4.82
     }
   ]
 }
