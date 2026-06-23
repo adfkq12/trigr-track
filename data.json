@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-24 02:32",
+  "updated_at": "2026-06-24 02:37",
   "inception": "2026-06-04",
   "days": 21,
-  "return_pct": -4.42,
+  "return_pct": -4.47,
   "n_holdings": 8,
   "cash_weight": 22.4,
   "holdings": [
@@ -28,7 +28,7 @@
       "name": "APA",
       "mkt": "US",
       "weight": 13.8,
-      "pnl_pct": -6.0
+      "pnl_pct": -6.2
     },
     {
       "name": "슐럼버거",
@@ -40,7 +40,7 @@
       "name": "에코스타",
       "mkt": "US",
       "weight": 11.9,
-      "pnl_pct": -9.7
+      "pnl_pct": -9.8
     },
     {
       "name": "코리아써키트",
@@ -114,7 +114,7 @@
     },
     {
       "date": "2026-06-24",
-      "ret_pct": -4.42
+      "ret_pct": -4.47
     }
   ]
 }
