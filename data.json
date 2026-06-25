@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-26 03:22",
+  "updated_at": "2026-06-26 03:27",
   "inception": "2026-06-04",
   "days": 23,
-  "return_pct": -5.06,
+  "return_pct": -4.98,
   "n_holdings": 8,
   "cash_weight": 17.9,
   "holdings": [
@@ -10,13 +10,13 @@
       "name": "슐럼버거",
       "mkt": "US",
       "weight": 14.5,
-      "pnl_pct": -1.6
+      "pnl_pct": -1.7
     },
     {
       "name": "할리버턴",
       "mkt": "US",
       "weight": 14.2,
-      "pnl_pct": -10.2
+      "pnl_pct": -10.1
     },
     {
       "name": "APA",
@@ -34,7 +34,7 @@
       "name": "모더나",
       "mkt": "US",
       "weight": 12.1,
-      "pnl_pct": 18.0
+      "pnl_pct": 18.2
     },
     {
       "name": "코리아써키트",
@@ -46,13 +46,13 @@
       "name": "알버말",
       "mkt": "US",
       "weight": 7.2,
-      "pnl_pct": -1.7
+      "pnl_pct": -1.4
     },
     {
       "name": "워너 브로스 디스커버리",
       "mkt": "US",
       "weight": 1.4,
-      "pnl_pct": -0.8
+      "pnl_pct": -0.9
     }
   ],
   "history": [
@@ -122,7 +122,7 @@
     },
     {
       "date": "2026-06-26",
-      "ret_pct": -5.06
+      "ret_pct": -4.98
     }
   ]
 }
