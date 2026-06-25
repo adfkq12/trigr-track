@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-25 12:07",
+  "updated_at": "2026-06-25 12:12",
   "inception": "2026-06-04",
   "days": 22,
-  "return_pct": -7.08,
+  "return_pct": -7.05,
   "n_holdings": 8,
   "cash_weight": 4.5,
   "holdings": [
@@ -10,7 +10,7 @@
       "name": "대우건설",
       "mkt": "KR",
       "weight": 15.3,
-      "pnl_pct": -9.0
+      "pnl_pct": -8.9
     },
     {
       "name": "모더나",
@@ -46,7 +46,7 @@
       "name": "코리아써키트",
       "mkt": "KR",
       "weight": 10.8,
-      "pnl_pct": -18.7
+      "pnl_pct": -18.5
     },
     {
       "name": "워너 브로스 디스커버리",
@@ -118,7 +118,7 @@
     },
     {
       "date": "2026-06-25",
-      "ret_pct": -7.08
+      "ret_pct": -7.05
     }
   ]
 }
