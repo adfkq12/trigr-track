@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-06-25 15:37",
+  "updated_at": "2026-06-25 16:07",
   "inception": "2026-06-04",
   "days": 22,
   "return_pct": -6.96,
   "n_holdings": 8,
-  "cash_weight": 4.5,
+  "cash_weight": 17.8,
   "holdings": [
     {
       "name": "대우건설",
       "mkt": "KR",
-      "weight": 15.2,
+      "weight": 13.1,
       "pnl_pct": -9.1
     },
     {
       "name": "모더나",
       "mkt": "US",
-      "weight": 14.3,
+      "weight": 12.3,
       "pnl_pct": 20.4
     },
     {
       "name": "할리버턴",
       "mkt": "US",
-      "weight": 14.0,
+      "weight": 12.1,
       "pnl_pct": -13.4
     },
     {
       "name": "APA",
       "mkt": "US",
-      "weight": 13.8,
+      "weight": 11.9,
       "pnl_pct": -8.5
     },
     {
       "name": "슐럼버거",
       "mkt": "US",
-      "weight": 13.8,
+      "weight": 11.9,
       "pnl_pct": -3.4
     },
     {
       "name": "ECHOSTAR CORPORATION",
       "mkt": "US",
-      "weight": 11.8,
+      "weight": 10.2,
       "pnl_pct": -12.9
     },
     {
       "name": "코리아써키트",
       "mkt": "KR",
-      "weight": 10.9,
+      "weight": 9.4,
       "pnl_pct": -17.5
     },
     {
       "name": "워너 브로스 디스커버리",
       "mkt": "US",
-      "weight": 1.6,
+      "weight": 1.4,
       "pnl_pct": -0.2
     }
   ],
