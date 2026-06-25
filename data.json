@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25 11:22",
+  "updated_at": "2026-06-25 11:27",
   "inception": "2026-06-04",
   "days": 22,
   "return_pct": -6.96,
@@ -9,8 +9,8 @@
     {
       "name": "대우건설",
       "mkt": "KR",
-      "weight": 15.2,
-      "pnl_pct": -9.2
+      "weight": 15.3,
+      "pnl_pct": -8.6
     },
     {
       "name": "모더나",
@@ -45,8 +45,8 @@
     {
       "name": "코리아써키트",
       "mkt": "KR",
-      "weight": 10.9,
-      "pnl_pct": -17.5
+      "weight": 10.8,
+      "pnl_pct": -18.2
     },
     {
       "name": "워너 브로스 디스커버리",
