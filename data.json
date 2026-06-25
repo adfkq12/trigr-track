@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26 02:47",
+  "updated_at": "2026-06-26 02:52",
   "inception": "2026-06-04",
   "days": 23,
   "return_pct": -5.29,
@@ -22,7 +22,7 @@
       "name": "APA",
       "mkt": "US",
       "weight": 13.6,
-      "pnl_pct": -7.9
+      "pnl_pct": -7.8
     },
     {
       "name": "대우건설",
@@ -34,7 +34,7 @@
       "name": "모더나",
       "mkt": "US",
       "weight": 12.1,
-      "pnl_pct": 17.6
+      "pnl_pct": 17.5
     },
     {
       "name": "코리아써키트",
@@ -46,13 +46,13 @@
       "name": "알버말",
       "mkt": "US",
       "weight": 7.3,
-      "pnl_pct": -0.9
+      "pnl_pct": -1.1
     },
     {
       "name": "워너 브로스 디스커버리",
       "mkt": "US",
       "weight": 1.4,
-      "pnl_pct": -0.6
+      "pnl_pct": -0.7
     }
   ],
   "history": [
