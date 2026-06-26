@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27 03:22",
+  "updated_at": "2026-06-27 03:27",
   "inception": "2026-06-04",
   "days": 24,
   "return_pct": -1.2,
@@ -22,7 +22,7 @@
       "name": "모더나",
       "mkt": "US",
       "weight": 13.1,
-      "pnl_pct": 31.9
+      "pnl_pct": 32.1
     },
     {
       "name": "APA",
@@ -34,7 +34,7 @@
       "name": "알버말",
       "mkt": "US",
       "weight": 6.6,
-      "pnl_pct": -7.1
+      "pnl_pct": -7.2
     },
     {
       "name": "워너 브로스 디스커버리",
