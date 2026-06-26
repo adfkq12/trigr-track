@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-06-26 15:22",
+  "updated_at": "2026-06-26 15:32",
   "inception": "2026-06-04",
   "days": 23,
   "return_pct": -1.55,
   "n_holdings": 6,
-  "cash_weight": 17.9,
+  "cash_weight": 18.0,
   "holdings": [
     {
       "name": "슐럼버거",
       "mkt": "US",
-      "weight": 14.6,
+      "weight": 14.5,
       "pnl_pct": -1.2
     },
     {
