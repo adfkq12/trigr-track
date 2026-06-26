@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-27 05:02",
+  "updated_at": "2026-06-27 05:07",
   "inception": "2026-06-04",
   "days": 24,
-  "return_pct": -0.55,
+  "return_pct": -0.54,
   "n_holdings": 6,
   "cash_weight": 20.3,
   "holdings": [
@@ -16,7 +16,7 @@
       "name": "할리버턴",
       "mkt": "US",
       "weight": 13.5,
-      "pnl_pct": -11.3
+      "pnl_pct": -11.2
     },
     {
       "name": "모더나",
@@ -114,7 +114,7 @@
     },
     {
       "date": "2026-06-27",
-      "ret_pct": -0.55
+      "ret_pct": -0.54
     }
   ]
 }
