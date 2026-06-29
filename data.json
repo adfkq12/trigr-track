@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29 11:22",
+  "updated_at": "2026-06-29 11:37",
   "inception": "2026-06-04",
   "days": 26,
   "return_pct": -0.51,
@@ -33,7 +33,7 @@
     {
       "name": "알버말",
       "mkt": "US",
-      "weight": 7.9,
+      "weight": 8.0,
       "pnl_pct": -6.7
     },
     {
