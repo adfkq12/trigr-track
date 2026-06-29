@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-30 05:12",
+  "updated_at": "2026-06-30 05:17",
   "inception": "2026-06-04",
   "days": 27,
-  "return_pct": -0.45,
+  "return_pct": -0.43,
   "n_holdings": 6,
   "cash_weight": 25.7,
   "holdings": [
@@ -10,7 +10,7 @@
       "name": "모더나",
       "mkt": "US",
       "weight": 16.6,
-      "pnl_pct": 38.9
+      "pnl_pct": 39.0
     },
     {
       "name": "슐럼버거",
@@ -122,7 +122,7 @@
     },
     {
       "date": "2026-06-30",
-      "ret_pct": -0.45
+      "ret_pct": -0.43
     }
   ]
 }
