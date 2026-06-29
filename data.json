@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30 03:12",
+  "updated_at": "2026-06-30 03:17",
   "inception": "2026-06-04",
   "days": 27,
   "return_pct": -0.58,
@@ -10,31 +10,31 @@
       "name": "슐럼버거",
       "mkt": "US",
       "weight": 16.6,
-      "pnl_pct": -2.8
+      "pnl_pct": -2.9
     },
     {
       "name": "할리버턴",
       "mkt": "US",
       "weight": 16.3,
-      "pnl_pct": -11.0
+      "pnl_pct": -11.1
     },
     {
       "name": "모더나",
       "mkt": "US",
       "weight": 16.3,
-      "pnl_pct": 36.5
+      "pnl_pct": 36.2
     },
     {
       "name": "APA",
       "mkt": "US",
       "weight": 15.7,
-      "pnl_pct": -8.3
+      "pnl_pct": -8.1
     },
     {
       "name": "알버말",
       "mkt": "US",
       "weight": 7.7,
-      "pnl_pct": -9.9
+      "pnl_pct": -9.6
     },
     {
       "name": "워너 브로스 디스커버리",
