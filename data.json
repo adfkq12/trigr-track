@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-30 15:02",
+  "updated_at": "2026-06-30 15:07",
   "inception": "2026-06-04",
   "days": 27,
-  "return_pct": 0.96,
+  "return_pct": 0.97,
   "n_holdings": 7,
-  "cash_weight": 38.7,
+  "cash_weight": 38.6,
   "holdings": [
     {
       "name": "모더나",
@@ -34,7 +34,7 @@
       "name": "대덕전자",
       "mkt": "KR",
       "weight": 9.6,
-      "pnl_pct": 10.7
+      "pnl_pct": 10.8
     },
     {
       "name": "알버말",
@@ -128,7 +128,7 @@
     },
     {
       "date": "2026-06-30",
-      "ret_pct": 0.96
+      "ret_pct": 0.97
     }
   ]
 }
