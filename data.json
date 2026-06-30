@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01 05:12",
+  "updated_at": "2026-07-01 05:17",
   "inception": "2026-06-04",
   "days": 28,
   "return_pct": 1.69,
@@ -34,7 +34,7 @@
       "name": "ECHOSTAR CORPORATION",
       "mkt": "US",
       "weight": 9.9,
-      "pnl_pct": 2.6
+      "pnl_pct": 2.5
     },
     {
       "name": "대덕전자",
