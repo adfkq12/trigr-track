@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-30 13:42",
+  "updated_at": "2026-06-30 13:47",
   "inception": "2026-06-04",
   "days": 27,
-  "return_pct": 1.09,
+  "return_pct": 1.2,
   "n_holdings": 7,
   "cash_weight": 35.6,
   "holdings": [
@@ -27,14 +27,14 @@
     {
       "name": "APA",
       "mkt": "US",
-      "weight": 13.4,
+      "weight": 13.3,
       "pnl_pct": -8.5
     },
     {
       "name": "대덕전자",
       "mkt": "KR",
       "weight": 10.2,
-      "pnl_pct": 11.7
+      "pnl_pct": 12.6
     },
     {
       "name": "알버말",
@@ -128,7 +128,7 @@
     },
     {
       "date": "2026-06-30",
-      "ret_pct": 1.09
+      "ret_pct": 1.2
     }
   ]
 }
