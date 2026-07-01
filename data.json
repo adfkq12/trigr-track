@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-01 13:42",
+  "updated_at": "2026-07-01 13:47",
   "inception": "2026-06-04",
   "days": 28,
-  "return_pct": 1.92,
+  "return_pct": 1.94,
   "n_holdings": 9,
   "cash_weight": 38.9,
   "holdings": [
@@ -15,7 +15,7 @@
     {
       "name": "할리버턴",
       "mkt": "US",
-      "weight": 13.3,
+      "weight": 13.2,
       "pnl_pct": -11.9
     },
     {
@@ -34,7 +34,7 @@
       "name": "대덕전자",
       "mkt": "KR",
       "weight": 9.9,
-      "pnl_pct": 13.0
+      "pnl_pct": 13.1
     },
     {
       "name": "ECHOSTAR CORPORATION",
@@ -144,7 +144,7 @@
     },
     {
       "date": "2026-07-01",
-      "ret_pct": 1.92
+      "ret_pct": 1.94
     }
   ]
 }
