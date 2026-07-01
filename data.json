@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-07-01 09:07",
+  "updated_at": "2026-07-01 09:12",
   "inception": "2026-06-04",
   "days": 28,
-  "return_pct": 1.37,
+  "return_pct": 1.35,
   "n_holdings": 9,
   "cash_weight": 38.9,
   "holdings": [
     {
       "name": "모더나",
       "mkt": "US",
-      "weight": 13.7,
+      "weight": 13.6,
       "pnl_pct": 39.6
     },
     {
@@ -40,7 +40,7 @@
       "name": "대덕전자",
       "mkt": "KR",
       "weight": 9.4,
-      "pnl_pct": 7.5
+      "pnl_pct": 7.3
     },
     {
       "name": "뉴몬트",
@@ -144,7 +144,7 @@
     },
     {
       "date": "2026-07-01",
-      "ret_pct": 1.37
+      "ret_pct": 1.35
     }
   ]
 }
