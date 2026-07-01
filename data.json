@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-01 09:47",
+  "updated_at": "2026-07-01 09:52",
   "inception": "2026-06-04",
   "days": 28,
-  "return_pct": 2.05,
+  "return_pct": 2.08,
   "n_holdings": 9,
   "cash_weight": 38.9,
   "holdings": [
@@ -34,7 +34,7 @@
       "name": "대덕전자",
       "mkt": "KR",
       "weight": 10.0,
-      "pnl_pct": 14.2
+      "pnl_pct": 14.6
     },
     {
       "name": "ECHOSTAR CORPORATION",
@@ -144,7 +144,7 @@
     },
     {
       "date": "2026-07-01",
-      "ret_pct": 2.05
+      "ret_pct": 2.08
     }
   ]
 }
