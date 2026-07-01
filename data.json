@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-07-02 00:17",
+  "updated_at": "2026-07-02 00:22",
   "inception": "2026-06-04",
   "days": 29,
-  "return_pct": 2.35,
+  "return_pct": 2.43,
   "n_holdings": 9,
-  "cash_weight": 40.9,
+  "cash_weight": 40.8,
   "holdings": [
     {
       "name": "모더나",
       "mkt": "US",
       "weight": 13.6,
-      "pnl_pct": 44.8
+      "pnl_pct": 45.1
     },
     {
       "name": "할리버턴",
@@ -22,19 +22,19 @@
       "name": "APA",
       "mkt": "US",
       "weight": 12.0,
-      "pnl_pct": -10.7
+      "pnl_pct": -10.8
     },
     {
       "name": "아처 대니얼스 미들랜드",
       "mkt": "US",
       "weight": 10.7,
-      "pnl_pct": -1.5
+      "pnl_pct": -1.4
     },
     {
       "name": "ECHOSTAR CORPORATION",
       "mkt": "US",
       "weight": 9.5,
-      "pnl_pct": 2.1
+      "pnl_pct": 2.5
     },
     {
       "name": "대덕전자",
@@ -46,7 +46,7 @@
       "name": "뉴몬트",
       "mkt": "US",
       "weight": 8.9,
-      "pnl_pct": 2.7
+      "pnl_pct": 2.8
     },
     {
       "name": "알버말",
@@ -148,7 +148,7 @@
     },
     {
       "date": "2026-07-02",
-      "ret_pct": 2.35
+      "ret_pct": 2.43
     }
   ]
 }
