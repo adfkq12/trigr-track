@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-01 09:12",
+  "updated_at": "2026-07-01 09:17",
   "inception": "2026-06-04",
   "days": 28,
-  "return_pct": 1.35,
+  "return_pct": 1.53,
   "n_holdings": 9,
   "cash_weight": 38.9,
   "holdings": [
@@ -39,8 +39,8 @@
     {
       "name": "대덕전자",
       "mkt": "KR",
-      "weight": 9.4,
-      "pnl_pct": 7.3
+      "weight": 9.5,
+      "pnl_pct": 9.1
     },
     {
       "name": "뉴몬트",
@@ -144,7 +144,7 @@
     },
     {
       "date": "2026-07-01",
-      "ret_pct": 1.35
+      "ret_pct": 1.53
     }
   ]
 }
