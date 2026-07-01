@@ -1,40 +1,40 @@
 {
-  "updated_at": "2026-07-01 23:17",
+  "updated_at": "2026-07-01 23:22",
   "inception": "2026-06-04",
   "days": 28,
-  "return_pct": 2.41,
+  "return_pct": 2.45,
   "n_holdings": 9,
   "cash_weight": 40.8,
   "holdings": [
     {
       "name": "모더나",
       "mkt": "US",
-      "weight": 13.8,
-      "pnl_pct": 46.5
+      "weight": 13.6,
+      "pnl_pct": 45.2
     },
     {
       "name": "할리버턴",
       "mkt": "US",
       "weight": 12.6,
-      "pnl_pct": -12.6
+      "pnl_pct": -12.5
     },
     {
       "name": "APA",
       "mkt": "US",
       "weight": 12.0,
-      "pnl_pct": -10.9
+      "pnl_pct": -10.7
     },
     {
       "name": "아처 대니얼스 미들랜드",
       "mkt": "US",
       "weight": 10.7,
-      "pnl_pct": -1.7
+      "pnl_pct": -1.5
     },
     {
       "name": "ECHOSTAR CORPORATION",
       "mkt": "US",
-      "weight": 9.4,
-      "pnl_pct": 1.6
+      "weight": 9.5,
+      "pnl_pct": 2.1
     },
     {
       "name": "대덕전자",
@@ -45,14 +45,14 @@
     {
       "name": "뉴몬트",
       "mkt": "US",
-      "weight": 8.9,
-      "pnl_pct": 3.4
+      "weight": 9.0,
+      "pnl_pct": 3.9
     },
     {
       "name": "알버말",
       "mkt": "US",
       "weight": 6.4,
-      "pnl_pct": -4.0
+      "pnl_pct": -3.8
     },
     {
       "name": "워너 브로스 디스커버리",
@@ -144,7 +144,7 @@
     },
     {
       "date": "2026-07-01",
-      "ret_pct": 2.41
+      "ret_pct": 2.45
     }
   ]
 }
