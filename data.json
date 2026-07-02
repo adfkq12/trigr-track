@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03 03:37",
+  "updated_at": "2026-07-03 03:42",
   "inception": "2026-06-04",
   "days": 30,
   "return_pct": 0.07,
@@ -10,7 +10,7 @@
       "name": "할리버턴",
       "mkt": "US",
       "weight": 14.4,
-      "pnl_pct": -14.9
+      "pnl_pct": -14.8
     },
     {
       "name": "APA",
@@ -21,8 +21,8 @@
     {
       "name": "모더나",
       "mkt": "US",
-      "weight": 13.0,
-      "pnl_pct": 57.2
+      "weight": 12.9,
+      "pnl_pct": 57.0
     },
     {
       "name": "아처 대니얼스 미들랜드",
@@ -34,7 +34,7 @@
       "name": "ECHOSTAR CORPORATION",
       "mkt": "US",
       "weight": 11.1,
-      "pnl_pct": 2.2
+      "pnl_pct": 2.3
     },
     {
       "name": "뉴몬트",
