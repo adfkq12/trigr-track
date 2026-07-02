@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-03 05:02",
+  "updated_at": "2026-07-03 05:07",
   "inception": "2026-06-04",
   "days": 30,
-  "return_pct": 0.54,
+  "return_pct": 0.53,
   "n_holdings": 9,
   "cash_weight": 1.9,
   "holdings": [
@@ -22,7 +22,7 @@
       "name": "모더나",
       "mkt": "US",
       "weight": 13.1,
-      "pnl_pct": 59.1
+      "pnl_pct": 59.0
     },
     {
       "name": "아처 대니얼스 미들랜드",
@@ -152,7 +152,7 @@
     },
     {
       "date": "2026-07-03",
-      "ret_pct": 0.54
+      "ret_pct": 0.53
     }
   ]
 }
