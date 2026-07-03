@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-07-03 09:22",
+  "updated_at": "2026-07-03 09:27",
   "inception": "2026-06-04",
   "days": 30,
-  "return_pct": 0.19,
+  "return_pct": 0.02,
   "n_holdings": 9,
   "cash_weight": 1.9,
   "holdings": [
     {
       "name": "할리버턴",
       "mkt": "US",
-      "weight": 14.4,
+      "weight": 14.5,
       "pnl_pct": -14.5
     },
     {
@@ -45,8 +45,8 @@
     {
       "name": "대덕전자",
       "mkt": "KR",
-      "weight": 9.0,
-      "pnl_pct": -8.9
+      "weight": 8.8,
+      "pnl_pct": -10.5
     },
     {
       "name": "알버말",
@@ -152,7 +152,7 @@
     },
     {
       "date": "2026-07-03",
-      "ret_pct": 0.19
+      "ret_pct": 0.02
     }
   ]
 }
