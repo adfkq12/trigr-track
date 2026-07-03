@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-03 09:27",
+  "updated_at": "2026-07-03 09:32",
   "inception": "2026-06-04",
   "days": 30,
-  "return_pct": 0.02,
+  "return_pct": -0.01,
   "n_holdings": 9,
   "cash_weight": 1.9,
   "holdings": [
@@ -39,14 +39,14 @@
     {
       "name": "뉴몬트",
       "mkt": "US",
-      "weight": 10.6,
+      "weight": 10.7,
       "pnl_pct": 5.2
     },
     {
       "name": "대덕전자",
       "mkt": "KR",
       "weight": 8.8,
-      "pnl_pct": -10.5
+      "pnl_pct": -10.8
     },
     {
       "name": "알버말",
@@ -152,7 +152,7 @@
     },
     {
       "date": "2026-07-03",
-      "ret_pct": 0.02
+      "ret_pct": -0.01
     }
   ]
 }
