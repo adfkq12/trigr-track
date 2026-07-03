@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-03 11:47",
+  "updated_at": "2026-07-03 11:52",
   "inception": "2026-06-04",
   "days": 30,
-  "return_pct": 0.15,
+  "return_pct": 0.19,
   "n_holdings": 9,
   "cash_weight": 1.9,
   "holdings": [
@@ -46,7 +46,7 @@
       "name": "대덕전자",
       "mkt": "KR",
       "weight": 9.0,
-      "pnl_pct": -9.3
+      "pnl_pct": -8.9
     },
     {
       "name": "알버말",
@@ -57,7 +57,7 @@
     {
       "name": "워너 브로스 디스커버리",
       "mkt": "US",
-      "weight": 1.5,
+      "weight": 1.4,
       "pnl_pct": -2.8
     }
   ],
@@ -152,7 +152,7 @@
     },
     {
       "date": "2026-07-03",
-      "ret_pct": 0.15
+      "ret_pct": 0.19
     }
   ]
 }
