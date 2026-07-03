@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-03 14:02",
+  "updated_at": "2026-07-03 14:07",
   "inception": "2026-06-04",
   "days": 30,
-  "return_pct": 0.33,
+  "return_pct": 0.34,
   "n_holdings": 9,
   "cash_weight": 1.9,
   "holdings": [
@@ -46,7 +46,7 @@
       "name": "대덕전자",
       "mkt": "KR",
       "weight": 9.1,
-      "pnl_pct": -7.6
+      "pnl_pct": -7.5
     },
     {
       "name": "알버말",
@@ -152,7 +152,7 @@
     },
     {
       "date": "2026-07-03",
-      "ret_pct": 0.33
+      "ret_pct": 0.34
     }
   ]
 }
