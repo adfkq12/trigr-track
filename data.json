@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07 02:27",
+  "updated_at": "2026-07-07 02:32",
   "inception": "2026-06-04",
   "days": 34,
   "return_pct": 0.96,
@@ -9,8 +9,8 @@
     {
       "name": "알버말",
       "mkt": "US",
-      "weight": 10.0,
-      "pnl_pct": -3.8
+      "weight": 9.9,
+      "pnl_pct": -3.9
     },
     {
       "name": "할리버턴",
@@ -22,25 +22,25 @@
       "name": "APA",
       "mkt": "US",
       "weight": 9.7,
-      "pnl_pct": -9.4
+      "pnl_pct": -9.3
     },
     {
       "name": "호스트 호텔스 앤드 리조츠",
       "mkt": "US",
       "weight": 9.5,
-      "pnl_pct": 0.0
+      "pnl_pct": -0.0
+    },
+    {
+      "name": "모더나",
+      "mkt": "US",
+      "weight": 9.2,
+      "pnl_pct": 64.6
     },
     {
       "name": "코리아써키트",
       "mkt": "KR",
       "weight": 9.1,
       "pnl_pct": 4.3
-    },
-    {
-      "name": "모더나",
-      "mkt": "US",
-      "weight": 9.1,
-      "pnl_pct": 64.2
     },
     {
       "name": "대덕전자",
