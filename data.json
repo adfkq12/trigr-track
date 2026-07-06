@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-07 03:42",
+  "updated_at": "2026-07-07 03:47",
   "inception": "2026-06-04",
   "days": 34,
-  "return_pct": 0.46,
+  "return_pct": 0.51,
   "n_holdings": 9,
   "cash_weight": 18.6,
   "holdings": [
@@ -22,7 +22,7 @@
       "name": "APA",
       "mkt": "US",
       "weight": 9.7,
-      "pnl_pct": -9.4
+      "pnl_pct": -9.5
     },
     {
       "name": "호스트 호텔스 앤드 리조츠",
@@ -52,7 +52,7 @@
       "name": "ECHOSTAR CORPORATION",
       "mkt": "US",
       "weight": 7.3,
-      "pnl_pct": -0.9
+      "pnl_pct": -0.5
     },
     {
       "name": "워너 브로스 디스커버리",
@@ -164,7 +164,7 @@
     },
     {
       "date": "2026-07-07",
-      "ret_pct": 0.46
+      "ret_pct": 0.51
     }
   ]
 }
