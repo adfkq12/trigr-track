@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-07-06 22:41",
+  "updated_at": "2026-07-06 22:42",
   "inception": "2026-06-04",
   "days": 33,
-  "return_pct": 1.03,
+  "return_pct": 0.92,
   "n_holdings": 9,
   "cash_weight": 18.5,
   "holdings": [
     {
       "name": "알버말",
       "mkt": "US",
-      "weight": 10.1,
-      "pnl_pct": -2.8
+      "weight": 10.0,
+      "pnl_pct": -3.0
     },
     {
       "name": "할리버턴",
@@ -160,7 +160,7 @@
     },
     {
       "date": "2026-07-06",
-      "ret_pct": 1.03
+      "ret_pct": 0.92
     }
   ]
 }
