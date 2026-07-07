@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07 12:27",
+  "updated_at": "2026-07-07 12:32",
   "inception": "2026-06-04",
   "days": 34,
   "return_pct": 0.39,
@@ -40,7 +40,7 @@
       "name": "코리아써키트",
       "mkt": "KR",
       "weight": 10.5,
-      "pnl_pct": -5.1
+      "pnl_pct": -4.9
     },
     {
       "name": "대덕전자",
