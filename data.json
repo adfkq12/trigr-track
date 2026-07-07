@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-08 00:32",
+  "updated_at": "2026-07-08 00:37",
   "inception": "2026-06-04",
   "days": 35,
-  "return_pct": 0.08,
+  "return_pct": 0.02,
   "n_holdings": 9,
   "cash_weight": 23.6,
   "holdings": [
@@ -10,25 +10,25 @@
       "name": "할리버턴",
       "mkt": "US",
       "weight": 12.5,
-      "pnl_pct": -13.0
+      "pnl_pct": -13.1
     },
     {
       "name": "APA",
       "mkt": "US",
       "weight": 12.4,
-      "pnl_pct": -8.1
+      "pnl_pct": -8.2
     },
     {
       "name": "호스트 호텔스 앤드 리조츠",
       "mkt": "US",
       "weight": 12.1,
-      "pnl_pct": 0.5
+      "pnl_pct": 0.3
     },
     {
       "name": "알버말",
       "mkt": "US",
       "weight": 11.9,
-      "pnl_pct": -8.6
+      "pnl_pct": -8.7
     },
     {
       "name": "모더나",
@@ -52,7 +52,7 @@
       "name": "ECHOSTAR CORPORATION",
       "mkt": "US",
       "weight": 9.3,
-      "pnl_pct": 0.8
+      "pnl_pct": 1.0
     },
     {
       "name": "워너 브로스 디스커버리",
@@ -168,7 +168,7 @@
     },
     {
       "date": "2026-07-08",
-      "ret_pct": 0.08
+      "ret_pct": 0.02
     }
   ]
 }
