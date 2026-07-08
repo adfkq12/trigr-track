@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08 15:17",
+  "updated_at": "2026-07-08 15:22",
   "inception": "2026-06-04",
   "days": 35,
   "return_pct": 0.61,
@@ -21,8 +21,8 @@
     {
       "name": "코리아써키트",
       "mkt": "KR",
-      "weight": 12.5,
-      "pnl_pct": -9.2
+      "weight": 12.6,
+      "pnl_pct": -8.7
     },
     {
       "name": "알버말",
