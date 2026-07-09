@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09 22:47",
+  "updated_at": "2026-07-09 22:52",
   "inception": "2026-06-04",
   "days": 36,
   "return_pct": -0.32,
@@ -22,13 +22,13 @@
       "name": "APA",
       "mkt": "US",
       "weight": 13.1,
-      "pnl_pct": -5.0
+      "pnl_pct": -5.2
     },
     {
       "name": "알버말",
       "mkt": "US",
       "weight": 12.4,
-      "pnl_pct": -7.8
+      "pnl_pct": -7.9
     },
     {
       "name": "호스트 호텔스 앤드 리조츠",
@@ -40,7 +40,7 @@
       "name": "모더나",
       "mkt": "US",
       "weight": 10.8,
-      "pnl_pct": 49.9
+      "pnl_pct": 49.7
     },
     {
       "name": "대덕전자",
@@ -51,7 +51,7 @@
     {
       "name": "ECHOSTAR CORPORATION",
       "mkt": "US",
-      "weight": 9.2,
+      "weight": 9.3,
       "pnl_pct": -2.8
     },
     {
