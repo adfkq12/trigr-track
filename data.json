@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09 13:42",
+  "updated_at": "2026-07-09 13:47",
   "inception": "2026-06-04",
   "days": 36,
   "return_pct": 0.01,
@@ -7,9 +7,15 @@
   "cash_weight": 5.9,
   "holdings": [
     {
+      "name": "코리아써키트",
+      "mkt": "KR",
+      "weight": 13.4,
+      "pnl_pct": -1.9
+    },
+    {
       "name": "APA",
       "mkt": "US",
-      "weight": 13.5,
+      "weight": 13.4,
       "pnl_pct": -2.7
     },
     {
@@ -17,12 +23,6 @@
       "mkt": "US",
       "weight": 13.4,
       "pnl_pct": -9.3
-    },
-    {
-      "name": "코리아써키트",
-      "mkt": "KR",
-      "weight": 13.2,
-      "pnl_pct": -3.0
     },
     {
       "name": "알버말",
