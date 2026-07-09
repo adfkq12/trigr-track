@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-09 23:27",
+  "updated_at": "2026-07-09 23:32",
   "inception": "2026-06-04",
   "days": 36,
-  "return_pct": -0.36,
+  "return_pct": -0.47,
   "n_holdings": 9,
   "cash_weight": 5.9,
   "holdings": [
@@ -16,19 +16,19 @@
       "name": "할리버턴",
       "mkt": "US",
       "weight": 13.2,
-      "pnl_pct": -10.8
+      "pnl_pct": -10.9
     },
     {
       "name": "APA",
       "mkt": "US",
       "weight": 13.0,
-      "pnl_pct": -6.0
+      "pnl_pct": -6.1
     },
     {
       "name": "알버말",
       "mkt": "US",
-      "weight": 12.3,
-      "pnl_pct": -8.4
+      "weight": 12.2,
+      "pnl_pct": -9.0
     },
     {
       "name": "호스트 호텔스 앤드 리조츠",
@@ -40,7 +40,7 @@
       "name": "모더나",
       "mkt": "US",
       "weight": 11.0,
-      "pnl_pct": 51.6
+      "pnl_pct": 52.1
     },
     {
       "name": "대덕전자",
@@ -172,7 +172,7 @@
     },
     {
       "date": "2026-07-09",
-      "ret_pct": -0.36
+      "ret_pct": -0.47
     }
   ]
 }
