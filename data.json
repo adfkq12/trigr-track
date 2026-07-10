@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10 15:52",
+  "updated_at": "2026-07-10 15:57",
   "inception": "2026-06-04",
   "days": 37,
   "return_pct": -0.4,
@@ -45,7 +45,7 @@
     {
       "name": "모더나",
       "mkt": "US",
-      "weight": 10.8,
+      "weight": 10.9,
       "pnl_pct": 52.6
     },
     {
