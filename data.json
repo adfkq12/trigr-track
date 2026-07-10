@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-11 05:02",
+  "updated_at": "2026-07-11 05:12",
   "inception": "2026-06-04",
   "days": 38,
-  "return_pct": -2.4,
+  "return_pct": -2.38,
   "n_holdings": 9,
   "cash_weight": 3.7,
   "holdings": [
@@ -28,7 +28,7 @@
       "name": "호스트 호텔스 앤드 리조츠",
       "mkt": "US",
       "weight": 12.2,
-      "pnl_pct": -1.1
+      "pnl_pct": -1.0
     },
     {
       "name": "알버말",
@@ -180,7 +180,7 @@
     },
     {
       "date": "2026-07-11",
-      "ret_pct": -2.4
+      "ret_pct": -2.38
     }
   ]
 }
