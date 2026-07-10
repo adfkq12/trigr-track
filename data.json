@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10 14:47",
+  "updated_at": "2026-07-10 14:52",
   "inception": "2026-06-04",
   "days": 37,
   "return_pct": -0.4,
@@ -9,8 +9,8 @@
     {
       "name": "코리아써키트",
       "mkt": "KR",
-      "weight": 13.9,
-      "pnl_pct": 4.1
+      "weight": 14.0,
+      "pnl_pct": 4.5
     },
     {
       "name": "할리버턴",
@@ -45,7 +45,7 @@
     {
       "name": "모더나",
       "mkt": "US",
-      "weight": 10.9,
+      "weight": 10.8,
       "pnl_pct": 52.6
     },
     {
