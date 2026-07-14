@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-15 01:47",
+  "updated_at": "2026-07-15 01:52",
   "inception": "2026-06-04",
   "days": 42,
-  "return_pct": -1.28,
+  "return_pct": -1.2,
   "n_holdings": 9,
   "cash_weight": 16.1,
   "holdings": [
@@ -10,7 +10,7 @@
       "name": "ECHOSTAR CORPORATION",
       "mkt": "US",
       "weight": 10.2,
-      "pnl_pct": -2.0
+      "pnl_pct": -1.9
     },
     {
       "name": "인터랙티브 브로커스 그룹",
@@ -27,7 +27,7 @@
     {
       "name": "코리아써키트",
       "mkt": "KR",
-      "weight": 9.8,
+      "weight": 9.7,
       "pnl_pct": -4.7
     },
     {
@@ -40,12 +40,12 @@
       "name": "모더나",
       "mkt": "US",
       "weight": 9.6,
-      "pnl_pct": 23.2
+      "pnl_pct": 23.8
     },
     {
       "name": "알버말",
       "mkt": "US",
-      "weight": 9.2,
+      "weight": 9.1,
       "pnl_pct": -8.1
     },
     {
@@ -192,7 +192,7 @@
     },
     {
       "date": "2026-07-15",
-      "ret_pct": -1.28
+      "ret_pct": -1.2
     }
   ]
 }
