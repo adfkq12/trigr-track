@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14 05:37",
+  "updated_at": "2026-07-14 09:02",
   "inception": "2026-06-04",
   "days": 41,
   "return_pct": -2.04,
@@ -10,7 +10,7 @@
       "name": "코리아써키트",
       "mkt": "KR",
       "weight": 13.4,
-      "pnl_pct": -2.0
+      "pnl_pct": -1.8
     },
     {
       "name": "할리버턴",
