@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-15 02:57",
+  "updated_at": "2026-07-15 03:02",
   "inception": "2026-06-04",
   "days": 42,
-  "return_pct": -1.23,
+  "return_pct": -1.27,
   "n_holdings": 9,
   "cash_weight": 16.1,
   "holdings": [
@@ -10,13 +10,13 @@
       "name": "ECHOSTAR CORPORATION",
       "mkt": "US",
       "weight": 10.2,
-      "pnl_pct": -2.3
+      "pnl_pct": -2.5
     },
     {
       "name": "인터랙티브 브로커스 그룹",
       "mkt": "US",
       "weight": 10.2,
-      "pnl_pct": -0.2
+      "pnl_pct": -0.3
     },
     {
       "name": "할리버턴",
@@ -34,7 +34,7 @@
       "name": "APA",
       "mkt": "US",
       "weight": 9.7,
-      "pnl_pct": -5.7
+      "pnl_pct": -5.5
     },
     {
       "name": "모더나",
@@ -192,7 +192,7 @@
     },
     {
       "date": "2026-07-15",
-      "ret_pct": -1.23
+      "ret_pct": -1.27
     }
   ]
 }
