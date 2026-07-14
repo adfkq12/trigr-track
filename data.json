@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-15 03:37",
+  "updated_at": "2026-07-15 03:42",
   "inception": "2026-06-04",
   "days": 42,
-  "return_pct": -1.2,
+  "return_pct": -1.21,
   "n_holdings": 9,
   "cash_weight": 16.1,
   "holdings": [
@@ -22,7 +22,7 @@
       "name": "할리버턴",
       "mkt": "US",
       "weight": 10.0,
-      "pnl_pct": -8.6
+      "pnl_pct": -8.7
     },
     {
       "name": "코리아써키트",
@@ -34,13 +34,13 @@
       "name": "APA",
       "mkt": "US",
       "weight": 9.7,
-      "pnl_pct": -5.3
+      "pnl_pct": -5.1
     },
     {
       "name": "모더나",
       "mkt": "US",
       "weight": 9.6,
-      "pnl_pct": 23.8
+      "pnl_pct": 23.5
     },
     {
       "name": "알버말",
@@ -192,7 +192,7 @@
     },
     {
       "date": "2026-07-15",
-      "ret_pct": -1.2
+      "ret_pct": -1.21
     }
   ]
 }
