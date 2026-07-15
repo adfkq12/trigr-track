@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-07-15 12:17",
+  "updated_at": "2026-07-15 12:22",
   "inception": "2026-06-04",
   "days": 42,
   "return_pct": -0.88,
   "n_holdings": 9,
-  "cash_weight": 15.6,
+  "cash_weight": 15.5,
   "holdings": [
     {
       "name": "코리아써키트",
       "mkt": "KR",
       "weight": 10.8,
-      "pnl_pct": 9.0
+      "pnl_pct": 9.4
     },
     {
       "name": "인터랙티브 브로커스 그룹",
