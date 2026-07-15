@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-16 02:12",
+  "updated_at": "2026-07-16 02:17",
   "inception": "2026-06-04",
   "days": 43,
-  "return_pct": -2.15,
+  "return_pct": -2.07,
   "n_holdings": 9,
   "cash_weight": 17.9,
   "holdings": [
@@ -13,22 +13,22 @@
       "pnl_pct": 8.6
     },
     {
-      "name": "대덕전자",
-      "mkt": "KR",
-      "weight": 11.5,
-      "pnl_pct": 7.8
-    },
-    {
       "name": "인터랙티브 브로커스 그룹",
       "mkt": "US",
       "weight": 11.5,
       "pnl_pct": 1.4
     },
     {
+      "name": "대덕전자",
+      "mkt": "KR",
+      "weight": 11.4,
+      "pnl_pct": 7.8
+    },
+    {
       "name": "ECHOSTAR CORPORATION",
       "mkt": "US",
-      "weight": 11.1,
-      "pnl_pct": -3.9
+      "weight": 11.2,
+      "pnl_pct": -3.5
     },
     {
       "name": "할리버턴",
@@ -52,7 +52,7 @@
       "name": "알버말",
       "mkt": "US",
       "weight": 9.8,
-      "pnl_pct": -11.4
+      "pnl_pct": -11.3
     },
     {
       "name": "워너 브로스 디스커버리",
@@ -196,7 +196,7 @@
     },
     {
       "date": "2026-07-16",
-      "ret_pct": -2.15
+      "ret_pct": -2.07
     }
   ]
 }
