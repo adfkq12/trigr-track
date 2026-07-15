@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-16 05:12",
+  "updated_at": "2026-07-16 05:32",
   "inception": "2026-06-04",
   "days": 43,
-  "return_pct": -0.69,
+  "return_pct": -0.68,
   "n_holdings": 9,
   "cash_weight": 17.7,
   "holdings": [
@@ -16,7 +16,7 @@
       "name": "인터랙티브 브로커스 그룹",
       "mkt": "US",
       "weight": 11.5,
-      "pnl_pct": 2.1
+      "pnl_pct": 2.2
     },
     {
       "name": "ECHOSTAR CORPORATION",
@@ -196,7 +196,7 @@
     },
     {
       "date": "2026-07-16",
-      "ret_pct": -0.69
+      "ret_pct": -0.68
     }
   ]
 }
