@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16 12:25",
+  "updated_at": "2026-07-16 12:27",
   "inception": "2026-06-04",
   "days": 43,
   "return_pct": -0.68,
@@ -28,7 +28,7 @@
       "name": "대덕전자",
       "mkt": "KR",
       "weight": 11.2,
-      "pnl_pct": 4.9
+      "pnl_pct": 4.5
     },
     {
       "name": "할리버턴",
