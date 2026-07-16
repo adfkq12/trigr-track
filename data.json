@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-17 02:42",
+  "updated_at": "2026-07-17 02:47",
   "inception": "2026-06-04",
   "days": 44,
-  "return_pct": -4.33,
+  "return_pct": -4.3,
   "n_holdings": 9,
   "cash_weight": 8.0,
   "holdings": [
@@ -28,7 +28,7 @@
       "name": "ECHOSTAR CORPORATION",
       "mkt": "US",
       "weight": 11.6,
-      "pnl_pct": -5.6
+      "pnl_pct": -5.9
     },
     {
       "name": "인터랙티브 브로커스 그룹",
@@ -40,13 +40,13 @@
       "name": "APA",
       "mkt": "US",
       "weight": 11.5,
-      "pnl_pct": -4.8
+      "pnl_pct": -4.6
     },
     {
       "name": "모더나",
       "mkt": "US",
-      "weight": 10.7,
-      "pnl_pct": 17.3
+      "weight": 10.8,
+      "pnl_pct": 17.9
     },
     {
       "name": "알버말",
@@ -58,7 +58,7 @@
       "name": "워너 브로스 디스커버리",
       "mkt": "US",
       "weight": 1.1,
-      "pnl_pct": -1.0
+      "pnl_pct": -0.9
     }
   ],
   "history": [
@@ -200,7 +200,7 @@
     },
     {
       "date": "2026-07-17",
-      "ret_pct": -4.33
+      "ret_pct": -4.3
     }
   ]
 }
