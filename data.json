@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18 02:42",
+  "updated_at": "2026-07-18 02:47",
   "inception": "2026-06-04",
   "days": 45,
   "return_pct": -3.91,
@@ -40,19 +40,19 @@
       "name": "인터랙티브 브로커스 그룹",
       "mkt": "US",
       "weight": 11.5,
-      "pnl_pct": -3.8
+      "pnl_pct": -3.9
     },
     {
       "name": "모더나",
       "mkt": "US",
       "weight": 10.5,
-      "pnl_pct": 14.9
+      "pnl_pct": 14.8
     },
     {
       "name": "알버말",
       "mkt": "US",
       "weight": 10.2,
-      "pnl_pct": -13.2
+      "pnl_pct": -13.1
     },
     {
       "name": "워너 브로스 디스커버리",
