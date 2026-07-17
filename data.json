@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-18 03:42",
+  "updated_at": "2026-07-18 03:47",
   "inception": "2026-06-04",
   "days": 45,
-  "return_pct": -4.43,
+  "return_pct": -4.35,
   "n_holdings": 9,
   "cash_weight": 8.0,
   "holdings": [
@@ -52,7 +52,7 @@
       "name": "알버말",
       "mkt": "US",
       "weight": 10.2,
-      "pnl_pct": -13.7
+      "pnl_pct": -13.4
     },
     {
       "name": "워너 브로스 디스커버리",
@@ -204,7 +204,7 @@
     },
     {
       "date": "2026-07-18",
-      "ret_pct": -4.43
+      "ret_pct": -4.35
     }
   ]
 }
