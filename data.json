@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-18 02:12",
+  "updated_at": "2026-07-18 02:17",
   "inception": "2026-06-04",
   "days": 45,
-  "return_pct": -3.73,
+  "return_pct": -3.79,
   "n_holdings": 9,
   "cash_weight": 8.0,
   "holdings": [
@@ -34,19 +34,19 @@
       "name": "APA",
       "mkt": "US",
       "weight": 11.6,
-      "pnl_pct": -3.8
+      "pnl_pct": -3.7
     },
     {
       "name": "인터랙티브 브로커스 그룹",
       "mkt": "US",
       "weight": 11.5,
-      "pnl_pct": -3.6
+      "pnl_pct": -3.7
     },
     {
       "name": "모더나",
       "mkt": "US",
-      "weight": 10.6,
-      "pnl_pct": 16.1
+      "weight": 10.5,
+      "pnl_pct": 15.5
     },
     {
       "name": "알버말",
@@ -58,7 +58,7 @@
       "name": "워너 브로스 디스커버리",
       "mkt": "US",
       "weight": 1.1,
-      "pnl_pct": -0.0
+      "pnl_pct": -0.4
     }
   ],
   "history": [
@@ -204,7 +204,7 @@
     },
     {
       "date": "2026-07-18",
-      "ret_pct": -3.73
+      "ret_pct": -3.79
     }
   ]
 }
