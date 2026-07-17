@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-18 04:42",
+  "updated_at": "2026-07-18 04:47",
   "inception": "2026-06-04",
   "days": 45,
-  "return_pct": -4.53,
+  "return_pct": -4.48,
   "n_holdings": 9,
   "cash_weight": 8.0,
   "holdings": [
@@ -39,8 +39,8 @@
     {
       "name": "인터랙티브 브로커스 그룹",
       "mkt": "US",
-      "weight": 11.4,
-      "pnl_pct": -5.0
+      "weight": 11.5,
+      "pnl_pct": -4.9
     },
     {
       "name": "모더나",
@@ -204,7 +204,7 @@
     },
     {
       "date": "2026-07-18",
-      "ret_pct": -4.53
+      "ret_pct": -4.48
     }
   ]
 }
