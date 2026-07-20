@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20 22:41",
+  "updated_at": "2026-07-20 22:42",
   "inception": "2026-06-04",
   "days": 47,
   "return_pct": -1.32,
@@ -34,25 +34,25 @@
       "name": "ECHOSTAR CORPORATION",
       "mkt": "US",
       "weight": 11.8,
-      "pnl_pct": -4.1
+      "pnl_pct": -4.2
     },
     {
       "name": "APA",
       "mkt": "US",
       "weight": 11.6,
-      "pnl_pct": -2.3
+      "pnl_pct": -2.4
     },
     {
       "name": "제네락 홀딩스",
       "mkt": "US",
       "weight": 11.2,
-      "pnl_pct": -0.2
+      "pnl_pct": 0.0
     },
     {
       "name": "모더나",
       "mkt": "US",
       "weight": 11.2,
-      "pnl_pct": 7.0
+      "pnl_pct": 6.9
     },
     {
       "name": "워너 브로스 디스커버리",
