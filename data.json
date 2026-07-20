@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-21 05:17",
+  "updated_at": "2026-07-21 05:22",
   "inception": "2026-06-04",
   "days": 48,
   "return_pct": -2.65,
   "n_holdings": 9,
-  "cash_weight": 45.9,
+  "cash_weight": 45.8,
   "holdings": [
     {
       "name": "알버말",
@@ -52,13 +52,13 @@
       "name": "모더나",
       "mkt": "US",
       "weight": 10.9,
-      "pnl_pct": 3.0
+      "pnl_pct": 2.9
     },
     {
       "name": "워너 브로스 디스커버리",
       "mkt": "US",
       "weight": 0.7,
-      "pnl_pct": -5.0
+      "pnl_pct": -5.1
     }
   ],
   "history": [
