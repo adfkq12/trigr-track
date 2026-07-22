@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-22 05:32",
+  "updated_at": "2026-07-22 09:02",
   "inception": "2026-06-04",
   "days": 49,
   "return_pct": -1.07,
   "n_holdings": 9,
-  "cash_weight": 57.5,
+  "cash_weight": 2.7,
   "holdings": [
     {
       "name": "알버말",
@@ -21,8 +21,14 @@
     {
       "name": "ECHOSTAR CORPORATION",
       "mkt": "US",
-      "weight": 12.4,
+      "weight": 12.5,
       "pnl_pct": -0.4
+    },
+    {
+      "name": "뉴코",
+      "mkt": "US",
+      "weight": 12.3,
+      "pnl_pct": -0.9
     },
     {
       "name": "스틸 다이내믹스",
@@ -35,12 +41,6 @@
       "mkt": "US",
       "weight": 12.2,
       "pnl_pct": 0.7
-    },
-    {
-      "name": "뉴코",
-      "mkt": "US",
-      "weight": 12.2,
-      "pnl_pct": -0.9
     },
     {
       "name": "제네락 홀딩스",
