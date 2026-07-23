@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24 03:27",
+  "updated_at": "2026-07-24 03:32",
   "inception": "2026-06-04",
   "days": 51,
   "return_pct": -1.63,
@@ -34,7 +34,7 @@
       "name": "다비타",
       "mkt": "US",
       "weight": 12.7,
-      "pnl_pct": -2.0
+      "pnl_pct": -2.1
     },
     {
       "name": "ECHOSTAR CORPORATION",
@@ -52,7 +52,7 @@
       "name": "모더나",
       "mkt": "US",
       "weight": 10.8,
-      "pnl_pct": -1.8
+      "pnl_pct": -1.6
     },
     {
       "name": "워너 브로스 디스커버리",
