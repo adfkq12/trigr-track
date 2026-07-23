@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-24 02:27",
+  "updated_at": "2026-07-24 02:32",
   "inception": "2026-06-04",
   "days": 51,
-  "return_pct": -1.37,
+  "return_pct": -1.34,
   "n_holdings": 9,
   "cash_weight": 0.0,
   "holdings": [
@@ -10,7 +10,7 @@
       "name": "뉴코",
       "mkt": "US",
       "weight": 13.1,
-      "pnl_pct": 2.6
+      "pnl_pct": 2.7
     },
     {
       "name": "스틸 다이내믹스",
@@ -22,43 +22,43 @@
       "name": "APA",
       "mkt": "US",
       "weight": 12.9,
-      "pnl_pct": 3.3
+      "pnl_pct": 3.4
     },
     {
       "name": "알버말",
       "mkt": "US",
       "weight": 12.8,
-      "pnl_pct": -9.1
+      "pnl_pct": -9.2
     },
     {
       "name": "다비타",
       "mkt": "US",
       "weight": 12.6,
-      "pnl_pct": -2.2
+      "pnl_pct": -2.1
     },
     {
       "name": "ECHOSTAR CORPORATION",
       "mkt": "US",
       "weight": 12.4,
-      "pnl_pct": -4.1
+      "pnl_pct": -4.0
     },
     {
       "name": "제네락 홀딩스",
       "mkt": "US",
       "weight": 11.4,
-      "pnl_pct": -2.6
+      "pnl_pct": -2.7
     },
     {
       "name": "모더나",
       "mkt": "US",
       "weight": 10.9,
-      "pnl_pct": -0.8
+      "pnl_pct": -0.9
     },
     {
       "name": "워너 브로스 디스커버리",
       "mkt": "US",
       "weight": 0.7,
-      "pnl_pct": -4.5
+      "pnl_pct": -4.4
     }
   ],
   "history": [
@@ -224,7 +224,7 @@
     },
     {
       "date": "2026-07-24",
-      "ret_pct": -1.37
+      "ret_pct": -1.34
     }
   ]
 }
