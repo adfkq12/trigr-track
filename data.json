@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24 04:37",
+  "updated_at": "2026-07-24 04:42",
   "inception": "2026-06-04",
   "days": 51,
   "return_pct": -1.86,
@@ -10,19 +10,19 @@
       "name": "뉴코",
       "mkt": "US",
       "weight": 13.1,
-      "pnl_pct": 1.9
+      "pnl_pct": 2.0
     },
     {
       "name": "스틸 다이내믹스",
       "mkt": "US",
       "weight": 13.1,
-      "pnl_pct": 2.3
+      "pnl_pct": 2.4
     },
     {
       "name": "APA",
       "mkt": "US",
-      "weight": 12.9,
-      "pnl_pct": 2.7
+      "weight": 13.0,
+      "pnl_pct": 3.0
     },
     {
       "name": "알버말",
@@ -40,25 +40,25 @@
       "name": "ECHOSTAR CORPORATION",
       "mkt": "US",
       "weight": 12.4,
-      "pnl_pct": -4.2
+      "pnl_pct": -4.4
     },
     {
       "name": "제네락 홀딩스",
       "mkt": "US",
       "weight": 11.5,
-      "pnl_pct": -2.9
+      "pnl_pct": -2.7
     },
     {
       "name": "모더나",
       "mkt": "US",
       "weight": 10.8,
-      "pnl_pct": -1.7
+      "pnl_pct": -1.9
     },
     {
       "name": "워너 브로스 디스커버리",
       "mkt": "US",
       "weight": 0.7,
-      "pnl_pct": -5.1
+      "pnl_pct": -5.0
     }
   ],
   "history": [
