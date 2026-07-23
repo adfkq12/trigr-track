@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-24 00:52",
+  "updated_at": "2026-07-24 00:57",
   "inception": "2026-06-04",
   "days": 51,
-  "return_pct": -1.9,
+  "return_pct": -1.89,
   "n_holdings": 9,
   "cash_weight": 0.0,
   "holdings": [
@@ -10,7 +10,7 @@
       "name": "APA",
       "mkt": "US",
       "weight": 13.1,
-      "pnl_pct": 4.3
+      "pnl_pct": 4.2
     },
     {
       "name": "뉴코",
@@ -40,13 +40,13 @@
       "name": "ECHOSTAR CORPORATION",
       "mkt": "US",
       "weight": 12.3,
-      "pnl_pct": -5.3
+      "pnl_pct": -5.2
     },
     {
       "name": "제네락 홀딩스",
       "mkt": "US",
       "weight": 11.3,
-      "pnl_pct": -4.1
+      "pnl_pct": -4.0
     },
     {
       "name": "모더나",
@@ -224,7 +224,7 @@
     },
     {
       "date": "2026-07-24",
-      "ret_pct": -1.9
+      "ret_pct": -1.89
     }
   ]
 }
