@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-25 05:02",
+  "updated_at": "2026-07-25 05:07",
   "inception": "2026-06-04",
   "days": 52,
-  "return_pct": -2.63,
+  "return_pct": -2.64,
   "n_holdings": 9,
   "cash_weight": 0.0,
   "holdings": [
@@ -22,7 +22,7 @@
       "name": "APA",
       "mkt": "US",
       "weight": 12.9,
-      "pnl_pct": 1.9
+      "pnl_pct": 1.8
     },
     {
       "name": "다비타",
@@ -228,7 +228,7 @@
     },
     {
       "date": "2026-07-25",
-      "ret_pct": -2.63
+      "ret_pct": -2.64
     }
   ]
 }
