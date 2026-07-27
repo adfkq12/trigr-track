@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-07-28 02:02",
+  "updated_at": "2026-07-28 02:07",
   "inception": "2026-06-04",
   "days": 55,
-  "return_pct": -4.59,
+  "return_pct": -4.51,
   "n_holdings": 8,
   "cash_weight": 3.3,
   "holdings": [
     {
       "name": "호스트 호텔스 앤드 리조츠",
       "mkt": "US",
-      "weight": 12.6,
-      "pnl_pct": -0.2
+      "weight": 12.5,
+      "pnl_pct": -0.3
     },
     {
       "name": "APA",
       "mkt": "US",
       "weight": 12.3,
-      "pnl_pct": -0.2
+      "pnl_pct": 0.0
     },
     {
       "name": "알버말",
@@ -28,19 +28,19 @@
       "name": "센틴",
       "mkt": "US",
       "weight": 12.0,
-      "pnl_pct": 2.5
+      "pnl_pct": 2.7
     },
     {
       "name": "모더나",
       "mkt": "US",
       "weight": 12.0,
-      "pnl_pct": -2.6
+      "pnl_pct": -2.1
     },
     {
       "name": "ECHOSTAR CORPORATION",
       "mkt": "US",
       "weight": 11.5,
-      "pnl_pct": -9.3
+      "pnl_pct": -9.4
     },
     {
       "name": "제네락 홀딩스",
@@ -230,7 +230,7 @@
     },
     {
       "date": "2026-07-28",
-      "ret_pct": -4.59
+      "ret_pct": -4.51
     }
   ]
 }
