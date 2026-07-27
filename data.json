@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-28 02:52",
+  "updated_at": "2026-07-28 02:57",
   "inception": "2026-06-04",
   "days": 55,
-  "return_pct": -4.86,
+  "return_pct": -4.83,
   "n_holdings": 8,
   "cash_weight": 3.3,
   "holdings": [
@@ -10,19 +10,19 @@
       "name": "호스트 호텔스 앤드 리조츠",
       "mkt": "US",
       "weight": 12.6,
-      "pnl_pct": -0.5
+      "pnl_pct": -0.4
     },
     {
       "name": "알버말",
       "mkt": "US",
       "weight": 12.3,
-      "pnl_pct": -11.1
+      "pnl_pct": -11.0
     },
     {
       "name": "APA",
       "mkt": "US",
       "weight": 12.3,
-      "pnl_pct": -0.3
+      "pnl_pct": -0.4
     },
     {
       "name": "센틴",
@@ -34,7 +34,7 @@
       "name": "모더나",
       "mkt": "US",
       "weight": 11.9,
-      "pnl_pct": -3.4
+      "pnl_pct": -3.3
     },
     {
       "name": "ECHOSTAR CORPORATION",
@@ -230,7 +230,7 @@
     },
     {
       "date": "2026-07-28",
-      "ret_pct": -4.86
+      "ret_pct": -4.83
     }
   ]
 }
