@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-28 05:02",
+  "updated_at": "2026-07-28 05:07",
   "inception": "2026-06-04",
   "days": 55,
-  "return_pct": -4.61,
+  "return_pct": -4.6,
   "n_holdings": 8,
   "cash_weight": 3.3,
   "holdings": [
@@ -28,12 +28,12 @@
       "name": "센틴",
       "mkt": "US",
       "weight": 11.9,
-      "pnl_pct": 1.9
+      "pnl_pct": 2.0
     },
     {
       "name": "모더나",
       "mkt": "US",
-      "weight": 11.9,
+      "weight": 11.8,
       "pnl_pct": -3.5
     },
     {
@@ -230,7 +230,7 @@
     },
     {
       "date": "2026-07-28",
-      "ret_pct": -4.61
+      "ret_pct": -4.6
     }
   ]
 }
