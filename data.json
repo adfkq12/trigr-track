@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-28 03:32",
+  "updated_at": "2026-07-28 03:37",
   "inception": "2026-06-04",
   "days": 55,
-  "return_pct": -4.85,
+  "return_pct": -4.92,
   "n_holdings": 8,
   "cash_weight": 3.3,
   "holdings": [
@@ -16,19 +16,19 @@
       "name": "알버말",
       "mkt": "US",
       "weight": 12.3,
-      "pnl_pct": -11.1
+      "pnl_pct": -11.2
     },
     {
       "name": "APA",
       "mkt": "US",
       "weight": 12.3,
-      "pnl_pct": -0.5
+      "pnl_pct": -0.6
     },
     {
       "name": "센틴",
       "mkt": "US",
-      "weight": 12.1,
-      "pnl_pct": 2.7
+      "weight": 12.0,
+      "pnl_pct": 2.4
     },
     {
       "name": "모더나",
@@ -230,7 +230,7 @@
     },
     {
       "date": "2026-07-28",
-      "ret_pct": -4.85
+      "ret_pct": -4.92
     }
   ]
 }
