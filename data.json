@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-29 05:07",
+  "updated_at": "2026-07-29 05:32",
   "inception": "2026-06-04",
   "days": 56,
-  "return_pct": -4.56,
+  "return_pct": -4.57,
   "n_holdings": 8,
   "cash_weight": 3.3,
   "holdings": [
@@ -16,7 +16,7 @@
       "name": "호스트 호텔스 앤드 리조츠",
       "mkt": "US",
       "weight": 12.9,
-      "pnl_pct": 2.4
+      "pnl_pct": 2.3
     },
     {
       "name": "APA",
@@ -234,7 +234,7 @@
     },
     {
       "date": "2026-07-29",
-      "ret_pct": -4.56
+      "ret_pct": -4.57
     }
   ]
 }
