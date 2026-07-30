@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30 09:22",
+  "updated_at": "2026-07-30 09:27",
   "inception": "2026-06-04",
   "days": 57,
   "return_pct": -3.78,
@@ -16,7 +16,7 @@
       "name": "대덕전자",
       "mkt": "KR",
       "weight": 12.2,
-      "pnl_pct": -10.6
+      "pnl_pct": -10.5
     },
     {
       "name": "ECHOSTAR CORPORATION",
@@ -33,7 +33,7 @@
     {
       "name": "센틴",
       "mkt": "US",
-      "weight": 11.5,
+      "weight": 11.4,
       "pnl_pct": -0.8
     },
     {
