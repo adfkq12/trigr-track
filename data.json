@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-31 05:22",
+  "updated_at": "2026-07-31 05:32",
   "inception": "2026-06-04",
   "days": 58,
-  "return_pct": -2.48,
+  "return_pct": -2.47,
   "n_holdings": 9,
   "cash_weight": 13.6,
   "holdings": [
@@ -33,7 +33,7 @@
     {
       "name": "스틸 다이내믹스",
       "mkt": "US",
-      "weight": 11.7,
+      "weight": 11.8,
       "pnl_pct": -3.5
     },
     {
@@ -248,7 +248,7 @@
     },
     {
       "date": "2026-07-31",
-      "ret_pct": -2.48
+      "ret_pct": -2.47
     }
   ]
 }
