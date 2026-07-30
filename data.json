@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-31 01:32",
+  "updated_at": "2026-07-31 01:37",
   "inception": "2026-06-04",
   "days": 58,
-  "return_pct": -2.83,
+  "return_pct": -2.78,
   "n_holdings": 9,
   "cash_weight": 13.6,
   "holdings": [
@@ -21,26 +21,26 @@
     {
       "name": "ECHOSTAR CORPORATION",
       "mkt": "US",
-      "weight": 11.9,
-      "pnl_pct": -9.0
+      "weight": 12.0,
+      "pnl_pct": -8.8
     },
     {
       "name": "모더나",
       "mkt": "US",
       "weight": 11.9,
-      "pnl_pct": -1.0
+      "pnl_pct": -0.9
     },
     {
       "name": "스틸 다이내믹스",
       "mkt": "US",
       "weight": 11.9,
-      "pnl_pct": -2.8
+      "pnl_pct": -2.9
     },
     {
       "name": "센틴",
       "mkt": "US",
       "weight": 11.4,
-      "pnl_pct": -2.1
+      "pnl_pct": -1.9
     },
     {
       "name": "다비타",
@@ -248,7 +248,7 @@
     },
     {
       "date": "2026-07-31",
-      "ret_pct": -2.83
+      "ret_pct": -2.78
     }
   ]
 }
