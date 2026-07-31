@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31 14:42",
+  "updated_at": "2026-07-31 14:52",
   "inception": "2026-06-04",
   "days": 58,
   "return_pct": -2.47,
@@ -16,7 +16,7 @@
       "name": "가온전선",
       "mkt": "KR",
       "weight": 11.9,
-      "pnl_pct": 6.1
+      "pnl_pct": 6.4
     },
     {
       "name": "타르가 리소시스",
@@ -39,7 +39,7 @@
     {
       "name": "스틸 다이내믹스",
       "mkt": "US",
-      "weight": 10.6,
+      "weight": 10.5,
       "pnl_pct": -3.5
     },
     {
