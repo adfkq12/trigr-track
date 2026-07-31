@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31 14:52",
+  "updated_at": "2026-07-31 14:57",
   "inception": "2026-06-04",
   "days": 58,
   "return_pct": -2.47,
@@ -15,8 +15,8 @@
     {
       "name": "가온전선",
       "mkt": "KR",
-      "weight": 11.9,
-      "pnl_pct": 6.4
+      "weight": 12.0,
+      "pnl_pct": 7.1
     },
     {
       "name": "타르가 리소시스",
@@ -57,7 +57,7 @@
     {
       "name": "버티브 홀딩스",
       "mkt": "US",
-      "weight": 4.8,
+      "weight": 4.7,
       "pnl_pct": -4.5
     },
     {
