@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31 15:02",
+  "updated_at": "2026-07-31 15:07",
   "inception": "2026-06-04",
   "days": 58,
   "return_pct": -2.47,
@@ -16,7 +16,7 @@
       "name": "가온전선",
       "mkt": "KR",
       "weight": 11.8,
-      "pnl_pct": 5.9
+      "pnl_pct": 6.0
     },
     {
       "name": "타르가 리소시스",
