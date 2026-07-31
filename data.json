@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31 14:02",
+  "updated_at": "2026-07-31 14:07",
   "inception": "2026-06-04",
   "days": 58,
   "return_pct": -2.47,
@@ -15,8 +15,8 @@
     {
       "name": "가온전선",
       "mkt": "KR",
-      "weight": 11.4,
-      "pnl_pct": 2.0
+      "weight": 11.5,
+      "pnl_pct": 2.5
     },
     {
       "name": "타르가 리소시스",
@@ -25,16 +25,16 @@
       "pnl_pct": 0.6
     },
     {
-      "name": "모더나",
-      "mkt": "US",
-      "weight": 11.0,
-      "pnl_pct": 0.9
-    },
-    {
       "name": "ECHOSTAR CORPORATION",
       "mkt": "US",
       "weight": 10.9,
       "pnl_pct": -7.9
+    },
+    {
+      "name": "모더나",
+      "mkt": "US",
+      "weight": 10.9,
+      "pnl_pct": 0.9
     },
     {
       "name": "스틸 다이내믹스",
