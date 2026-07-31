@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31 11:17",
+  "updated_at": "2026-07-31 11:22",
   "inception": "2026-06-04",
   "days": 58,
   "return_pct": -2.47,
@@ -9,20 +9,20 @@
     {
       "name": "대덕전자",
       "mkt": "KR",
-      "weight": 12.4,
-      "pnl_pct": 10.0
+      "weight": 12.5,
+      "pnl_pct": 10.3
     },
     {
       "name": "타르가 리소시스",
       "mkt": "US",
-      "weight": 11.4,
+      "weight": 11.3,
       "pnl_pct": 0.6
     },
     {
       "name": "가온전선",
       "mkt": "KR",
       "weight": 11.1,
-      "pnl_pct": -2.1
+      "pnl_pct": -1.7
     },
     {
       "name": "모더나",
