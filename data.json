@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03 13:37",
+  "updated_at": "2026-08-03 13:42",
   "inception": "2026-06-04",
   "days": 61,
   "return_pct": -2.22,
@@ -22,7 +22,7 @@
       "name": "가온전선",
       "mkt": "KR",
       "weight": 12.0,
-      "pnl_pct": 6.6
+      "pnl_pct": 6.5
     },
     {
       "name": "센틴",
@@ -33,7 +33,7 @@
     {
       "name": "모더나",
       "mkt": "US",
-      "weight": 11.4,
+      "weight": 11.5,
       "pnl_pct": -4.5
     },
     {
