@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-04 01:37",
+  "updated_at": "2026-08-04 01:42",
   "inception": "2026-06-04",
   "days": 62,
-  "return_pct": -0.37,
+  "return_pct": -0.43,
   "n_holdings": 9,
   "cash_weight": 6.5,
   "holdings": [
@@ -40,7 +40,7 @@
       "name": "버티브 홀딩스",
       "mkt": "US",
       "weight": 10.7,
-      "pnl_pct": 7.1
+      "pnl_pct": 7.0
     },
     {
       "name": "ECHOSTAR CORPORATION",
@@ -260,7 +260,7 @@
     },
     {
       "date": "2026-08-04",
-      "ret_pct": -0.37
+      "ret_pct": -0.43
     }
   ]
 }
