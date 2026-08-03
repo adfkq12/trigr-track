@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03 15:22",
+  "updated_at": "2026-08-03 15:27",
   "inception": "2026-06-04",
   "days": 61,
   "return_pct": -2.22,
@@ -43,16 +43,16 @@
       "pnl_pct": -10.1
     },
     {
+      "name": "다비타",
+      "mkt": "US",
+      "weight": 10.1,
+      "pnl_pct": -0.5
+    },
+    {
       "name": "버티브 홀딩스",
       "mkt": "US",
       "weight": 10.1,
       "pnl_pct": -0.2
-    },
-    {
-      "name": "다비타",
-      "mkt": "US",
-      "weight": 10.0,
-      "pnl_pct": -0.5
     },
     {
       "name": "워너 브로스 디스커버리",
