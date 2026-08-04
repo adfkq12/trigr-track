@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04 11:27",
+  "updated_at": "2026-08-04 11:32",
   "inception": "2026-06-04",
   "days": 62,
   "return_pct": -0.72,
@@ -15,8 +15,8 @@
     {
       "name": "가온전선",
       "mkt": "KR",
-      "weight": 12.5,
-      "pnl_pct": 12.9
+      "weight": 12.4,
+      "pnl_pct": 12.2
     },
     {
       "name": "APA",
@@ -45,7 +45,7 @@
     {
       "name": "ECHOSTAR CORPORATION",
       "mkt": "US",
-      "weight": 10.5,
+      "weight": 10.6,
       "pnl_pct": -8.5
     },
     {
