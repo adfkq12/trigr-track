@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05 11:12",
+  "updated_at": "2026-08-05 11:17",
   "inception": "2026-06-04",
   "days": 63,
   "return_pct": 0.55,
@@ -10,13 +10,13 @@
       "name": "대덕전자",
       "mkt": "KR",
       "weight": 13.6,
-      "pnl_pct": 25.1
+      "pnl_pct": 25.3
     },
     {
       "name": "가온전선",
       "mkt": "KR",
       "weight": 13.2,
-      "pnl_pct": 20.9
+      "pnl_pct": 21.1
     },
     {
       "name": "센틴",
