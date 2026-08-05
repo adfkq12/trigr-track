@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-06 02:42",
+  "updated_at": "2026-08-06 02:47",
   "inception": "2026-06-04",
   "days": 64,
-  "return_pct": -0.94,
+  "return_pct": -1.09,
   "n_holdings": 9,
-  "cash_weight": 6.6,
+  "cash_weight": 6.7,
   "holdings": [
     {
       "name": "가온전선",
@@ -22,7 +22,7 @@
       "name": "센틴",
       "mkt": "US",
       "weight": 12.5,
-      "pnl_pct": 9.6
+      "pnl_pct": 9.5
     },
     {
       "name": "모더나",
@@ -31,28 +31,28 @@
       "pnl_pct": -1.1
     },
     {
-      "name": "APA",
-      "mkt": "US",
-      "weight": 11.5,
-      "pnl_pct": -3.7
-    },
-    {
       "name": "버티브 홀딩스",
       "mkt": "US",
       "weight": 11.5,
-      "pnl_pct": 16.2
+      "pnl_pct": 16.1
+    },
+    {
+      "name": "APA",
+      "mkt": "US",
+      "weight": 11.4,
+      "pnl_pct": -3.9
     },
     {
       "name": "ECHOSTAR CORPORATION",
       "mkt": "US",
       "weight": 10.8,
-      "pnl_pct": -5.2
+      "pnl_pct": -5.4
     },
     {
       "name": "다비타",
       "mkt": "US",
       "weight": 7.7,
-      "pnl_pct": -21.7
+      "pnl_pct": -21.9
     },
     {
       "name": "워너 브로스 디스커버리",
@@ -268,7 +268,7 @@
     },
     {
       "date": "2026-08-06",
-      "ret_pct": -0.94
+      "ret_pct": -1.09
     }
   ]
 }
