@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-06 05:02",
+  "updated_at": "2026-08-06 05:07",
   "inception": "2026-06-04",
   "days": 64,
-  "return_pct": -2.01,
+  "return_pct": -2.02,
   "n_holdings": 9,
   "cash_weight": 6.7,
   "holdings": [
@@ -28,7 +28,7 @@
       "name": "모더나",
       "mkt": "US",
       "weight": 11.5,
-      "pnl_pct": -2.0
+      "pnl_pct": -1.9
     },
     {
       "name": "APA",
@@ -40,7 +40,7 @@
       "name": "버티브 홀딩스",
       "mkt": "US",
       "weight": 11.4,
-      "pnl_pct": 14.9
+      "pnl_pct": 14.8
     },
     {
       "name": "ECHOSTAR CORPORATION",
@@ -268,7 +268,7 @@
     },
     {
       "date": "2026-08-06",
-      "ret_pct": -2.01
+      "ret_pct": -2.02
     }
   ]
 }
