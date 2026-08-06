@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06 10:07",
+  "updated_at": "2026-08-06 10:12",
   "inception": "2026-06-04",
   "days": 64,
   "return_pct": -2.03,
@@ -9,19 +9,19 @@
     {
       "name": "가온전선",
       "mkt": "KR",
-      "weight": 13.5,
-      "pnl_pct": 20.4
+      "weight": 13.6,
+      "pnl_pct": 21.5
     },
     {
       "name": "대덕전자",
       "mkt": "KR",
-      "weight": 13.4,
-      "pnl_pct": 20.1
+      "weight": 13.5,
+      "pnl_pct": 21.1
     },
     {
       "name": "센틴",
       "mkt": "US",
-      "weight": 12.5,
+      "weight": 12.4,
       "pnl_pct": 7.8
     },
     {
@@ -31,16 +31,16 @@
       "pnl_pct": -2.0
     },
     {
-      "name": "APA",
-      "mkt": "US",
-      "weight": 11.5,
-      "pnl_pct": -5.0
-    },
-    {
       "name": "버티브 홀딩스",
       "mkt": "US",
       "weight": 11.5,
       "pnl_pct": 14.8
+    },
+    {
+      "name": "APA",
+      "mkt": "US",
+      "weight": 11.4,
+      "pnl_pct": -5.0
     },
     {
       "name": "ECHOSTAR CORPORATION",
