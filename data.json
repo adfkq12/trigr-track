@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-08-06 12:47",
+  "updated_at": "2026-08-06 12:52",
   "inception": "2026-06-04",
   "days": 64,
   "return_pct": -2.03,
   "n_holdings": 9,
-  "cash_weight": 6.7,
+  "cash_weight": 6.8,
   "holdings": [
     {
       "name": "가온전선",
       "mkt": "KR",
       "weight": 13.7,
-      "pnl_pct": 23.2
+      "pnl_pct": 23.1
     },
     {
       "name": "대덕전자",
       "mkt": "KR",
       "weight": 13.4,
-      "pnl_pct": 20.5
+      "pnl_pct": 20.2
     },
     {
       "name": "센틴",
