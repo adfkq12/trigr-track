@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-07 05:02",
+  "updated_at": "2026-08-07 05:07",
   "inception": "2026-06-04",
   "days": 65,
-  "return_pct": -3.39,
+  "return_pct": -3.4,
   "n_holdings": 9,
   "cash_weight": 5.4,
   "holdings": [
@@ -34,7 +34,7 @@
       "name": "버티브 홀딩스",
       "mkt": "US",
       "weight": 11.7,
-      "pnl_pct": 13.8
+      "pnl_pct": 13.7
     },
     {
       "name": "모더나",
@@ -272,7 +272,7 @@
     },
     {
       "date": "2026-08-07",
-      "ret_pct": -3.39
+      "ret_pct": -3.4
     }
   ]
 }
