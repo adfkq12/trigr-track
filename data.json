@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07 09:12",
+  "updated_at": "2026-08-07 09:17",
   "inception": "2026-06-04",
   "days": 65,
   "return_pct": -3.39,
@@ -7,16 +7,16 @@
   "cash_weight": 5.4,
   "holdings": [
     {
-      "name": "가온전선",
-      "mkt": "KR",
-      "weight": 13.9,
-      "pnl_pct": 21.6
-    },
-    {
       "name": "대덕전자",
       "mkt": "KR",
+      "weight": 13.8,
+      "pnl_pct": 20.7
+    },
+    {
+      "name": "가온전선",
+      "mkt": "KR",
       "weight": 13.7,
-      "pnl_pct": 20.4
+      "pnl_pct": 19.5
     },
     {
       "name": "APA",
@@ -27,7 +27,7 @@
     {
       "name": "센틴",
       "mkt": "US",
-      "weight": 12.2,
+      "weight": 12.3,
       "pnl_pct": 3.3
     },
     {
