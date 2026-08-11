@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-12 01:27",
+  "updated_at": "2026-08-12 01:32",
   "inception": "2026-06-04",
   "days": 70,
-  "return_pct": 1.39,
+  "return_pct": 1.35,
   "n_holdings": 9,
   "cash_weight": 9.4,
   "holdings": [
@@ -16,13 +16,13 @@
       "name": "APA",
       "mkt": "US",
       "weight": 14.1,
-      "pnl_pct": 11.9
+      "pnl_pct": 11.8
     },
     {
       "name": "센틴",
       "mkt": "US",
       "weight": 12.8,
-      "pnl_pct": 6.3
+      "pnl_pct": 6.1
     },
     {
       "name": "모더나",
@@ -58,7 +58,7 @@
       "name": "워너 브로스 디스커버리",
       "mkt": "US",
       "weight": 0.6,
-      "pnl_pct": -0.3
+      "pnl_pct": -0.5
     }
   ],
   "history": [
@@ -288,7 +288,7 @@
     },
     {
       "date": "2026-08-12",
-      "ret_pct": 1.39
+      "ret_pct": 1.35
     }
   ]
 }
