@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-12 02:07",
+  "updated_at": "2026-08-12 02:12",
   "inception": "2026-06-04",
   "days": 70,
-  "return_pct": 1.41,
+  "return_pct": 1.4,
   "n_holdings": 9,
   "cash_weight": 9.4,
   "holdings": [
@@ -40,7 +40,7 @@
       "name": "ECHOSTAR CORPORATION",
       "mkt": "US",
       "weight": 11.4,
-      "pnl_pct": -5.5
+      "pnl_pct": -5.4
     },
     {
       "name": "다비타",
@@ -288,7 +288,7 @@
     },
     {
       "date": "2026-08-12",
-      "ret_pct": 1.41
+      "ret_pct": 1.4
     }
   ]
 }
