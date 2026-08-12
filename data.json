@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13 05:12",
+  "updated_at": "2026-08-13 05:22",
   "inception": "2026-06-04",
   "days": 71,
   "return_pct": 3.97,
@@ -16,7 +16,7 @@
       "name": "APA",
       "mkt": "US",
       "weight": 14.8,
-      "pnl_pct": 9.6
+      "pnl_pct": 9.5
     },
     {
       "name": "모더나",
