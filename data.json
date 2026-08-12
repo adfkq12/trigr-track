@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-13 03:12",
+  "updated_at": "2026-08-13 03:17",
   "inception": "2026-06-04",
   "days": 71,
-  "return_pct": 4.35,
+  "return_pct": 4.37,
   "n_holdings": 9,
   "cash_weight": 0.0,
   "holdings": [
@@ -34,13 +34,13 @@
       "name": "버티브 홀딩스",
       "mkt": "US",
       "weight": 13.5,
-      "pnl_pct": 20.9
+      "pnl_pct": 20.8
     },
     {
       "name": "에코스타",
       "mkt": "US",
-      "weight": 12.8,
-      "pnl_pct": -1.0
+      "weight": 12.9,
+      "pnl_pct": -0.8
     },
     {
       "name": "다비타",
@@ -292,7 +292,7 @@
     },
     {
       "date": "2026-08-13",
-      "ret_pct": 4.35
+      "ret_pct": 4.37
     }
   ]
 }
