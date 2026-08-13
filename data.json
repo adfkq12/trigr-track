@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13 14:42",
+  "updated_at": "2026-08-13 14:47",
   "inception": "2026-06-04",
   "days": 71,
   "return_pct": 3.97,
@@ -39,7 +39,7 @@
     {
       "name": "에코스타",
       "mkt": "US",
-      "weight": 12.7,
+      "weight": 12.8,
       "pnl_pct": -1.1
     },
     {
@@ -52,7 +52,7 @@
       "name": "가온전선",
       "mkt": "KR",
       "weight": 5.4,
-      "pnl_pct": 29.5
+      "pnl_pct": 29.3
     },
     {
       "name": "워너 브로스 디스커버리",
