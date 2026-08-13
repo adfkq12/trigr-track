@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-14 02:57",
+  "updated_at": "2026-08-14 03:02",
   "inception": "2026-06-04",
   "days": 72,
-  "return_pct": 3.59,
+  "return_pct": 3.63,
   "n_holdings": 9,
   "cash_weight": 0.0,
   "holdings": [
@@ -22,13 +22,13 @@
       "name": "APA",
       "mkt": "US",
       "weight": 14.6,
-      "pnl_pct": 8.9
+      "pnl_pct": 8.8
     },
     {
       "name": "센틴",
       "mkt": "US",
       "weight": 13.8,
-      "pnl_pct": 6.9
+      "pnl_pct": 7.0
     },
     {
       "name": "버티브 홀딩스",
@@ -296,7 +296,7 @@
     },
     {
       "date": "2026-08-14",
-      "ret_pct": 3.59
+      "ret_pct": 3.63
     }
   ]
 }
