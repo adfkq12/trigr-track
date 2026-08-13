@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14 05:02",
+  "updated_at": "2026-08-14 05:12",
   "inception": "2026-06-04",
   "days": 72,
   "return_pct": 3.32,
@@ -46,7 +46,7 @@
       "name": "다비타",
       "mkt": "US",
       "weight": 8.3,
-      "pnl_pct": -25.8
+      "pnl_pct": -25.7
     },
     {
       "name": "가온전선",
