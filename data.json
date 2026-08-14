@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-15 05:02",
+  "updated_at": "2026-08-15 05:17",
   "inception": "2026-06-04",
   "days": 73,
-  "return_pct": 4.36,
+  "return_pct": 4.35,
   "n_holdings": 9,
   "cash_weight": 0.0,
   "holdings": [
@@ -300,7 +300,7 @@
     },
     {
       "date": "2026-08-15",
-      "ret_pct": 4.36
+      "ret_pct": 4.35
     }
   ]
 }
