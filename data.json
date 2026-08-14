@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15 02:22",
+  "updated_at": "2026-08-15 02:27",
   "inception": "2026-06-04",
   "days": 73,
   "return_pct": 4.24,
@@ -15,14 +15,14 @@
     {
       "name": "APA",
       "mkt": "US",
-      "weight": 14.8,
-      "pnl_pct": 11.3
+      "weight": 14.7,
+      "pnl_pct": 11.2
     },
     {
       "name": "모더나",
       "mkt": "US",
       "weight": 14.4,
-      "pnl_pct": 10.4
+      "pnl_pct": 10.5
     },
     {
       "name": "센틴",
@@ -46,7 +46,7 @@
       "name": "다비타",
       "mkt": "US",
       "weight": 8.2,
-      "pnl_pct": -24.9
+      "pnl_pct": -24.8
     },
     {
       "name": "가온전선",
@@ -58,7 +58,7 @@
       "name": "워너 브로스 디스커버리",
       "mkt": "US",
       "weight": 0.6,
-      "pnl_pct": 1.9
+      "pnl_pct": 1.8
     }
   ],
   "history": [
