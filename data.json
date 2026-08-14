@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14 12:22",
+  "updated_at": "2026-08-14 12:27",
   "inception": "2026-06-04",
   "days": 72,
   "return_pct": 3.32,
@@ -10,12 +10,12 @@
       "name": "대덕전자",
       "mkt": "KR",
       "weight": 17.3,
-      "pnl_pct": 39.6
+      "pnl_pct": 39.2
     },
     {
       "name": "APA",
       "mkt": "US",
-      "weight": 14.6,
+      "weight": 14.7,
       "pnl_pct": 9.6
     },
     {
