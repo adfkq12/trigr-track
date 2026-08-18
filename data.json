@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-19 04:47",
+  "updated_at": "2026-08-19 04:52",
   "inception": "2026-06-04",
   "days": 77,
-  "return_pct": 2.99,
+  "return_pct": 2.92,
   "n_holdings": 9,
   "cash_weight": 0.0,
   "holdings": [
@@ -16,13 +16,13 @@
       "name": "APA",
       "mkt": "US",
       "weight": 15.5,
-      "pnl_pct": 15.9
+      "pnl_pct": 15.8
     },
     {
       "name": "모더나",
       "mkt": "US",
       "weight": 14.6,
-      "pnl_pct": 10.6
+      "pnl_pct": 10.4
     },
     {
       "name": "센틴",
@@ -34,7 +34,7 @@
       "name": "에코스타",
       "mkt": "US",
       "weight": 12.5,
-      "pnl_pct": -3.3
+      "pnl_pct": -3.4
     },
     {
       "name": "버티브 홀딩스",
@@ -312,7 +312,7 @@
     },
     {
       "date": "2026-08-19",
-      "ret_pct": 2.99
+      "ret_pct": 2.92
     }
   ]
 }
