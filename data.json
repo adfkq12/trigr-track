@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18 13:57",
+  "updated_at": "2026-08-18 14:02",
   "inception": "2026-06-04",
   "days": 76,
   "return_pct": 4.23,
@@ -51,8 +51,8 @@
     {
       "name": "가온전선",
       "mkt": "KR",
-      "weight": 5.3,
-      "pnl_pct": 30.1
+      "weight": 5.4,
+      "pnl_pct": 30.5
     },
     {
       "name": "워너 브로스 디스커버리",
