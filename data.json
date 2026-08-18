@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-19 02:52",
+  "updated_at": "2026-08-19 02:57",
   "inception": "2026-06-04",
   "days": 77,
-  "return_pct": 2.91,
+  "return_pct": 2.85,
   "n_holdings": 9,
   "cash_weight": 0.0,
   "holdings": [
@@ -16,19 +16,19 @@
       "name": "APA",
       "mkt": "US",
       "weight": 15.4,
-      "pnl_pct": 14.7
+      "pnl_pct": 14.9
     },
     {
       "name": "모더나",
       "mkt": "US",
-      "weight": 14.7,
-      "pnl_pct": 11.2
+      "weight": 14.6,
+      "pnl_pct": 10.8
     },
     {
       "name": "센틴",
       "mkt": "US",
       "weight": 13.5,
-      "pnl_pct": 5.2
+      "pnl_pct": 5.1
     },
     {
       "name": "에코스타",
@@ -312,7 +312,7 @@
     },
     {
       "date": "2026-08-19",
-      "ret_pct": 2.91
+      "ret_pct": 2.85
     }
   ]
 }
