@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-08-20 03:02",
+  "updated_at": "2026-08-20 03:07",
   "inception": "2026-06-04",
   "days": 78,
-  "return_pct": 30.64,
+  "return_pct": 30.22,
   "n_holdings": 9,
   "cash_weight": 0.0,
   "holdings": [
     {
       "name": "모더나",
       "mkt": "US",
-      "weight": 29.4,
-      "pnl_pct": 168.8
+      "weight": 29.3,
+      "pnl_pct": 167.1
     },
     {
       "name": "대덕전자",
       "mkt": "KR",
-      "weight": 14.1,
+      "weight": 14.2,
       "pnl_pct": 34.4
     },
     {
       "name": "APA",
       "mkt": "US",
       "weight": 13.4,
-      "pnl_pct": 20.8
+      "pnl_pct": 20.5
     },
     {
       "name": "센틴",
@@ -40,7 +40,7 @@
       "name": "버티브 홀딩스",
       "mkt": "US",
       "weight": 10.1,
-      "pnl_pct": 8.9
+      "pnl_pct": 8.6
     },
     {
       "name": "다비타",
@@ -316,7 +316,7 @@
     },
     {
       "date": "2026-08-20",
-      "ret_pct": 30.64
+      "ret_pct": 30.22
     }
   ]
 }
