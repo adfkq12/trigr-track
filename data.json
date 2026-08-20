@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20 10:12",
+  "updated_at": "2026-08-20 10:20",
   "inception": "2026-06-04",
   "days": 78,
   "return_pct": 36.2,
@@ -13,16 +13,22 @@
       "pnl_pct": 203.8
     },
     {
-      "name": "대덕전자",
+      "name": "가온전선",
       "mkt": "KR",
-      "weight": 12.4,
-      "pnl_pct": 37.9
+      "weight": 11.5,
+      "pnl_pct": 7.8
     },
     {
       "name": "APA",
       "mkt": "US",
       "weight": 11.4,
       "pnl_pct": 19.1
+    },
+    {
+      "name": "삼성생명",
+      "mkt": "KR",
+      "weight": 10.4,
+      "pnl_pct": 0.2
     },
     {
       "name": "센틴",
@@ -47,12 +53,6 @@
       "mkt": "US",
       "weight": 5.8,
       "pnl_pct": -26.5
-    },
-    {
-      "name": "가온전선",
-      "mkt": "KR",
-      "weight": 3.8,
-      "pnl_pct": 26.5
     },
     {
       "name": "워너 브로스 디스커버리",
