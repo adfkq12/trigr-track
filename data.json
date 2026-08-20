@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20 09:22",
+  "updated_at": "2026-08-20 09:27",
   "inception": "2026-06-04",
   "days": 78,
   "return_pct": 36.2,
@@ -9,19 +9,19 @@
     {
       "name": "모더나",
       "mkt": "US",
-      "weight": 31.9,
+      "weight": 32.1,
       "pnl_pct": 203.8
     },
     {
       "name": "대덕전자",
       "mkt": "KR",
-      "weight": 14.1,
-      "pnl_pct": 39.8
+      "weight": 13.8,
+      "pnl_pct": 36.1
     },
     {
       "name": "APA",
       "mkt": "US",
-      "weight": 12.7,
+      "weight": 12.8,
       "pnl_pct": 19.1
     },
     {
@@ -33,7 +33,7 @@
     {
       "name": "에코스타",
       "mkt": "US",
-      "weight": 9.7,
+      "weight": 9.8,
       "pnl_pct": -5.5
     },
     {
