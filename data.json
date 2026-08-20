@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20 11:07",
+  "updated_at": "2026-08-20 11:12",
   "inception": "2026-06-04",
   "days": 78,
   "return_pct": 36.2,
@@ -15,8 +15,8 @@
     {
       "name": "가온전선",
       "mkt": "KR",
-      "weight": 11.5,
-      "pnl_pct": 8.1
+      "weight": 11.4,
+      "pnl_pct": 7.9
     },
     {
       "name": "APA",
@@ -27,8 +27,8 @@
     {
       "name": "삼성생명",
       "mkt": "KR",
-      "weight": 10.6,
-      "pnl_pct": 2.2
+      "weight": 10.7,
+      "pnl_pct": 3.9
     },
     {
       "name": "센틴",
