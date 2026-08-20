@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20 13:02",
+  "updated_at": "2026-08-20 13:07",
   "inception": "2026-06-04",
   "days": 78,
   "return_pct": 36.2,
@@ -16,7 +16,7 @@
       "name": "가온전선",
       "mkt": "KR",
       "weight": 11.5,
-      "pnl_pct": 8.6
+      "pnl_pct": 8.4
     },
     {
       "name": "APA",
