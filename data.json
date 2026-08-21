@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21 09:22",
+  "updated_at": "2026-08-21 09:27",
   "inception": "2026-06-04",
   "days": 79,
   "return_pct": 0.08,
@@ -13,22 +13,22 @@
       "pnl_pct": 2.6
     },
     {
-      "name": "가온전선",
-      "mkt": "KR",
-      "weight": 12.1,
-      "pnl_pct": 4.7
-    },
-    {
       "name": "발레로 에너지",
       "mkt": "US",
       "weight": 12.1,
       "pnl_pct": -2.5
     },
     {
+      "name": "가온전선",
+      "mkt": "KR",
+      "weight": 12.0,
+      "pnl_pct": 4.3
+    },
+    {
       "name": "삼성생명",
       "mkt": "KR",
-      "weight": 11.1,
-      "pnl_pct": -0.5
+      "weight": 11.2,
+      "pnl_pct": -0.2
     },
     {
       "name": "워너 브로스 디스커버리",
