@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21 09:32",
+  "updated_at": "2026-08-21 09:37",
   "inception": "2026-06-04",
   "days": 79,
   "return_pct": 0.08,
@@ -16,7 +16,7 @@
       "name": "가온전선",
       "mkt": "KR",
       "weight": 12.0,
-      "pnl_pct": 4.3
+      "pnl_pct": 4.8
     },
     {
       "name": "발레로 에너지",
@@ -27,8 +27,8 @@
     {
       "name": "삼성생명",
       "mkt": "KR",
-      "weight": 11.2,
-      "pnl_pct": 0.3
+      "weight": 11.3,
+      "pnl_pct": 1.4
     },
     {
       "name": "워너 브로스 디스커버리",
