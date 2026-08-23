@@ -60,6 +60,8 @@
   .tag.US{background:rgba(168,85,247,.16);color:#c79bff}
   .wbar{height:5px;border-radius:3px;background:var(--accent);opacity:.85;margin-top:5px}
 
+  .hero .sub{color:var(--sub);font-size:13px;margin-top:3px;font-variant-numeric:tabular-nums}
+  .chartnote{color:var(--faint);font-size:11.5px;padding:0 18px 12px;line-height:1.5}
   .honest{background:rgba(59,130,246,.07);border:1px solid rgba(59,130,246,.22);border-radius:13px;padding:15px 17px;font-size:13.5px;color:#cdd6e4;margin-bottom:14px}
   .honest b{color:var(--ink)}
   .disc{color:var(--faint);font-size:12px;text-align:center;line-height:1.7}
@@ -96,24 +98,49 @@ function sparkline(history){
   // 데이터가 얇을 땐 숨긴다 — 점 2~3개짜리 라인은 작은 변동을 폭락처럼 과장해 오해를 부름
   if(!history || history.length < 5) return "";
   const W=640,H=120,pad=8;
-  const xs = history.map((_,i)=>i), ys = history.map(p=>p.ret_pct);
+  const ts = history.map(p=>Date.parse(p.date)), ys = history.map(p=>p.ret_pct);
+  const t0 = ts[0], tN = ts[ts.length-1], tspan = (tN-t0)||1;
   // 최소 표시 폭(±2%p) — 0.04% 같은 미세 변동이 화면을 꽉 채우지 않도록
   let minY=Math.min(0,...ys), maxY=Math.max(0,...ys);
   const MINSPAN=4, mid=(minY+maxY)/2;
   if(maxY-minY < MINSPAN){ minY=mid-MINSPAN/2; maxY=mid+MINSPAN/2; }
   const span=(maxY-minY)||1;
-  const px = i => pad + (W-2*pad)*(i/(xs.length-1||1));
+  // x = 실제 날짜 비례 — 6/4~7/5 근사 구간이 하루처럼 압축돼 보이지 않도록
+  const px = t => pad + (W-2*pad)*((t-t0)/tspan);
   const py = v => pad + (H-2*pad)*(1-(v-minY)/span);
-  const pts = history.map((p,i)=>`${px(i)},${py(p.ret_pct)}`).join(" ");
+  const pts = history.map((p,i)=>`${px(ts[i])},${py(p.ret_pct)}`).join(" ");
   const last = ys[ys.length-1];
   const col = last>=0 ? "#22c55e" : "#ef4444";
   const zeroY = py(0);
-  return `<div class="panel"><div class="phead"><span class="t">수익률 추이</span>
-    <span class="s">운용 시작 이후</span></div>
-    <svg viewBox="0 0 ${W} ${H}" preserveAspectRatio="none" style="padding:4px 14px 14px">
+  // 일별 정밀 집계 시작점(2026-07-06) 표식 — 그 앞 구간은 구간 근사(직선)
+  const tBase = Date.parse("2026-07-06");
+  const baseMark = (tBase>t0 && tBase<tN)
+    ? `<line x1="${px(tBase)}" y1="${pad}" x2="${px(tBase)}" y2="${H-pad}" stroke="#5b6473" stroke-width="1" stroke-dasharray="2 4"/>` : "";
+  return `<div class="panel"><div class="phead"><span class="t">누적 수익률 추이</span>
+    <span class="s">운용 시작 이후 · 익절 포함 · 입출금 효과 제거</span></div>
+    <svg viewBox="0 0 ${W} ${H}" preserveAspectRatio="none" style="padding:4px 14px 8px">
       <line x1="${pad}" y1="${zeroY}" x2="${W-pad}" y2="${zeroY}" stroke="#262b35" stroke-width="1" stroke-dasharray="3 4"/>
+      ${baseMark}
       <polyline fill="none" stroke="${col}" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round" points="${pts}"/>
-    </svg></div>`;
+    </svg>
+    <div class="chartnote">시간가중 수익률(TWR) — 입금·출금으로 인한 자산 변동을 제거한 순수 운용 성과.
+    점선 세로선(7/6) 이전 구간은 입출금 기록 정밀도 한계로 구간 근사입니다.</div></div>`;
+}
+
+function tradesPanel(trades){
+  if(!trades || !trades.length) return "";
+  const rows = trades.map(t=>`
+    <tr><td class="nm">${t.name}<span class="tag ${t.mkt}">${t.mkt}</span></td>
+      <td>${t.closed.slice(5).replace("-","/")}</td>
+      <td>${t.held_days!=null ? t.held_days+"일" : "–"}</td>
+      <td class="${cls(t.pct)}">${(t.pct>0?"+":"")+t.pct.toFixed(1)}%</td></tr>`).join("");
+  return `<div class="panel">
+    <div class="phead"><span class="t">청산 완료 내역</span><span class="s">익절·손절 실현 수익률 · 최근순</span></div>
+    <table>
+      <thead><tr><th>종목</th><th>청산일</th><th>보유</th><th>실현수익률</th></tr></thead>
+      <tbody>${rows}</tbody>
+    </table>
+    <div class="chartnote">체결가 기준 · 수수료·세금 미반영 · 해외 종목은 현지통화 기준(환차 미포함)</div></div>`;
 }
 
 function render(d){
@@ -127,8 +154,9 @@ function render(d){
 
   $("#app").innerHTML = `
     <div class="hero">
-      <div class="cap">누적 수익률 · 실제 체결 기준</div>
+      <div class="cap">누적 수익률 · 실제 체결 · 익절 포함 (시간가중)</div>
       <div class="big ${c}">${fmtPct(d.return_pct)}</div>
+      ${d.net_growth_pct!=null ? `<div class="sub">순입금 대비 순자산 성장 <b class="${cls(d.net_growth_pct)}">${fmtPct(d.net_growth_pct)}</b></div>` : ""}
       <div class="status"><span class="stat ${fr.live?'live':'closed'}"><span class="sd"></span>${fr.label}</span></div>
       <div class="note">운용 시작 ${d.inception} · 마지막 업데이트 ${d.updated_at} KST</div>
     </div>
@@ -142,16 +170,20 @@ function render(d){
     ${sparkline(d.history)}
 
     <div class="panel">
-      <div class="phead"><span class="t">보유 종목</span><span class="s">비중 · 종목별 수익률</span></div>
+      <div class="phead"><span class="t">보유 종목</span><span class="s">비중 · 종목별 수익률(평가)</span></div>
       <table>
         <thead><tr><th>종목</th><th>비중</th><th>수익률</th></tr></thead>
         <tbody>${rows || `<tr><td colspan="3" style="text-align:center;color:var(--sub);padding:22px">현재 보유 종목 없음 (현금 대기 중)</td></tr>`}</tbody>
       </table>
     </div>
 
+    ${tradesPanel(d.trades)}
+
     <div class="honest">
       <b>정직하게 밝힙니다.</b> 잃어도 괜찮은 <b>소액 실계좌</b>로 검증 중이라 금액은 공개하지 않고
-      수익률·종목·비중만 보여드려요. 봇은 코스피200+S&amp;P500의 큰 회사들 중 흐름 좋은 몇 개만 담고
+      수익률·종목·비중만 보여드려요. 상단 수익률은 팔아서 확정한 익절·손절까지 포함하고,
+      제가 돈을 더 넣거나 뺀 효과는 제거한 <b>시간가중 수익률</b>입니다(펀드 성과 표기와 같은 방식).
+      봇은 코스피200+S&amp;P500의 큰 회사들 중 흐름 좋은 몇 개만 담고
       한 달에 한 번 교체합니다. 체결될 때마다 + 장중 5분마다 자동으로 이 페이지가 갱신돼요.
     </div>
 
