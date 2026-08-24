@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25 05:17",
+  "updated_at": "2026-08-25 05:27",
   "inception": "2026-06-04",
   "days": 83,
   "return_pct": 8.23,
@@ -16,7 +16,7 @@
     {
       "name": "센틴",
       "mkt": "US",
-      "weight": 12.8,
+      "weight": 12.7,
       "pnl_pct": 5.0
     },
     {
