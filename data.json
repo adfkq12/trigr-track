@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-25 02:32",
+  "updated_at": "2026-08-25 02:37",
   "inception": "2026-06-04",
   "days": 83,
-  "return_pct": 8.17,
+  "return_pct": 8.18,
   "net_growth_pct": 12.2,
   "n_holdings": 8,
   "cash_weight": 16.5,
@@ -29,7 +29,7 @@
       "name": "발레로 에너지",
       "mkt": "US",
       "weight": 12.2,
-      "pnl_pct": -1.6
+      "pnl_pct": -1.5
     },
     {
       "name": "가온전선",
@@ -199,7 +199,7 @@
     },
     {
       "date": "2026-08-25",
-      "ret_pct": 8.17
+      "ret_pct": 8.18
     }
   ],
   "trades": [
