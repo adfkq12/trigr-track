@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25 04:32",
+  "updated_at": "2026-08-25 04:37",
   "inception": "2026-06-04",
   "days": 83,
   "return_pct": 8.29,
@@ -29,7 +29,7 @@
       "name": "발레로 에너지",
       "mkt": "US",
       "weight": 12.3,
-      "pnl_pct": -0.6
+      "pnl_pct": -0.7
     },
     {
       "name": "가온전선",
@@ -53,7 +53,7 @@
       "name": "워너 브로스 디스커버리",
       "mkt": "US",
       "weight": 0.5,
-      "pnl_pct": 5.6
+      "pnl_pct": 5.5
     }
   ],
   "history": [
