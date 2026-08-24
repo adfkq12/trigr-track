@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24 13:22",
+  "updated_at": "2026-08-24 13:27",
   "inception": "2026-06-04",
   "days": 82,
   "return_pct": 8.16,
@@ -11,7 +11,7 @@
       "name": "대우건설",
       "mkt": "KR",
       "weight": 13.2,
-      "pnl_pct": -1.8
+      "pnl_pct": -1.9
     },
     {
       "name": "센틴",
@@ -29,7 +29,7 @@
       "name": "LS ELECTRIC",
       "mkt": "KR",
       "weight": 12.2,
-      "pnl_pct": -0.6
+      "pnl_pct": -0.5
     },
     {
       "name": "가온전선",
@@ -40,14 +40,14 @@
     {
       "name": "삼성생명",
       "mkt": "KR",
-      "weight": 11.3,
-      "pnl_pct": 0.2
+      "weight": 11.2,
+      "pnl_pct": -0.2
     },
     {
       "name": "신세계",
       "mkt": "KR",
       "weight": 10.2,
-      "pnl_pct": 0.0
+      "pnl_pct": 0.2
     },
     {
       "name": "워너 브로스 디스커버리",
