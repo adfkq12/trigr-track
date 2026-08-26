@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-27 00:12",
+  "updated_at": "2026-08-27 00:17",
   "inception": "2026-06-04",
   "days": 85,
-  "return_pct": 6.45,
+  "return_pct": 6.49,
   "net_growth_pct": 13.0,
   "n_holdings": 8,
   "cash_weight": 0.1,
@@ -11,7 +11,7 @@
       "name": "센틴",
       "mkt": "US",
       "weight": 15.7,
-      "pnl_pct": 7.3
+      "pnl_pct": 7.5
     },
     {
       "name": "가온전선",
@@ -207,7 +207,7 @@
     },
     {
       "date": "2026-08-27",
-      "ret_pct": 6.45
+      "ret_pct": 6.49
     }
   ],
   "trades": [
