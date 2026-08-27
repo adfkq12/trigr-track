@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-27 10:57",
+  "updated_at": "2026-08-27 11:02",
   "inception": "2026-06-04",
   "days": 85,
-  "return_pct": 17.07,
-  "net_growth_pct": 24.2,
+  "return_pct": 17.14,
+  "net_growth_pct": 24.3,
   "n_holdings": 8,
   "cash_weight": 0.1,
   "holdings": [
@@ -35,19 +35,19 @@
       "name": "삼성생명",
       "mkt": "KR",
       "weight": 12.9,
-      "pnl_pct": 4.9
+      "pnl_pct": 4.8
     },
     {
       "name": "신세계",
       "mkt": "KR",
       "weight": 11.4,
-      "pnl_pct": 2.1
+      "pnl_pct": 2.4
     },
     {
       "name": "대우건설",
       "mkt": "KR",
-      "weight": 10.1,
-      "pnl_pct": 26.5
+      "weight": 10.2,
+      "pnl_pct": 26.8
     },
     {
       "name": "워너 브로스 디스커버리",
@@ -207,7 +207,7 @@
     },
     {
       "date": "2026-08-27",
-      "ret_pct": 17.07
+      "ret_pct": 17.14
     }
   ],
   "trades": [
