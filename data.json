@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-27 12:57",
+  "updated_at": "2026-08-27 13:02",
   "inception": "2026-06-04",
   "days": 85,
-  "return_pct": 18.23,
+  "return_pct": 18.22,
   "net_growth_pct": 25.4,
   "n_holdings": 8,
   "cash_weight": 0.1,
@@ -10,14 +10,14 @@
     {
       "name": "가온전선",
       "mkt": "KR",
-      "weight": 15.1,
-      "pnl_pct": 20.9
+      "weight": 15.2,
+      "pnl_pct": 21.3
     },
     {
       "name": "LS ELECTRIC",
       "mkt": "KR",
       "weight": 14.9,
-      "pnl_pct": 12.9
+      "pnl_pct": 12.7
     },
     {
       "name": "센틴",
@@ -35,13 +35,13 @@
       "name": "삼성생명",
       "mkt": "KR",
       "weight": 12.7,
-      "pnl_pct": 4.4
+      "pnl_pct": 4.3
     },
     {
       "name": "신세계",
       "mkt": "KR",
       "weight": 11.5,
-      "pnl_pct": 4.5
+      "pnl_pct": 4.8
     },
     {
       "name": "대우건설",
@@ -207,7 +207,7 @@
     },
     {
       "date": "2026-08-27",
-      "ret_pct": 18.23
+      "ret_pct": 18.22
     }
   ],
   "trades": [
