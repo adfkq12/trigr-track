@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-02 15:22",
+  "updated_at": "2026-09-02 15:27",
   "inception": "2026-06-08",
   "days": 87,
-  "return_pct": 14.3,
-  "net_growth_pct": 24.0,
+  "return_pct": 14.29,
+  "net_growth_pct": 23.9,
   "n_holdings": 8,
   "cash_weight": 0.1,
   "holdings": [
@@ -34,7 +34,7 @@
     {
       "name": "삼성생명",
       "mkt": "KR",
-      "weight": 13.6,
+      "weight": 13.7,
       "pnl_pct": -0.2
     },
     {
@@ -223,7 +223,7 @@
     },
     {
       "date": "2026-09-02",
-      "ret_pct": 14.3
+      "ret_pct": 14.29
     }
   ],
   "trades": [
