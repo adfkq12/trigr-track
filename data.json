@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03 02:37",
+  "updated_at": "2026-09-03 02:42",
   "inception": "2026-06-08",
   "days": 88,
   "return_pct": 15.02,
@@ -22,8 +22,8 @@
     {
       "name": "발레로 에너지",
       "mkt": "US",
-      "weight": 15.4,
-      "pnl_pct": 5.0
+      "weight": 15.5,
+      "pnl_pct": 5.1
     },
     {
       "name": "LS ELECTRIC",
