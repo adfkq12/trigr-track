@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-03 00:37",
+  "updated_at": "2026-09-03 00:42",
   "inception": "2026-06-08",
   "days": 88,
-  "return_pct": 14.86,
+  "return_pct": 14.87,
   "net_growth_pct": 24.6,
   "n_holdings": 8,
   "cash_weight": 0.1,
@@ -23,7 +23,7 @@
       "name": "발레로 에너지",
       "mkt": "US",
       "weight": 15.3,
-      "pnl_pct": 4.1
+      "pnl_pct": 4.0
     },
     {
       "name": "LS ELECTRIC",
@@ -227,7 +227,7 @@
     },
     {
       "date": "2026-09-03",
-      "ret_pct": 14.86
+      "ret_pct": 14.87
     }
   ],
   "trades": [
