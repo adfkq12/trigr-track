@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02 14:47",
+  "updated_at": "2026-09-02 14:52",
   "inception": "2026-06-08",
   "days": 87,
   "return_pct": 14.68,
@@ -41,13 +41,13 @@
       "name": "신세계",
       "mkt": "KR",
       "weight": 12.0,
-      "pnl_pct": -2.5
+      "pnl_pct": -2.4
     },
     {
       "name": "대우건설",
       "mkt": "KR",
-      "weight": 9.2,
-      "pnl_pct": 3.1
+      "weight": 9.1,
+      "pnl_pct": 2.9
     },
     {
       "name": "워너 브로스 디스커버리",
