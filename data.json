@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03 04:12",
+  "updated_at": "2026-09-03 04:17",
   "inception": "2026-06-08",
   "days": 88,
   "return_pct": 15.27,
@@ -17,13 +17,13 @@
       "name": "센틴",
       "mkt": "US",
       "weight": 15.6,
-      "pnl_pct": 8.4
+      "pnl_pct": 8.3
     },
     {
       "name": "발레로 에너지",
       "mkt": "US",
       "weight": 15.5,
-      "pnl_pct": 5.2
+      "pnl_pct": 5.4
     },
     {
       "name": "LS ELECTRIC",
