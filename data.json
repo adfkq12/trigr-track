@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-03 11:52",
+  "updated_at": "2026-09-03 11:57",
   "inception": "2026-06-08",
   "days": 88,
-  "return_pct": 15.42,
+  "return_pct": 15.45,
   "net_growth_pct": 25.2,
   "n_holdings": 8,
   "cash_weight": 0.1,
@@ -41,13 +41,13 @@
       "name": "신세계",
       "mkt": "KR",
       "weight": 11.6,
-      "pnl_pct": -5.8
+      "pnl_pct": -5.7
     },
     {
       "name": "대우건설",
       "mkt": "KR",
       "weight": 9.1,
-      "pnl_pct": 2.8
+      "pnl_pct": 2.9
     },
     {
       "name": "워너 브로스 디스커버리",
@@ -227,7 +227,7 @@
     },
     {
       "date": "2026-09-03",
-      "ret_pct": 15.42
+      "ret_pct": 15.45
     }
   ],
   "trades": [
