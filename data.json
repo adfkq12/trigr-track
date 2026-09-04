@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-04 15:32",
+  "updated_at": "2026-09-04 15:37",
   "inception": "2026-06-10",
   "days": 87,
-  "return_pct": 16.75,
+  "return_pct": 16.74,
   "net_growth_pct": 26.6,
   "n_holdings": 8,
   "cash_weight": 0.1,
@@ -40,7 +40,7 @@
     {
       "name": "신세계",
       "mkt": "KR",
-      "weight": 11.6,
+      "weight": 11.7,
       "pnl_pct": -3.9
     },
     {
@@ -231,7 +231,7 @@
     },
     {
       "date": "2026-09-04",
-      "ret_pct": 16.75
+      "ret_pct": 16.74
     }
   ],
   "trades": [
