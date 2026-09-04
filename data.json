@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-05 04:17",
+  "updated_at": "2026-09-05 04:22",
   "inception": "2026-06-10",
   "days": 88,
-  "return_pct": 16.33,
-  "net_growth_pct": 26.2,
+  "return_pct": 16.32,
+  "net_growth_pct": 26.1,
   "n_holdings": 8,
   "cash_weight": 0.1,
   "holdings": [
@@ -17,7 +17,7 @@
       "name": "센틴",
       "mkt": "US",
       "weight": 15.2,
-      "pnl_pct": 7.5
+      "pnl_pct": 7.4
     },
     {
       "name": "발레로 에너지",
@@ -235,7 +235,7 @@
     },
     {
       "date": "2026-09-05",
-      "ret_pct": 16.33
+      "ret_pct": 16.32
     }
   ],
   "trades": [
