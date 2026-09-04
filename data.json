@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-04 14:07",
+  "updated_at": "2026-09-04 14:12",
   "inception": "2026-06-10",
   "days": 87,
-  "return_pct": 16.36,
+  "return_pct": 16.33,
   "net_growth_pct": 26.2,
   "n_holdings": 8,
   "cash_weight": 0.1,
@@ -11,7 +11,7 @@
       "name": "가온전선",
       "mkt": "KR",
       "weight": 19.3,
-      "pnl_pct": 40.0
+      "pnl_pct": 39.8
     },
     {
       "name": "센틴",
@@ -35,7 +35,7 @@
       "name": "삼성생명",
       "mkt": "KR",
       "weight": 13.6,
-      "pnl_pct": 1.0
+      "pnl_pct": 1.1
     },
     {
       "name": "신세계",
@@ -231,7 +231,7 @@
     },
     {
       "date": "2026-09-04",
-      "ret_pct": 16.36
+      "ret_pct": 16.33
     }
   ],
   "trades": [
