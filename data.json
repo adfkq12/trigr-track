@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04 15:37",
+  "updated_at": "2026-09-04 15:42",
   "inception": "2026-06-10",
   "days": 87,
   "return_pct": 16.74,
@@ -40,7 +40,7 @@
     {
       "name": "신세계",
       "mkt": "KR",
-      "weight": 11.7,
+      "weight": 11.6,
       "pnl_pct": -3.9
     },
     {
