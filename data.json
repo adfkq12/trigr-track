@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-05 01:47",
+  "updated_at": "2026-09-05 01:52",
   "inception": "2026-06-10",
   "days": 88,
-  "return_pct": 16.59,
+  "return_pct": 16.51,
   "net_growth_pct": 26.4,
   "n_holdings": 8,
   "cash_weight": 0.1,
@@ -17,7 +17,7 @@
       "name": "센틴",
       "mkt": "US",
       "weight": 15.3,
-      "pnl_pct": 8.4
+      "pnl_pct": 8.0
     },
     {
       "name": "발레로 에너지",
@@ -46,7 +46,7 @@
     {
       "name": "대우건설",
       "mkt": "KR",
-      "weight": 9.2,
+      "weight": 9.3,
       "pnl_pct": 5.8
     },
     {
@@ -235,7 +235,7 @@
     },
     {
       "date": "2026-09-05",
-      "ret_pct": 16.59
+      "ret_pct": 16.51
     }
   ],
   "trades": [
