@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-07 12:52",
+  "updated_at": "2026-09-07 12:57",
   "inception": "2026-06-11",
   "days": 89,
-  "return_pct": 21.19,
+  "return_pct": 21.2,
   "net_growth_pct": 31.4,
   "n_holdings": 8,
   "cash_weight": 0.1,
@@ -41,7 +41,7 @@
       "name": "신세계",
       "mkt": "KR",
       "weight": 11.2,
-      "pnl_pct": -3.9
+      "pnl_pct": -3.8
     },
     {
       "name": "대우건설",
@@ -235,7 +235,7 @@
     },
     {
       "date": "2026-09-07",
-      "ret_pct": 21.19
+      "ret_pct": 21.2
     }
   ],
   "trades": [
