@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-10 05:02",
+  "updated_at": "2026-09-10 05:07",
   "inception": "2026-06-16",
   "days": 87,
-  "return_pct": 25.76,
+  "return_pct": 25.75,
   "net_growth_pct": 36.4,
   "n_holdings": 8,
   "cash_weight": 0.1,
@@ -28,7 +28,7 @@
     {
       "name": "센틴",
       "mkt": "US",
-      "weight": 13.4,
+      "weight": 13.3,
       "pnl_pct": 2.5
     },
     {
@@ -247,7 +247,7 @@
     },
     {
       "date": "2026-09-10",
-      "ret_pct": 25.76
+      "ret_pct": 25.75
     }
   ],
   "trades": [
