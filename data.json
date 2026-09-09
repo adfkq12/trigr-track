@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09 14:57",
+  "updated_at": "2026-09-09 15:02",
   "inception": "2026-06-12",
   "days": 90,
   "return_pct": 25.44,
@@ -28,14 +28,14 @@
     {
       "name": "센틴",
       "mkt": "US",
-      "weight": 13.5,
+      "weight": 13.4,
       "pnl_pct": 3.3
     },
     {
       "name": "삼성생명",
       "mkt": "KR",
-      "weight": 12.9,
-      "pnl_pct": 3.9
+      "weight": 13.0,
+      "pnl_pct": 4.1
     },
     {
       "name": "신세계",
@@ -46,8 +46,8 @@
     {
       "name": "대우건설",
       "mkt": "KR",
-      "weight": 10.0,
-      "pnl_pct": 22.5
+      "weight": 9.9,
+      "pnl_pct": 22.3
     },
     {
       "name": "워너 브로스 디스커버리",
