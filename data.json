@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-10 03:57",
+  "updated_at": "2026-09-10 04:02",
   "inception": "2026-06-16",
   "days": 87,
-  "return_pct": 25.65,
+  "return_pct": 25.68,
   "net_growth_pct": 36.3,
   "n_holdings": 8,
   "cash_weight": 0.1,
@@ -22,14 +22,14 @@
     {
       "name": "발레로 에너지",
       "mkt": "US",
-      "weight": 14.6,
-      "pnl_pct": 10.2
+      "weight": 14.7,
+      "pnl_pct": 10.4
     },
     {
       "name": "센틴",
       "mkt": "US",
       "weight": 13.4,
-      "pnl_pct": 2.8
+      "pnl_pct": 2.6
     },
     {
       "name": "삼성생명",
@@ -247,7 +247,7 @@
     },
     {
       "date": "2026-09-10",
-      "ret_pct": 25.65
+      "ret_pct": 25.68
     }
   ],
   "trades": [
