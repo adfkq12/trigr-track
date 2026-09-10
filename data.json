@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-10 23:02",
+  "updated_at": "2026-09-10 23:07",
   "inception": "2026-06-17",
   "days": 86,
-  "return_pct": 24.7,
-  "net_growth_pct": 35.2,
+  "return_pct": 24.57,
+  "net_growth_pct": 35.1,
   "n_holdings": 8,
   "cash_weight": 0.1,
   "holdings": [
@@ -28,13 +28,13 @@
     {
       "name": "센틴",
       "mkt": "US",
-      "weight": 14.1,
-      "pnl_pct": 7.1
+      "weight": 14.0,
+      "pnl_pct": 6.3
     },
     {
       "name": "삼성생명",
       "mkt": "KR",
-      "weight": 13.2,
+      "weight": 13.3,
       "pnl_pct": 5.6
     },
     {
@@ -53,7 +53,7 @@
       "name": "워너 브로스 디스커버리",
       "mkt": "US",
       "weight": 0.5,
-      "pnl_pct": 3.2
+      "pnl_pct": 3.1
     }
   ],
   "history": [
@@ -247,7 +247,7 @@
     },
     {
       "date": "2026-09-10",
-      "ret_pct": 24.7
+      "ret_pct": 24.57
     }
   ],
   "trades": [
