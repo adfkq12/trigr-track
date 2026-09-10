@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11 03:57",
+  "updated_at": "2026-09-11 04:02",
   "inception": "2026-06-17",
   "days": 87,
   "return_pct": 24.54,
@@ -28,8 +28,8 @@
     {
       "name": "센틴",
       "mkt": "US",
-      "weight": 13.9,
-      "pnl_pct": 4.8
+      "weight": 13.8,
+      "pnl_pct": 4.7
     },
     {
       "name": "삼성생명",
@@ -46,14 +46,14 @@
     {
       "name": "대우건설",
       "mkt": "KR",
-      "weight": 10.1,
+      "weight": 10.2,
       "pnl_pct": 24.0
     },
     {
       "name": "워너 브로스 디스커버리",
       "mkt": "US",
       "weight": 0.5,
-      "pnl_pct": 3.0
+      "pnl_pct": 2.9
     }
   ],
   "history": [
