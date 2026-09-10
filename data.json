@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10 13:57",
+  "updated_at": "2026-09-10 14:02",
   "inception": "2026-06-17",
   "days": 86,
   "return_pct": 22.97,
@@ -23,7 +23,7 @@
       "name": "LS ELECTRIC",
       "mkt": "KR",
       "weight": 14.9,
-      "pnl_pct": 7.7
+      "pnl_pct": 7.4
     },
     {
       "name": "센틴",
@@ -41,7 +41,7 @@
       "name": "신세계",
       "mkt": "KR",
       "weight": 11.0,
-      "pnl_pct": -4.4
+      "pnl_pct": -4.1
     },
     {
       "name": "대우건설",
