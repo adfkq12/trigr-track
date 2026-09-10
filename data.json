@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-09-10 14:37",
+  "updated_at": "2026-09-10 14:42",
   "inception": "2026-06-17",
   "days": 86,
-  "return_pct": 24.11,
-  "net_growth_pct": 34.6,
+  "return_pct": 24.05,
+  "net_growth_pct": 34.5,
   "n_holdings": 8,
   "cash_weight": 0.1,
   "holdings": [
     {
       "name": "가온전선",
       "mkt": "KR",
-      "weight": 21.7,
-      "pnl_pct": 67.3
+      "weight": 21.6,
+      "pnl_pct": 66.5
     },
     {
       "name": "LS ELECTRIC",
@@ -41,13 +41,13 @@
       "name": "신세계",
       "mkt": "KR",
       "weight": 11.1,
-      "pnl_pct": -2.9
+      "pnl_pct": -3.0
     },
     {
       "name": "대우건설",
       "mkt": "KR",
-      "weight": 10.1,
-      "pnl_pct": 23.3
+      "weight": 10.2,
+      "pnl_pct": 24.0
     },
     {
       "name": "워너 브로스 디스커버리",
@@ -247,7 +247,7 @@
     },
     {
       "date": "2026-09-10",
-      "ret_pct": 24.11
+      "ret_pct": 24.05
     }
   ],
   "trades": [
