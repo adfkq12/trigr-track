@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-11 22:37",
+  "updated_at": "2026-09-11 22:42",
   "inception": "2026-06-18",
   "days": 86,
-  "return_pct": 24.67,
-  "net_growth_pct": 35.2,
+  "return_pct": 24.6,
+  "net_growth_pct": 35.1,
   "n_holdings": 8,
   "cash_weight": 0.1,
   "holdings": [
@@ -16,8 +16,8 @@
     {
       "name": "발레로 에너지",
       "mkt": "US",
-      "weight": 14.9,
-      "pnl_pct": 11.6
+      "weight": 15.0,
+      "pnl_pct": 12.1
     },
     {
       "name": "LS ELECTRIC",
@@ -28,8 +28,8 @@
     {
       "name": "센틴",
       "mkt": "US",
-      "weight": 13.9,
-      "pnl_pct": 6.1
+      "weight": 13.8,
+      "pnl_pct": 5.1
     },
     {
       "name": "삼성생명",
@@ -53,7 +53,7 @@
       "name": "워너 브로스 디스커버리",
       "mkt": "US",
       "weight": 0.5,
-      "pnl_pct": 3.4
+      "pnl_pct": 3.3
     }
   ],
   "history": [
@@ -251,7 +251,7 @@
     },
     {
       "date": "2026-09-11",
-      "ret_pct": 24.67
+      "ret_pct": 24.6
     }
   ],
   "trades": [
