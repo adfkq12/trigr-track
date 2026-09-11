@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12 00:37",
+  "updated_at": "2026-09-12 00:42",
   "inception": "2026-06-18",
   "days": 87,
   "return_pct": 24.74,
@@ -29,7 +29,7 @@
       "name": "센틴",
       "mkt": "US",
       "weight": 13.7,
-      "pnl_pct": 4.2
+      "pnl_pct": 4.3
     },
     {
       "name": "삼성생명",
