@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-14 13:52",
+  "updated_at": "2026-09-14 13:57",
   "inception": "2026-06-19",
   "days": 88,
-  "return_pct": 22.2,
+  "return_pct": 22.19,
   "net_growth_pct": 32.5,
   "n_holdings": 8,
   "cash_weight": 0.1,
@@ -34,14 +34,14 @@
     {
       "name": "삼성생명",
       "mkt": "KR",
-      "weight": 13.0,
-      "pnl_pct": 1.9
+      "weight": 13.1,
+      "pnl_pct": 2.0
     },
     {
       "name": "신세계",
       "mkt": "KR",
       "weight": 11.0,
-      "pnl_pct": -4.9
+      "pnl_pct": -5.0
     },
     {
       "name": "대우건설",
@@ -255,7 +255,7 @@
     },
     {
       "date": "2026-09-14",
-      "ret_pct": 22.2
+      "ret_pct": 22.19
     }
   ],
   "trades": [
