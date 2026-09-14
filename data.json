@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-09-14 10:02",
+  "updated_at": "2026-09-14 10:07",
   "inception": "2026-06-19",
   "days": 88,
-  "return_pct": 22.12,
-  "net_growth_pct": 32.4,
+  "return_pct": 21.83,
+  "net_growth_pct": 32.1,
   "n_holdings": 8,
   "cash_weight": 0.1,
   "holdings": [
     {
       "name": "가온전선",
       "mkt": "KR",
-      "weight": 21.7,
-      "pnl_pct": 64.7
+      "weight": 21.6,
+      "pnl_pct": 63.7
     },
     {
       "name": "발레로 에너지",
@@ -23,36 +23,36 @@
       "name": "LS ELECTRIC",
       "mkt": "KR",
       "weight": 14.7,
-      "pnl_pct": 5.3
+      "pnl_pct": 5.1
     },
     {
       "name": "센틴",
       "mkt": "US",
-      "weight": 14.3,
+      "weight": 14.4,
       "pnl_pct": 6.2
     },
     {
       "name": "삼성생명",
       "mkt": "KR",
       "weight": 12.8,
-      "pnl_pct": 0.2
+      "pnl_pct": -0.5
     },
     {
       "name": "신세계",
       "mkt": "KR",
       "weight": 10.8,
-      "pnl_pct": -7.0
+      "pnl_pct": -7.2
     },
     {
       "name": "대우건설",
       "mkt": "KR",
       "weight": 9.9,
-      "pnl_pct": 18.4
+      "pnl_pct": 18.2
     },
     {
       "name": "워너 브로스 디스커버리",
       "mkt": "US",
-      "weight": 0.5,
+      "weight": 0.6,
       "pnl_pct": 2.9
     }
   ],
@@ -255,7 +255,7 @@
     },
     {
       "date": "2026-09-14",
-      "ret_pct": 22.12
+      "ret_pct": 21.83
     }
   ],
   "trades": [
