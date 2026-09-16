@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16 23:52",
+  "updated_at": "2026-09-16 23:57",
   "inception": "2026-06-22",
   "days": 87,
   "return_pct": 22.57,
@@ -17,13 +17,13 @@
       "name": "발레로 에너지",
       "mkt": "US",
       "weight": 15.9,
-      "pnl_pct": 14.2
+      "pnl_pct": 14.1
     },
     {
       "name": "센틴",
       "mkt": "US",
       "weight": 14.8,
-      "pnl_pct": 8.5
+      "pnl_pct": 8.4
     },
     {
       "name": "LS ELECTRIC",
@@ -53,7 +53,7 @@
       "name": "워너 브로스 디스커버리",
       "mkt": "US",
       "weight": 0.6,
-      "pnl_pct": 3.2
+      "pnl_pct": 3.1
     }
   ],
   "history": [
