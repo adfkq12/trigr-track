@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-17 03:27",
+  "updated_at": "2026-09-17 03:32",
   "inception": "2026-06-22",
   "days": 88,
-  "return_pct": 22.72,
+  "return_pct": 22.69,
   "net_growth_pct": 33.1,
   "n_holdings": 8,
   "cash_weight": 0.1,
@@ -23,7 +23,7 @@
       "name": "센틴",
       "mkt": "US",
       "weight": 14.6,
-      "pnl_pct": 7.0
+      "pnl_pct": 6.9
     },
     {
       "name": "LS ELECTRIC",
@@ -53,7 +53,7 @@
       "name": "워너 브로스 디스커버리",
       "mkt": "US",
       "weight": 0.6,
-      "pnl_pct": 3.0
+      "pnl_pct": 3.1
     }
   ],
   "history": [
@@ -263,7 +263,7 @@
     },
     {
       "date": "2026-09-17",
-      "ret_pct": 22.72
+      "ret_pct": 22.69
     }
   ],
   "trades": [
