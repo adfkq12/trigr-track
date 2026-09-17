@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-18 02:32",
+  "updated_at": "2026-09-18 02:37",
   "inception": "2026-06-23",
   "days": 88,
-  "return_pct": 24.19,
+  "return_pct": 24.23,
   "net_growth_pct": 34.7,
   "n_holdings": 8,
   "cash_weight": 0.1,
@@ -22,8 +22,8 @@
     {
       "name": "센틴",
       "mkt": "US",
-      "weight": 14.6,
-      "pnl_pct": 7.7
+      "weight": 14.7,
+      "pnl_pct": 7.9
     },
     {
       "name": "LS ELECTRIC",
@@ -267,7 +267,7 @@
     },
     {
       "date": "2026-09-18",
-      "ret_pct": 24.19
+      "ret_pct": 24.23
     }
   ],
   "trades": [
