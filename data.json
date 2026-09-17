@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-09-17 23:27",
+  "updated_at": "2026-09-17 23:32",
   "inception": "2026-06-23",
   "days": 87,
-  "return_pct": 23.8,
-  "net_growth_pct": 34.3,
+  "return_pct": 23.77,
+  "net_growth_pct": 34.2,
   "n_holdings": 8,
   "cash_weight": 0.1,
   "holdings": [
     {
       "name": "가온전선",
       "mkt": "KR",
-      "weight": 22.4,
+      "weight": 22.5,
       "pnl_pct": 73.0
     },
     {
       "name": "발레로 에너지",
       "mkt": "US",
       "weight": 15.9,
-      "pnl_pct": 14.5
+      "pnl_pct": 14.4
     },
     {
       "name": "센틴",
@@ -263,7 +263,7 @@
     },
     {
       "date": "2026-09-17",
-      "ret_pct": 23.8
+      "ret_pct": 23.77
     }
   ],
   "trades": [
