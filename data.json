@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-18 00:07",
+  "updated_at": "2026-09-18 00:12",
   "inception": "2026-06-23",
   "days": 88,
-  "return_pct": 23.92,
+  "return_pct": 23.97,
   "net_growth_pct": 34.4,
   "n_holdings": 8,
   "cash_weight": 0.1,
@@ -17,7 +17,7 @@
       "name": "발레로 에너지",
       "mkt": "US",
       "weight": 16.1,
-      "pnl_pct": 16.1
+      "pnl_pct": 16.3
     },
     {
       "name": "센틴",
@@ -53,7 +53,7 @@
       "name": "워너 브로스 디스커버리",
       "mkt": "US",
       "weight": 0.6,
-      "pnl_pct": 3.2
+      "pnl_pct": 3.1
     }
   ],
   "history": [
@@ -267,7 +267,7 @@
     },
     {
       "date": "2026-09-18",
-      "ret_pct": 23.92
+      "ret_pct": 23.97
     }
   ],
   "trades": [
