@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-18 23:02",
+  "updated_at": "2026-09-18 23:07",
   "inception": "2026-06-24",
   "days": 87,
-  "return_pct": 30.28,
+  "return_pct": 30.35,
   "net_growth_pct": 36.8,
   "n_holdings": 8,
   "cash_weight": 9.3,
@@ -34,8 +34,8 @@
     {
       "name": "모더나",
       "mkt": "US",
-      "weight": 10.6,
-      "pnl_pct": -1.1
+      "weight": 10.7,
+      "pnl_pct": -0.6
     },
     {
       "name": "LS ELECTRIC",
@@ -267,7 +267,7 @@
     },
     {
       "date": "2026-09-18",
-      "ret_pct": 30.28
+      "ret_pct": 30.35
     }
   ],
   "trades": [
@@ -305,6 +305,20 @@
       "closed": "2026-09-18",
       "pct": 20.8,
       "held_days": 28
+    },
+    {
+      "name": "발레로 에너지",
+      "mkt": "US",
+      "closed": "2026-09-18",
+      "pct": 17.9,
+      "held_days": 29
+    },
+    {
+      "name": "센틴",
+      "mkt": "US",
+      "closed": "2026-09-18",
+      "pct": 5.7,
+      "held_days": 53
     },
     {
       "name": "대우건설",
@@ -360,20 +374,6 @@
       "mkt": "US",
       "closed": "2026-07-31",
       "pct": 0.5,
-      "held_days": 2
-    },
-    {
-      "name": "스틸 다이내믹스",
-      "mkt": "US",
-      "closed": "2026-07-31",
-      "pct": -4.2,
-      "held_days": 2
-    },
-    {
-      "name": "호스트 호텔스 앤드 리조츠",
-      "mkt": "US",
-      "closed": "2026-07-29",
-      "pct": 2.2,
       "held_days": 2
     }
   ]
