@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-18 15:27",
+  "updated_at": "2026-09-18 15:32",
   "inception": "2026-06-24",
   "days": 87,
-  "return_pct": 30.37,
-  "net_growth_pct": 36.8,
+  "return_pct": 30.83,
+  "net_growth_pct": 37.3,
   "n_holdings": 9,
-  "cash_weight": 9.3,
+  "cash_weight": 9.2,
   "holdings": [
     {
       "name": "발레로 에너지",
@@ -16,43 +16,43 @@
     {
       "name": "센틴",
       "mkt": "US",
-      "weight": 12.6,
+      "weight": 12.5,
       "pnl_pct": 7.3
     },
     {
       "name": "미래에셋생명",
       "mkt": "KR",
       "weight": 12.3,
-      "pnl_pct": -1.1
+      "pnl_pct": -0.9
     },
     {
       "name": "가온전선",
       "mkt": "KR",
       "weight": 12.0,
-      "pnl_pct": 3.2
+      "pnl_pct": 4.1
     },
     {
       "name": "SK이터닉스",
       "mkt": "KR",
-      "weight": 11.8,
-      "pnl_pct": -1.2
+      "weight": 11.9,
+      "pnl_pct": -0.2
     },
     {
       "name": "한국콜마",
       "mkt": "KR",
       "weight": 10.7,
-      "pnl_pct": -2.7
+      "pnl_pct": -2.6
     },
     {
       "name": "LS ELECTRIC",
       "mkt": "KR",
       "weight": 10.4,
-      "pnl_pct": 1.1
+      "pnl_pct": 1.8
     },
     {
       "name": "OCI홀딩스",
       "mkt": "KR",
-      "weight": 10.1,
+      "weight": 10.0,
       "pnl_pct": -1.7
     },
     {
@@ -273,7 +273,7 @@
     },
     {
       "date": "2026-09-18",
-      "ret_pct": 30.37
+      "ret_pct": 30.83
     }
   ],
   "trades": [
