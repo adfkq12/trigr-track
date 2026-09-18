@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-18 15:22",
+  "updated_at": "2026-09-18 15:27",
   "inception": "2026-06-24",
   "days": 87,
-  "return_pct": 30.39,
-  "net_growth_pct": 36.9,
+  "return_pct": 30.37,
+  "net_growth_pct": 36.8,
   "n_holdings": 9,
   "cash_weight": 9.3,
   "holdings": [
@@ -46,7 +46,7 @@
     {
       "name": "LS ELECTRIC",
       "mkt": "KR",
-      "weight": 10.3,
+      "weight": 10.4,
       "pnl_pct": 1.1
     },
     {
@@ -273,7 +273,7 @@
     },
     {
       "date": "2026-09-18",
-      "ret_pct": 30.39
+      "ret_pct": 30.37
     }
   ],
   "trades": [
