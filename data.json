@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18 13:27",
+  "updated_at": "2026-09-18 13:32",
   "inception": "2026-06-24",
   "days": 87,
   "return_pct": 30.72,
@@ -22,32 +22,32 @@
     {
       "name": "미래에셋생명",
       "mkt": "KR",
-      "weight": 12.4,
-      "pnl_pct": -0.6
+      "weight": 12.3,
+      "pnl_pct": -0.9
     },
     {
       "name": "SK이터닉스",
       "mkt": "KR",
-      "weight": 11.9,
-      "pnl_pct": 0.2
+      "weight": 12.0,
+      "pnl_pct": 0.4
     },
     {
       "name": "가온전선",
       "mkt": "KR",
-      "weight": 11.7,
-      "pnl_pct": 0.6
+      "weight": 11.6,
+      "pnl_pct": 0.5
     },
     {
       "name": "한국콜마",
       "mkt": "KR",
-      "weight": 10.9,
-      "pnl_pct": -1.2
+      "weight": 10.8,
+      "pnl_pct": -1.4
     },
     {
       "name": "OCI홀딩스",
       "mkt": "KR",
       "weight": 10.2,
-      "pnl_pct": 0.0
+      "pnl_pct": 0.5
     },
     {
       "name": "LS ELECTRIC",
