@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-18 13:12",
+  "updated_at": "2026-09-18 13:17",
   "inception": "2026-06-24",
   "days": 87,
-  "return_pct": 30.98,
-  "net_growth_pct": 37.5,
+  "return_pct": 30.75,
+  "net_growth_pct": 37.2,
   "n_holdings": 9,
   "cash_weight": 9.2,
   "holdings": [
@@ -16,14 +16,14 @@
     {
       "name": "센틴",
       "mkt": "US",
-      "weight": 12.5,
+      "weight": 12.6,
       "pnl_pct": 7.3
     },
     {
       "name": "미래에셋생명",
       "mkt": "KR",
       "weight": 12.4,
-      "pnl_pct": 0.0
+      "pnl_pct": -0.4
     },
     {
       "name": "SK이터닉스",
@@ -35,13 +35,13 @@
       "name": "가온전선",
       "mkt": "KR",
       "weight": 11.7,
-      "pnl_pct": 1.6
+      "pnl_pct": 0.9
     },
     {
       "name": "한국콜마",
       "mkt": "KR",
       "weight": 10.8,
-      "pnl_pct": -1.2
+      "pnl_pct": -1.5
     },
     {
       "name": "LS ELECTRIC",
@@ -273,7 +273,7 @@
     },
     {
       "date": "2026-09-18",
-      "ret_pct": 30.98
+      "ret_pct": 30.75
     }
   ],
   "trades": [
