@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-18 13:37",
+  "updated_at": "2026-09-18 13:42",
   "inception": "2026-06-24",
   "days": 87,
-  "return_pct": 30.69,
+  "return_pct": 30.71,
   "net_growth_pct": 37.2,
   "n_holdings": 9,
   "cash_weight": 9.2,
@@ -23,7 +23,7 @@
       "name": "미래에셋생명",
       "mkt": "KR",
       "weight": 12.3,
-      "pnl_pct": -1.0
+      "pnl_pct": -1.1
     },
     {
       "name": "SK이터닉스",
@@ -41,7 +41,7 @@
       "name": "한국콜마",
       "mkt": "KR",
       "weight": 10.8,
-      "pnl_pct": -1.7
+      "pnl_pct": -1.5
     },
     {
       "name": "LS ELECTRIC",
@@ -273,7 +273,7 @@
     },
     {
       "date": "2026-09-18",
-      "ret_pct": 30.69
+      "ret_pct": 30.71
     }
   ],
   "trades": [
