@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-09-18 12:43",
+  "updated_at": "2026-09-18 12:47",
   "inception": "2026-06-24",
   "days": 87,
-  "return_pct": 30.87,
-  "net_growth_pct": 37.4,
+  "return_pct": 30.79,
+  "net_growth_pct": 37.3,
   "n_holdings": 9,
   "cash_weight": 9.2,
   "holdings": [
     {
       "name": "발레로 에너지",
       "mkt": "US",
-      "weight": 14.0,
+      "weight": 14.1,
       "pnl_pct": 17.7
     },
     {
@@ -29,19 +29,19 @@
       "name": "SK이터닉스",
       "mkt": "KR",
       "weight": 11.9,
-      "pnl_pct": 0.2
+      "pnl_pct": 0.0
     },
     {
       "name": "가온전선",
       "mkt": "KR",
       "weight": 11.5,
-      "pnl_pct": -0.1
+      "pnl_pct": -0.3
     },
     {
       "name": "한국콜마",
       "mkt": "KR",
-      "weight": 11.0,
-      "pnl_pct": -0.1
+      "weight": 10.9,
+      "pnl_pct": -0.5
     },
     {
       "name": "OCI홀딩스",
@@ -273,7 +273,7 @@
     },
     {
       "date": "2026-09-18",
-      "ret_pct": 30.87
+      "ret_pct": 30.79
     }
   ],
   "trades": [
