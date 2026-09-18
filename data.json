@@ -1,34 +1,22 @@
 {
-  "updated_at": "2026-09-18 22:37",
+  "updated_at": "2026-09-18 22:40",
   "inception": "2026-06-24",
   "days": 87,
-  "return_pct": 30.84,
-  "net_growth_pct": 37.3,
-  "n_holdings": 9,
-  "cash_weight": 9.2,
+  "return_pct": 30.41,
+  "net_growth_pct": 36.9,
+  "n_holdings": 8,
+  "cash_weight": 9.3,
   "holdings": [
-    {
-      "name": "발레로 에너지",
-      "mkt": "US",
-      "weight": 14.1,
-      "pnl_pct": 17.8
-    },
-    {
-      "name": "센틴",
-      "mkt": "US",
-      "weight": 12.5,
-      "pnl_pct": 6.3
-    },
     {
       "name": "미래에셋생명",
       "mkt": "KR",
-      "weight": 12.3,
+      "weight": 12.4,
       "pnl_pct": -0.9
     },
     {
       "name": "가온전선",
       "mkt": "KR",
-      "weight": 12.0,
+      "weight": 12.1,
       "pnl_pct": 4.1
     },
     {
@@ -44,6 +32,12 @@
       "pnl_pct": -2.6
     },
     {
+      "name": "모더나",
+      "mkt": "US",
+      "weight": 10.7,
+      "pnl_pct": -0.1
+    },
+    {
       "name": "LS ELECTRIC",
       "mkt": "KR",
       "weight": 10.4,
@@ -52,14 +46,14 @@
     {
       "name": "OCI홀딩스",
       "mkt": "KR",
-      "weight": 10.0,
+      "weight": 10.1,
       "pnl_pct": -1.7
     },
     {
       "name": "워너 브로스 디스커버리",
       "mkt": "US",
       "weight": 0.5,
-      "pnl_pct": 2.9
+      "pnl_pct": 2.8
     }
   ],
   "history": [
@@ -273,7 +267,7 @@
     },
     {
       "date": "2026-09-18",
-      "ret_pct": 30.84
+      "ret_pct": 30.41
     }
   ],
   "trades": [
