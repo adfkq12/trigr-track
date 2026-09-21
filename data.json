@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22 00:07",
+  "updated_at": "2026-09-22 00:12",
   "inception": "2026-06-25",
   "days": 90,
   "return_pct": 36.15,
@@ -41,7 +41,7 @@
       "name": "모더나",
       "mkt": "US",
       "weight": 10.9,
-      "pnl_pct": 6.9
+      "pnl_pct": 6.8
     },
     {
       "name": "LS ELECTRIC",
