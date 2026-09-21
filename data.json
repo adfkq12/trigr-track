@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-22 04:42",
+  "updated_at": "2026-09-22 04:47",
   "inception": "2026-06-25",
   "days": 90,
-  "return_pct": 30.47,
-  "net_growth_pct": 37.0,
+  "return_pct": 30.42,
+  "net_growth_pct": 36.9,
   "n_holdings": 8,
   "cash_weight": 5.7,
   "holdings": [
@@ -41,7 +41,7 @@
       "name": "모더나",
       "mkt": "US",
       "weight": 11.7,
-      "pnl_pct": 10.4
+      "pnl_pct": 10.0
     },
     {
       "name": "LS ELECTRIC",
@@ -275,7 +275,7 @@
     },
     {
       "date": "2026-09-22",
-      "ret_pct": 30.47
+      "ret_pct": 30.42
     }
   ],
   "trades": [
