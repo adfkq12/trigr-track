@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-21 22:47",
+  "updated_at": "2026-09-21 22:52",
   "inception": "2026-06-25",
   "days": 89,
-  "return_pct": 29.55,
-  "net_growth_pct": 36.0,
+  "return_pct": 29.76,
+  "net_growth_pct": 36.2,
   "n_holdings": 8,
   "cash_weight": 9.3,
   "holdings": [
@@ -22,7 +22,7 @@
     {
       "name": "SK이터닉스",
       "mkt": "KR",
-      "weight": 12.5,
+      "weight": 12.4,
       "pnl_pct": -1.5
     },
     {
@@ -40,8 +40,8 @@
     {
       "name": "모더나",
       "mkt": "US",
-      "weight": 11.1,
-      "pnl_pct": 4.2
+      "weight": 11.3,
+      "pnl_pct": 5.7
     },
     {
       "name": "LS ELECTRIC",
@@ -53,7 +53,7 @@
       "name": "워너 브로스 디스커버리",
       "mkt": "US",
       "weight": 0.5,
-      "pnl_pct": 9.4
+      "pnl_pct": 9.3
     }
   ],
   "history": [
@@ -271,7 +271,7 @@
     },
     {
       "date": "2026-09-21",
-      "ret_pct": 29.55
+      "ret_pct": 29.76
     }
   ],
   "trades": [
