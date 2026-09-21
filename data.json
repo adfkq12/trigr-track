@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-22 03:07",
+  "updated_at": "2026-09-22 03:12",
   "inception": "2026-06-25",
   "days": 90,
-  "return_pct": 30.68,
+  "return_pct": 30.69,
   "net_growth_pct": 37.2,
   "n_holdings": 8,
   "cash_weight": 5.7,
@@ -29,7 +29,7 @@
       "name": "모더나",
       "mkt": "US",
       "weight": 11.9,
-      "pnl_pct": 12.0
+      "pnl_pct": 12.1
     },
     {
       "name": "가온전선",
@@ -53,7 +53,7 @@
       "name": "워너 브로스 디스커버리",
       "mkt": "US",
       "weight": 0.5,
-      "pnl_pct": 13.2
+      "pnl_pct": 13.0
     }
   ],
   "history": [
@@ -275,7 +275,7 @@
     },
     {
       "date": "2026-09-22",
-      "ret_pct": 30.68
+      "ret_pct": 30.69
     }
   ],
   "trades": [
