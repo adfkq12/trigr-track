@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-21 10:42",
+  "updated_at": "2026-09-21 10:47",
   "inception": "2026-06-25",
   "days": 89,
-  "return_pct": 28.9,
-  "net_growth_pct": 35.3,
+  "return_pct": 28.82,
+  "net_growth_pct": 35.2,
   "n_holdings": 8,
   "cash_weight": 9.4,
   "holdings": [
@@ -14,40 +14,40 @@
       "pnl_pct": 0.3
     },
     {
-      "name": "SK이터닉스",
-      "mkt": "KR",
-      "weight": 12.6,
-      "pnl_pct": -1.2
-    },
-    {
       "name": "한국콜마",
       "mkt": "KR",
       "weight": 12.5,
-      "pnl_pct": -3.1
+      "pnl_pct": -3.0
+    },
+    {
+      "name": "SK이터닉스",
+      "mkt": "KR",
+      "weight": 12.5,
+      "pnl_pct": -1.7
     },
     {
       "name": "OCI홀딩스",
       "mkt": "KR",
-      "weight": 12.2,
-      "pnl_pct": -4.0
+      "weight": 12.3,
+      "pnl_pct": -3.8
     },
     {
       "name": "가온전선",
       "mkt": "KR",
       "weight": 11.7,
-      "pnl_pct": -0.2
+      "pnl_pct": -0.5
     },
     {
       "name": "모더나",
       "mkt": "US",
-      "weight": 10.6,
+      "weight": 10.7,
       "pnl_pct": -2.0
     },
     {
       "name": "LS ELECTRIC",
       "mkt": "KR",
       "weight": 10.4,
-      "pnl_pct": 0.4
+      "pnl_pct": 0.1
     },
     {
       "name": "워너 브로스 디스커버리",
@@ -271,7 +271,7 @@
     },
     {
       "date": "2026-09-21",
-      "ret_pct": 28.9
+      "ret_pct": 28.82
     }
   ],
   "trades": [
