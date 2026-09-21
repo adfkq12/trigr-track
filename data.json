@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-22 01:52",
+  "updated_at": "2026-09-22 01:57",
   "inception": "2026-06-25",
   "days": 90,
-  "return_pct": 29.91,
-  "net_growth_pct": 36.4,
+  "return_pct": 29.88,
+  "net_growth_pct": 36.3,
   "n_holdings": 8,
   "cash_weight": 5.7,
   "holdings": [
@@ -41,7 +41,7 @@
       "name": "모더나",
       "mkt": "US",
       "weight": 11.4,
-      "pnl_pct": 6.5
+      "pnl_pct": 6.3
     },
     {
       "name": "LS ELECTRIC",
@@ -53,7 +53,7 @@
       "name": "워너 브로스 디스커버리",
       "mkt": "US",
       "weight": 0.5,
-      "pnl_pct": 12.3
+      "pnl_pct": 12.5
     }
   ],
   "history": [
@@ -275,7 +275,7 @@
     },
     {
       "date": "2026-09-22",
-      "ret_pct": 29.91
+      "ret_pct": 29.88
     }
   ],
   "trades": [
