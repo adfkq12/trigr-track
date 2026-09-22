@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-22 22:47",
+  "updated_at": "2026-09-22 22:52",
   "inception": "2026-06-26",
   "days": 89,
-  "return_pct": 31.0,
-  "net_growth_pct": 37.5,
+  "return_pct": 31.09,
+  "net_growth_pct": 37.6,
   "n_holdings": 9,
   "cash_weight": 21.3,
   "holdings": [
@@ -38,16 +38,16 @@
       "pnl_pct": 2.4
     },
     {
+      "name": "모더나",
+      "mkt": "US",
+      "weight": 11.6,
+      "pnl_pct": 11.1
+    },
+    {
       "name": "OCI홀딩스",
       "mkt": "KR",
       "weight": 11.5,
       "pnl_pct": -8.1
-    },
-    {
-      "name": "모더나",
-      "mkt": "US",
-      "weight": 11.5,
-      "pnl_pct": 10.4
     },
     {
       "name": "LS ELECTRIC",
@@ -281,7 +281,7 @@
     },
     {
       "date": "2026-09-22",
-      "ret_pct": 31.0
+      "ret_pct": 31.09
     }
   ],
   "trades": [
