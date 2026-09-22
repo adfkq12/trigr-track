@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-22 22:52",
+  "updated_at": "2026-09-22 22:57",
   "inception": "2026-06-26",
   "days": 89,
-  "return_pct": 31.09,
-  "net_growth_pct": 37.6,
+  "return_pct": 31.21,
+  "net_growth_pct": 37.7,
   "n_holdings": 9,
-  "cash_weight": 21.3,
+  "cash_weight": 21.2,
   "holdings": [
     {
       "name": "미래에셋생명",
@@ -40,8 +40,8 @@
     {
       "name": "모더나",
       "mkt": "US",
-      "weight": 11.6,
-      "pnl_pct": 11.1
+      "weight": 11.7,
+      "pnl_pct": 12.1
     },
     {
       "name": "OCI홀딩스",
@@ -281,7 +281,7 @@
     },
     {
       "date": "2026-09-22",
-      "ret_pct": 31.09
+      "ret_pct": 31.21
     }
   ],
   "trades": [
