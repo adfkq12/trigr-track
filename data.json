@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-22 15:17",
+  "updated_at": "2026-09-22 15:22",
   "inception": "2026-06-26",
   "days": 89,
-  "return_pct": 30.89,
+  "return_pct": 30.94,
   "net_growth_pct": 37.4,
   "n_holdings": 9,
   "cash_weight": 21.3,
@@ -35,13 +35,13 @@
       "name": "가온전선",
       "mkt": "KR",
       "weight": 11.8,
-      "pnl_pct": 1.8
+      "pnl_pct": 2.2
     },
     {
       "name": "OCI홀딩스",
       "mkt": "KR",
       "weight": 11.5,
-      "pnl_pct": -8.3
+      "pnl_pct": -8.4
     },
     {
       "name": "모더나",
@@ -281,7 +281,7 @@
     },
     {
       "date": "2026-09-22",
-      "ret_pct": 30.89
+      "ret_pct": 30.94
     }
   ],
   "trades": [
