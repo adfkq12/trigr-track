@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-22 22:42",
+  "updated_at": "2026-09-22 22:47",
   "inception": "2026-06-26",
   "days": 89,
-  "return_pct": 30.86,
-  "net_growth_pct": 37.4,
+  "return_pct": 31.0,
+  "net_growth_pct": 37.5,
   "n_holdings": 9,
   "cash_weight": 21.3,
   "holdings": [
@@ -16,7 +16,7 @@
     {
       "name": "한국콜마",
       "mkt": "KR",
-      "weight": 12.6,
+      "weight": 12.5,
       "pnl_pct": -1.3
     },
     {
@@ -46,8 +46,8 @@
     {
       "name": "모더나",
       "mkt": "US",
-      "weight": 11.4,
-      "pnl_pct": 9.1
+      "weight": 11.5,
+      "pnl_pct": 10.4
     },
     {
       "name": "LS ELECTRIC",
@@ -281,7 +281,7 @@
     },
     {
       "date": "2026-09-22",
-      "ret_pct": 30.86
+      "ret_pct": 31.0
     }
   ],
   "trades": [
