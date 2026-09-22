@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-22 23:12",
+  "updated_at": "2026-09-22 23:17",
   "inception": "2026-06-26",
   "days": 89,
-  "return_pct": 31.55,
+  "return_pct": 31.52,
   "net_growth_pct": 38.1,
   "n_holdings": 9,
   "cash_weight": 21.2,
@@ -35,7 +35,7 @@
       "name": "모더나",
       "mkt": "US",
       "weight": 11.9,
-      "pnl_pct": 14.4
+      "pnl_pct": 14.1
     },
     {
       "name": "가온전선",
@@ -281,7 +281,7 @@
     },
     {
       "date": "2026-09-22",
-      "ret_pct": 31.55
+      "ret_pct": 31.52
     }
   ],
   "trades": [
