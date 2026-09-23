@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-24 01:47",
+  "updated_at": "2026-09-24 01:52",
   "inception": "2026-06-29",
   "days": 88,
-  "return_pct": 30.54,
+  "return_pct": 30.56,
   "net_growth_pct": 21.1,
   "n_holdings": 9,
   "cash_weight": 45.5,
@@ -59,7 +59,7 @@
       "name": "워너 브로스 디스커버리",
       "mkt": "US",
       "weight": 0.3,
-      "pnl_pct": 12.8
+      "pnl_pct": 12.7
     }
   ],
   "history": [
@@ -289,7 +289,7 @@
     },
     {
       "date": "2026-09-24",
-      "ret_pct": 30.54
+      "ret_pct": 30.56
     }
   ],
   "trades": [
