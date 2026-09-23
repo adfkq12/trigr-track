@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-24 04:17",
+  "updated_at": "2026-09-24 04:22",
   "inception": "2026-06-29",
   "days": 88,
-  "return_pct": 30.31,
+  "return_pct": 30.4,
   "net_growth_pct": 20.9,
   "n_holdings": 9,
   "cash_weight": 45.6,
@@ -35,7 +35,7 @@
       "name": "모더나",
       "mkt": "US",
       "weight": 12.1,
-      "pnl_pct": 9.6
+      "pnl_pct": 10.2
     },
     {
       "name": "OCI홀딩스",
@@ -59,7 +59,7 @@
       "name": "워너 브로스 디스커버리",
       "mkt": "US",
       "weight": 0.3,
-      "pnl_pct": 12.7
+      "pnl_pct": 12.6
     }
   ],
   "history": [
@@ -289,7 +289,7 @@
     },
     {
       "date": "2026-09-24",
-      "ret_pct": 30.31
+      "ret_pct": 30.4
     }
   ],
   "trades": [
