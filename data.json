@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24 01:57",
+  "updated_at": "2026-09-24 02:02",
   "inception": "2026-06-29",
   "days": 88,
   "return_pct": 30.57,
@@ -28,8 +28,8 @@
     {
       "name": "모더나",
       "mkt": "US",
-      "weight": 12.3,
-      "pnl_pct": 11.2
+      "weight": 12.2,
+      "pnl_pct": 11.1
     },
     {
       "name": "미래에셋생명",
@@ -59,7 +59,7 @@
       "name": "워너 브로스 디스커버리",
       "mkt": "US",
       "weight": 0.3,
-      "pnl_pct": 12.7
+      "pnl_pct": 12.8
     }
   ],
   "history": [
