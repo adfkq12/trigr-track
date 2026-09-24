@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25 01:07",
+  "updated_at": "2026-09-25 01:12",
   "inception": "2026-06-30",
   "days": 88,
   "return_pct": 30.59,
@@ -28,8 +28,8 @@
     {
       "name": "모더나",
       "mkt": "US",
-      "weight": 12.2,
-      "pnl_pct": 11.1
+      "weight": 12.3,
+      "pnl_pct": 11.2
     },
     {
       "name": "미래에셋생명",
