@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-24 23:17",
+  "updated_at": "2026-09-24 23:22",
   "inception": "2026-06-30",
   "days": 87,
-  "return_pct": 30.71,
+  "return_pct": 30.67,
   "net_growth_pct": 21.2,
   "n_holdings": 9,
-  "cash_weight": 45.4,
+  "cash_weight": 45.5,
   "holdings": [
     {
       "name": "GS",
@@ -16,7 +16,7 @@
     {
       "name": "대우건설",
       "mkt": "KR",
-      "weight": 12.3,
+      "weight": 12.4,
       "pnl_pct": -4.9
     },
     {
@@ -29,7 +29,7 @@
       "name": "모더나",
       "mkt": "US",
       "weight": 12.3,
-      "pnl_pct": 12.2
+      "pnl_pct": 11.9
     },
     {
       "name": "미래에셋생명",
@@ -289,7 +289,7 @@
     },
     {
       "date": "2026-09-24",
-      "ret_pct": 30.71
+      "ret_pct": 30.67
     }
   ],
   "trades": [
