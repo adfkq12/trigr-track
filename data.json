@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-24 10:32",
+  "updated_at": "2026-09-24 22:32",
   "inception": "2026-06-30",
   "days": 87,
-  "return_pct": 30.35,
-  "net_growth_pct": 20.9,
+  "return_pct": 30.6,
+  "net_growth_pct": 21.1,
   "n_holdings": 9,
-  "cash_weight": 45.6,
+  "cash_weight": 45.5,
   "holdings": [
     {
       "name": "GS",
@@ -26,16 +26,16 @@
       "pnl_pct": -0.7
     },
     {
-      "name": "미래에셋생명",
-      "mkt": "KR",
-      "weight": 12.2,
-      "pnl_pct": -1.0
-    },
-    {
       "name": "모더나",
       "mkt": "US",
+      "weight": 12.3,
+      "pnl_pct": 11.4
+    },
+    {
+      "name": "미래에셋생명",
+      "mkt": "KR",
       "weight": 12.1,
-      "pnl_pct": 9.3
+      "pnl_pct": -1.0
     },
     {
       "name": "OCI홀딩스",
@@ -59,7 +59,7 @@
       "name": "워너 브로스 디스커버리",
       "mkt": "US",
       "weight": 0.3,
-      "pnl_pct": 12.9
+      "pnl_pct": 12.8
     }
   ],
   "history": [
@@ -289,7 +289,7 @@
     },
     {
       "date": "2026-09-24",
-      "ret_pct": 30.35
+      "ret_pct": 30.6
     }
   ],
   "trades": [
