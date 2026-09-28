@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-29 00:42",
+  "updated_at": "2026-09-29 00:47",
   "inception": "2026-07-02",
   "days": 90,
-  "return_pct": 33.99,
+  "return_pct": 34.03,
   "net_growth_pct": 24.3,
   "n_holdings": 9,
   "cash_weight": 32.6,
@@ -29,7 +29,7 @@
       "name": "모더나",
       "mkt": "US",
       "weight": 12.5,
-      "pnl_pct": 16.9
+      "pnl_pct": 17.2
     },
     {
       "name": "SK이터닉스",
@@ -40,7 +40,7 @@
     {
       "name": "미래에셋생명",
       "mkt": "KR",
-      "weight": 12.0,
+      "weight": 11.9,
       "pnl_pct": 0.0
     },
     {
@@ -301,7 +301,7 @@
     },
     {
       "date": "2026-09-29",
-      "ret_pct": 33.99
+      "ret_pct": 34.03
     }
   ],
   "trades": [
