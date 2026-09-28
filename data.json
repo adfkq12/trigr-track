@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-28 14:47",
+  "updated_at": "2026-09-28 14:52",
   "inception": "2026-07-02",
   "days": 89,
-  "return_pct": 34.4,
-  "net_growth_pct": 24.7,
+  "return_pct": 34.24,
+  "net_growth_pct": 24.5,
   "n_holdings": 9,
   "cash_weight": 32.5,
   "holdings": [
@@ -11,7 +11,7 @@
       "name": "대우건설",
       "mkt": "KR",
       "weight": 12.9,
-      "pnl_pct": 2.2
+      "pnl_pct": 2.0
     },
     {
       "name": "모더나",
@@ -22,14 +22,14 @@
     {
       "name": "OCI홀딩스",
       "mkt": "KR",
-      "weight": 12.6,
-      "pnl_pct": 14.5
+      "weight": 12.5,
+      "pnl_pct": 14.0
     },
     {
       "name": "GS",
       "mkt": "KR",
       "weight": 12.5,
-      "pnl_pct": 5.0
+      "pnl_pct": 4.6
     },
     {
       "name": "SK이터닉스",
@@ -40,7 +40,7 @@
     {
       "name": "미래에셋생명",
       "mkt": "KR",
-      "weight": 11.8,
+      "weight": 11.9,
       "pnl_pct": -0.6
     },
     {
@@ -297,7 +297,7 @@
     },
     {
       "date": "2026-09-28",
-      "ret_pct": 34.4
+      "ret_pct": 34.24
     }
   ],
   "trades": [
