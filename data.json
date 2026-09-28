@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-29 01:02",
+  "updated_at": "2026-09-29 01:07",
   "inception": "2026-07-02",
   "days": 90,
-  "return_pct": 34.05,
+  "return_pct": 34.0,
   "net_growth_pct": 24.3,
   "n_holdings": 9,
-  "cash_weight": 32.6,
+  "cash_weight": 4.5,
   "holdings": [
     {
       "name": "대우건설",
@@ -29,7 +29,7 @@
       "name": "모더나",
       "mkt": "US",
       "weight": 12.5,
-      "pnl_pct": 17.4
+      "pnl_pct": 17.1
     },
     {
       "name": "SK이터닉스",
@@ -40,7 +40,7 @@
     {
       "name": "미래에셋생명",
       "mkt": "KR",
-      "weight": 11.9,
+      "weight": 12.0,
       "pnl_pct": 0.0
     },
     {
@@ -301,7 +301,7 @@
     },
     {
       "date": "2026-09-29",
-      "ret_pct": 34.05
+      "ret_pct": 34.0
     }
   ],
   "trades": [
