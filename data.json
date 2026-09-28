@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-29 01:27",
+  "updated_at": "2026-09-29 01:32",
   "inception": "2026-07-02",
   "days": 90,
-  "return_pct": 34.04,
-  "net_growth_pct": 24.3,
+  "return_pct": 34.14,
+  "net_growth_pct": 24.4,
   "n_holdings": 9,
   "cash_weight": 4.5,
   "holdings": [
@@ -14,9 +14,15 @@
       "pnl_pct": 1.9
     },
     {
+      "name": "모더나",
+      "mkt": "US",
+      "weight": 12.6,
+      "pnl_pct": 18.3
+    },
+    {
       "name": "OCI홀딩스",
       "mkt": "KR",
-      "weight": 12.6,
+      "weight": 12.5,
       "pnl_pct": 14.0
     },
     {
@@ -26,15 +32,9 @@
       "pnl_pct": 4.7
     },
     {
-      "name": "모더나",
-      "mkt": "US",
-      "weight": 12.5,
-      "pnl_pct": 17.7
-    },
-    {
       "name": "SK이터닉스",
       "mkt": "KR",
-      "weight": 12.1,
+      "weight": 12.0,
       "pnl_pct": 0.1
     },
     {
@@ -301,7 +301,7 @@
     },
     {
       "date": "2026-09-29",
-      "ret_pct": 34.04
+      "ret_pct": 34.14
     }
   ],
   "trades": [
