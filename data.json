@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-28 22:47",
+  "updated_at": "2026-09-28 22:52",
   "inception": "2026-07-02",
   "days": 89,
-  "return_pct": 33.62,
-  "net_growth_pct": 23.9,
+  "return_pct": 33.74,
+  "net_growth_pct": 24.0,
   "n_holdings": 9,
-  "cash_weight": 32.7,
+  "cash_weight": 32.6,
   "holdings": [
     {
       "name": "대우건설",
@@ -28,8 +28,8 @@
     {
       "name": "모더나",
       "mkt": "US",
-      "weight": 12.2,
-      "pnl_pct": 14.5
+      "weight": 12.3,
+      "pnl_pct": 15.3
     },
     {
       "name": "SK이터닉스",
@@ -297,7 +297,7 @@
     },
     {
       "date": "2026-09-28",
-      "ret_pct": 33.62
+      "ret_pct": 33.74
     }
   ],
   "trades": [
