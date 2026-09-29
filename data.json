@@ -1,59 +1,59 @@
 {
-  "updated_at": "2026-09-29 05:17",
+  "updated_at": "2026-09-29 09:02",
   "inception": "2026-07-02",
   "days": 90,
-  "return_pct": 34.2,
-  "net_growth_pct": 24.5,
+  "return_pct": 31.97,
+  "net_growth_pct": 22.4,
   "n_holdings": 9,
-  "cash_weight": 4.5,
+  "cash_weight": 4.6,
   "holdings": [
-    {
-      "name": "대우건설",
-      "mkt": "KR",
-      "weight": 12.9,
-      "pnl_pct": 1.9
-    },
     {
       "name": "모더나",
       "mkt": "US",
-      "weight": 12.6,
+      "weight": 12.8,
       "pnl_pct": 18.4
     },
     {
-      "name": "OCI홀딩스",
+      "name": "대우건설",
       "mkt": "KR",
       "weight": 12.5,
-      "pnl_pct": 14.0
+      "pnl_pct": -3.1
     },
     {
       "name": "GS",
       "mkt": "KR",
       "weight": 12.5,
-      "pnl_pct": 4.7
+      "pnl_pct": 3.3
+    },
+    {
+      "name": "OCI홀딩스",
+      "mkt": "KR",
+      "weight": 12.2,
+      "pnl_pct": 8.7
     },
     {
       "name": "SK이터닉스",
       "mkt": "KR",
-      "weight": 12.0,
-      "pnl_pct": 0.1
+      "weight": 12.1,
+      "pnl_pct": -0.7
     },
     {
       "name": "미래에셋생명",
       "mkt": "KR",
-      "weight": 11.9,
-      "pnl_pct": 0.0
+      "weight": 12.0,
+      "pnl_pct": -1.1
     },
     {
       "name": "LS ELECTRIC",
       "mkt": "KR",
-      "weight": 11.2,
-      "pnl_pct": 0.2
+      "weight": 11.3,
+      "pnl_pct": -0.7
     },
     {
       "name": "가온전선",
       "mkt": "KR",
-      "weight": 9.4,
-      "pnl_pct": -4.8
+      "weight": 9.6,
+      "pnl_pct": -4.7
     },
     {
       "name": "워너 브로스 디스커버리",
@@ -301,7 +301,7 @@
     },
     {
       "date": "2026-09-29",
-      "ret_pct": 34.2
+      "ret_pct": 31.97
     }
   ],
   "trades": [
