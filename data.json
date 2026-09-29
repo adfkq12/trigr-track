@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-29 23:32",
+  "updated_at": "2026-09-29 23:37",
   "inception": "2026-07-03",
   "days": 89,
-  "return_pct": 30.98,
-  "net_growth_pct": 22.9,
+  "return_pct": 31.05,
+  "net_growth_pct": 23.0,
   "n_holdings": 9,
   "cash_weight": 0.0,
   "holdings": [
@@ -11,7 +11,7 @@
       "name": "모더나",
       "mkt": "US",
       "weight": 13.5,
-      "pnl_pct": 18.4
+      "pnl_pct": 19.0
     },
     {
       "name": "대우건설",
@@ -301,7 +301,7 @@
     },
     {
       "date": "2026-09-29",
-      "ret_pct": 30.98
+      "ret_pct": 31.05
     }
   ],
   "trades": [
