@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-29 14:17",
+  "updated_at": "2026-09-29 14:22",
   "inception": "2026-07-03",
   "days": 89,
-  "return_pct": 30.79,
+  "return_pct": 30.8,
   "net_growth_pct": 21.3,
   "n_holdings": 9,
   "cash_weight": 4.7,
@@ -29,7 +29,7 @@
       "name": "GS",
       "mkt": "KR",
       "weight": 12.1,
-      "pnl_pct": -1.0
+      "pnl_pct": -0.8
     },
     {
       "name": "미래에셋생명",
@@ -52,8 +52,8 @@
     {
       "name": "가온전선",
       "mkt": "KR",
-      "weight": 10.1,
-      "pnl_pct": -1.0
+      "weight": 10.0,
+      "pnl_pct": -1.2
     },
     {
       "name": "워너 브로스 디스커버리",
@@ -301,7 +301,7 @@
     },
     {
       "date": "2026-09-29",
-      "ret_pct": 30.79
+      "ret_pct": 30.8
     }
   ],
   "trades": [
