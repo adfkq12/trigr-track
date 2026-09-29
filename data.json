@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29 15:47",
+  "updated_at": "2026-09-29 15:52",
   "inception": "2026-07-03",
   "days": 89,
   "return_pct": 31.19,
@@ -20,16 +20,16 @@
       "pnl_pct": -5.3
     },
     {
-      "name": "OCI홀딩스",
-      "mkt": "KR",
-      "weight": 12.2,
-      "pnl_pct": 8.0
-    },
-    {
       "name": "GS",
       "mkt": "KR",
       "weight": 12.2,
       "pnl_pct": 0.0
+    },
+    {
+      "name": "OCI홀딩스",
+      "mkt": "KR",
+      "weight": 12.1,
+      "pnl_pct": 8.0
     },
     {
       "name": "SK이터닉스",
