@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-30 23:02",
+  "updated_at": "2026-09-30 23:07",
   "inception": "2026-07-06",
   "days": 87,
-  "return_pct": 30.77,
-  "net_growth_pct": 22.7,
+  "return_pct": 30.85,
+  "net_growth_pct": 22.8,
   "n_holdings": 9,
   "cash_weight": 0.0,
   "holdings": [
@@ -16,14 +16,14 @@
     {
       "name": "대우건설",
       "mkt": "KR",
-      "weight": 13.2,
+      "weight": 13.1,
       "pnl_pct": -3.3
     },
     {
       "name": "모더나",
       "mkt": "US",
       "weight": 13.0,
-      "pnl_pct": 13.7
+      "pnl_pct": 14.3
     },
     {
       "name": "GS",
@@ -59,7 +59,7 @@
       "name": "워너 브로스 디스커버리",
       "mkt": "US",
       "weight": 0.4,
-      "pnl_pct": 13.2
+      "pnl_pct": 13.1
     }
   ],
   "history": [
@@ -305,7 +305,7 @@
     },
     {
       "date": "2026-09-30",
-      "ret_pct": 30.77
+      "ret_pct": 30.85
     }
   ],
   "trades": [
