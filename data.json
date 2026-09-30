@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-30 14:57",
+  "updated_at": "2026-09-30 15:02",
   "inception": "2026-07-06",
   "days": 87,
-  "return_pct": 32.04,
-  "net_growth_pct": 23.9,
+  "return_pct": 32.12,
+  "net_growth_pct": 24.0,
   "n_holdings": 9,
   "cash_weight": 0.0,
   "holdings": [
@@ -16,7 +16,7 @@
     {
       "name": "OCI홀딩스",
       "mkt": "KR",
-      "weight": 13.1,
+      "weight": 13.0,
       "pnl_pct": 11.5
     },
     {
@@ -28,14 +28,14 @@
     {
       "name": "GS",
       "mkt": "KR",
-      "weight": 12.4,
-      "pnl_pct": -2.2
+      "weight": 12.5,
+      "pnl_pct": -1.7
     },
     {
       "name": "미래에셋생명",
       "mkt": "KR",
       "weight": 12.4,
-      "pnl_pct": -2.3
+      "pnl_pct": -2.2
     },
     {
       "name": "SK이터닉스",
@@ -305,7 +305,7 @@
     },
     {
       "date": "2026-09-30",
-      "ret_pct": 32.04
+      "ret_pct": 32.12
     }
   ],
   "trades": [
