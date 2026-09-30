@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-01 04:32",
+  "updated_at": "2026-10-01 04:37",
   "inception": "2026-07-06",
   "days": 88,
-  "return_pct": 30.98,
+  "return_pct": 30.96,
   "net_growth_pct": 22.9,
   "n_holdings": 9,
   "cash_weight": 0.0,
@@ -23,7 +23,7 @@
       "name": "모더나",
       "mkt": "US",
       "weight": 13.1,
-      "pnl_pct": 14.9
+      "pnl_pct": 14.8
     },
     {
       "name": "GS",
@@ -59,7 +59,7 @@
       "name": "워너 브로스 디스커버리",
       "mkt": "US",
       "weight": 0.4,
-      "pnl_pct": 13.4
+      "pnl_pct": 13.5
     }
   ],
   "history": [
@@ -309,7 +309,7 @@
     },
     {
       "date": "2026-10-01",
-      "ret_pct": 30.98
+      "ret_pct": 30.96
     }
   ],
   "trades": [
