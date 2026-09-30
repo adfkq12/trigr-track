@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-01 03:02",
+  "updated_at": "2026-10-01 03:12",
   "inception": "2026-07-06",
   "days": 88,
-  "return_pct": 30.97,
-  "net_growth_pct": 22.9,
+  "return_pct": 31.04,
+  "net_growth_pct": 23.0,
   "n_holdings": 9,
   "cash_weight": 0.0,
   "holdings": [
@@ -23,7 +23,7 @@
       "name": "모더나",
       "mkt": "US",
       "weight": 13.1,
-      "pnl_pct": 14.9
+      "pnl_pct": 15.3
     },
     {
       "name": "GS",
@@ -40,7 +40,7 @@
     {
       "name": "SK이터닉스",
       "mkt": "KR",
-      "weight": 12.5,
+      "weight": 12.4,
       "pnl_pct": -3.5
     },
     {
@@ -309,7 +309,7 @@
     },
     {
       "date": "2026-10-01",
-      "ret_pct": 30.97
+      "ret_pct": 31.04
     }
   ],
   "trades": [
