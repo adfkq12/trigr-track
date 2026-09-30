@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-10-01 05:17",
+  "updated_at": "2026-10-01 05:22",
   "inception": "2026-07-06",
   "days": 88,
-  "return_pct": 31.09,
+  "return_pct": 31.1,
   "net_growth_pct": 23.0,
   "n_holdings": 9,
   "cash_weight": 0.0,
   "holdings": [
     {
-      "name": "OCI홀딩스",
-      "mkt": "KR",
-      "weight": 13.2,
-      "pnl_pct": 11.5
-    },
-    {
       "name": "모더나",
       "mkt": "US",
       "weight": 13.2,
       "pnl_pct": 15.6
+    },
+    {
+      "name": "OCI홀딩스",
+      "mkt": "KR",
+      "weight": 13.1,
+      "pnl_pct": 11.5
     },
     {
       "name": "대우건설",
@@ -59,7 +59,7 @@
       "name": "워너 브로스 디스커버리",
       "mkt": "US",
       "weight": 0.4,
-      "pnl_pct": 13.5
+      "pnl_pct": 13.6
     }
   ],
   "history": [
@@ -309,7 +309,7 @@
     },
     {
       "date": "2026-10-01",
-      "ret_pct": 31.09
+      "ret_pct": 31.1
     }
   ],
   "trades": [
