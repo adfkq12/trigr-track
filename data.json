@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01 12:17",
+  "updated_at": "2026-10-01 12:22",
   "inception": "2026-07-07",
   "days": 87,
   "return_pct": 30.23,
@@ -23,7 +23,7 @@
       "name": "OCI홀딩스",
       "mkt": "KR",
       "weight": 13.0,
-      "pnl_pct": 9.5
+      "pnl_pct": 9.7
     },
     {
       "name": "미래에셋생명",
@@ -35,7 +35,7 @@
       "name": "SK이터닉스",
       "mkt": "KR",
       "weight": 12.5,
-      "pnl_pct": -3.7
+      "pnl_pct": -3.8
     },
     {
       "name": "GS",
