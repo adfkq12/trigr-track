@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-10-03 00:07",
+  "updated_at": "2026-10-03 00:12",
   "inception": "2026-07-08",
   "days": 88,
-  "return_pct": 32.54,
-  "net_growth_pct": 24.4,
+  "return_pct": 32.69,
+  "net_growth_pct": 24.5,
   "n_holdings": 9,
   "cash_weight": 0.0,
   "holdings": [
     {
       "name": "OCI홀딩스",
       "mkt": "KR",
-      "weight": 13.8,
+      "weight": 13.7,
       "pnl_pct": 17.9
     },
     {
@@ -26,6 +26,12 @@
       "pnl_pct": -0.1
     },
     {
+      "name": "모더나",
+      "mkt": "US",
+      "weight": 12.5,
+      "pnl_pct": 12.3
+    },
+    {
       "name": "GS",
       "mkt": "KR",
       "weight": 12.4,
@@ -36,12 +42,6 @@
       "mkt": "KR",
       "weight": 12.4,
       "pnl_pct": -2.9
-    },
-    {
-      "name": "모더나",
-      "mkt": "US",
-      "weight": 12.4,
-      "pnl_pct": 11.3
     },
     {
       "name": "LS ELECTRIC",
@@ -59,7 +59,7 @@
       "name": "워너 브로스 디스커버리",
       "mkt": "US",
       "weight": 0.3,
-      "pnl_pct": 13.6
+      "pnl_pct": 13.5
     }
   ],
   "history": [
@@ -317,7 +317,7 @@
     },
     {
       "date": "2026-10-03",
-      "ret_pct": 32.54
+      "ret_pct": 32.69
     }
   ],
   "trades": [
