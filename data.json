@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-02 15:32",
+  "updated_at": "2026-10-02 15:37",
   "inception": "2026-07-08",
   "days": 87,
-  "return_pct": 32.9,
+  "return_pct": 32.91,
   "net_growth_pct": 24.7,
   "n_holdings": 9,
   "cash_weight": 0.0,
@@ -32,16 +32,16 @@
       "pnl_pct": -0.1
     },
     {
-      "name": "GS",
-      "mkt": "KR",
-      "weight": 12.4,
-      "pnl_pct": -2.1
-    },
-    {
       "name": "SK이터닉스",
       "mkt": "KR",
       "weight": 12.4,
       "pnl_pct": -2.9
+    },
+    {
+      "name": "GS",
+      "mkt": "KR",
+      "weight": 12.3,
+      "pnl_pct": -2.1
     },
     {
       "name": "LS ELECTRIC",
@@ -313,7 +313,7 @@
     },
     {
       "date": "2026-10-02",
-      "ret_pct": 32.9
+      "ret_pct": 32.91
     }
   ],
   "trades": [
