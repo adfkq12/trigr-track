@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-03 00:42",
+  "updated_at": "2026-10-03 00:47",
   "inception": "2026-07-08",
   "days": 88,
-  "return_pct": 32.92,
-  "net_growth_pct": 24.7,
+  "return_pct": 32.98,
+  "net_growth_pct": 24.8,
   "n_holdings": 9,
   "cash_weight": 0.0,
   "holdings": [
@@ -23,7 +23,7 @@
       "name": "모더나",
       "mkt": "US",
       "weight": 12.7,
-      "pnl_pct": 13.8
+      "pnl_pct": 14.3
     },
     {
       "name": "미래에셋생명",
@@ -317,7 +317,7 @@
     },
     {
       "date": "2026-10-03",
-      "ret_pct": 32.92
+      "ret_pct": 32.98
     }
   ],
   "trades": [
