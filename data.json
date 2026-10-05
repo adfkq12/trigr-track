@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-06 02:12",
+  "updated_at": "2026-10-06 02:17",
   "inception": "2026-07-09",
   "days": 90,
-  "return_pct": 33.84,
-  "net_growth_pct": 25.6,
+  "return_pct": 33.93,
+  "net_growth_pct": 25.7,
   "n_holdings": 9,
   "cash_weight": 0.0,
   "holdings": [
@@ -16,13 +16,13 @@
     {
       "name": "모더나",
       "mkt": "US",
-      "weight": 13.3,
-      "pnl_pct": 20.4
+      "weight": 13.4,
+      "pnl_pct": 21.1
     },
     {
       "name": "대우건설",
       "mkt": "KR",
-      "weight": 12.8,
+      "weight": 12.7,
       "pnl_pct": -4.0
     },
     {
@@ -321,7 +321,7 @@
     },
     {
       "date": "2026-10-06",
-      "ret_pct": 33.84
+      "ret_pct": 33.93
     }
   ],
   "trades": [
