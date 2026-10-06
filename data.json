@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-06 22:32",
+  "updated_at": "2026-10-06 22:37",
   "inception": "2026-07-10",
   "days": 89,
-  "return_pct": 36.31,
-  "net_growth_pct": 27.9,
+  "return_pct": 36.73,
+  "net_growth_pct": 28.3,
   "n_holdings": 9,
   "cash_weight": 0.0,
   "holdings": [
@@ -16,13 +16,13 @@
     {
       "name": "모더나",
       "mkt": "US",
-      "weight": 13.3,
-      "pnl_pct": 22.7
+      "weight": 13.5,
+      "pnl_pct": 25.5
     },
     {
       "name": "미래에셋생명",
       "mkt": "KR",
-      "weight": 12.9,
+      "weight": 12.8,
       "pnl_pct": 4.5
     },
     {
@@ -46,13 +46,13 @@
     {
       "name": "GS",
       "mkt": "KR",
-      "weight": 12.0,
+      "weight": 11.9,
       "pnl_pct": -2.7
     },
     {
       "name": "가온전선",
       "mkt": "KR",
-      "weight": 10.6,
+      "weight": 10.5,
       "pnl_pct": 3.6
     },
     {
@@ -321,7 +321,7 @@
     },
     {
       "date": "2026-10-06",
-      "ret_pct": 36.31
+      "ret_pct": 36.73
     }
   ],
   "trades": [
