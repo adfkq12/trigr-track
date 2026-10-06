@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-06 23:22",
+  "updated_at": "2026-10-06 23:27",
   "inception": "2026-07-10",
   "days": 89,
-  "return_pct": 34.92,
+  "return_pct": 34.95,
   "net_growth_pct": 26.6,
   "n_holdings": 9,
   "cash_weight": 0.0,
@@ -35,7 +35,7 @@
       "name": "모더나",
       "mkt": "US",
       "weight": 12.4,
-      "pnl_pct": 13.2
+      "pnl_pct": 13.3
     },
     {
       "name": "SK이터닉스",
@@ -321,7 +321,7 @@
     },
     {
       "date": "2026-10-06",
-      "ret_pct": 34.92
+      "ret_pct": 34.95
     }
   ],
   "trades": [
