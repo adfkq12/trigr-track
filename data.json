@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09 03:42",
+  "updated_at": "2026-10-09 03:47",
   "inception": "2026-07-14",
   "days": 88,
   "return_pct": 28.85,
@@ -23,7 +23,7 @@
       "name": "모더나",
       "mkt": "US",
       "weight": 13.4,
-      "pnl_pct": 17.0
+      "pnl_pct": 16.9
     },
     {
       "name": "대우건설",
