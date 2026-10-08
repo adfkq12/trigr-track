@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-08 15:22",
+  "updated_at": "2026-10-08 15:27",
   "inception": "2026-07-14",
   "days": 87,
-  "return_pct": 28.84,
+  "return_pct": 28.82,
   "net_growth_pct": 20.9,
   "n_holdings": 8,
   "cash_weight": 0.4,
@@ -323,7 +323,7 @@
     },
     {
       "date": "2026-10-08",
-      "ret_pct": 28.84
+      "ret_pct": 28.82
     }
   ],
   "trades": [
