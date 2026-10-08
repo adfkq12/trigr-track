@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-08 12:22",
+  "updated_at": "2026-10-08 12:27",
   "inception": "2026-07-14",
   "days": 87,
-  "return_pct": 29.72,
-  "net_growth_pct": 21.7,
+  "return_pct": 29.8,
+  "net_growth_pct": 21.8,
   "n_holdings": 9,
   "cash_weight": 0.0,
   "holdings": [
@@ -16,8 +16,8 @@
     {
       "name": "미래에셋생명",
       "mkt": "KR",
-      "weight": 13.4,
-      "pnl_pct": 4.0
+      "weight": 13.5,
+      "pnl_pct": 4.2
     },
     {
       "name": "모더나",
@@ -35,25 +35,25 @@
       "name": "GS",
       "mkt": "KR",
       "weight": 12.5,
-      "pnl_pct": -3.0
+      "pnl_pct": -2.9
     },
     {
       "name": "LS ELECTRIC",
       "mkt": "KR",
       "weight": 11.8,
-      "pnl_pct": -3.0
+      "pnl_pct": -2.9
     },
     {
       "name": "SK이터닉스",
       "mkt": "KR",
       "weight": 11.6,
-      "pnl_pct": -10.8
+      "pnl_pct": -10.7
     },
     {
       "name": "가온전선",
       "mkt": "KR",
       "weight": 10.1,
-      "pnl_pct": -6.1
+      "pnl_pct": -6.2
     },
     {
       "name": "워너 브로스 디스커버리",
@@ -329,7 +329,7 @@
     },
     {
       "date": "2026-10-08",
-      "ret_pct": 29.72
+      "ret_pct": 29.8
     }
   ],
   "trades": [
