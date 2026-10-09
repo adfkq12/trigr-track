@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-10-10 01:22",
+  "updated_at": "2026-10-10 01:27",
   "inception": "2026-07-15",
   "days": 88,
-  "return_pct": 30.65,
-  "net_growth_pct": 22.6,
+  "return_pct": 30.74,
+  "net_growth_pct": 22.7,
   "n_holdings": 8,
   "cash_weight": 0.4,
   "holdings": [
     {
       "name": "모더나",
       "mkt": "US",
-      "weight": 14.6,
-      "pnl_pct": 29.2
+      "weight": 14.7,
+      "pnl_pct": 29.9
     },
     {
       "name": "OCI홀딩스",
@@ -331,7 +331,7 @@
     },
     {
       "date": "2026-10-10",
-      "ret_pct": 30.65
+      "ret_pct": 30.74
     }
   ],
   "trades": [
