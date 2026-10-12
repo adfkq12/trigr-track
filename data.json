@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13 04:37",
+  "updated_at": "2026-10-13 04:42",
   "inception": "2026-07-16",
   "days": 90,
   "return_pct": 25.23,
@@ -11,7 +11,7 @@
       "name": "모더나",
       "mkt": "US",
       "weight": 14.6,
-      "pnl_pct": 27.8
+      "pnl_pct": 27.7
     },
     {
       "name": "OCI홀딩스",
