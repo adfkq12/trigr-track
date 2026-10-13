@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13 22:37",
+  "updated_at": "2026-10-13 23:07",
   "inception": "2026-07-17",
   "days": 89,
   "return_pct": 18.11,
@@ -337,6 +337,13 @@
       "mkt": "KR",
       "closed": "2026-10-13",
       "pct": -16.1,
+      "held_days": 25
+    },
+    {
+      "name": "모더나",
+      "mkt": "US",
+      "closed": "2026-10-13",
+      "pct": 25.9,
       "held_days": 25
     },
     {
