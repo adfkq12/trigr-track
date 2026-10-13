@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13 22:35",
+  "updated_at": "2026-10-13 22:37",
   "inception": "2026-07-17",
   "days": 89,
   "return_pct": 18.11,
@@ -394,6 +394,244 @@
       "closed": "2026-09-18",
       "pct": 8.5,
       "held_days": 28
+    },
+    {
+      "name": "삼성생명",
+      "mkt": "KR",
+      "closed": "2026-09-18",
+      "pct": -3.4,
+      "held_days": 29
+    },
+    {
+      "name": "신세계",
+      "mkt": "KR",
+      "closed": "2026-09-18",
+      "pct": -7.9,
+      "held_days": 28
+    },
+    {
+      "name": "대우건설",
+      "mkt": "KR",
+      "closed": "2026-09-18",
+      "pct": 20.8,
+      "held_days": 28
+    },
+    {
+      "name": "발레로 에너지",
+      "mkt": "US",
+      "closed": "2026-09-18",
+      "pct": 17.9,
+      "held_days": 29
+    },
+    {
+      "name": "센틴",
+      "mkt": "US",
+      "closed": "2026-09-18",
+      "pct": 5.7,
+      "held_days": 53
+    },
+    {
+      "name": "대우건설",
+      "mkt": "KR",
+      "closed": "2026-08-26",
+      "pct": 19.9,
+      "held_days": 5
+    },
+    {
+      "name": "대덕전자",
+      "mkt": "KR",
+      "closed": "2026-08-20",
+      "pct": 38.5,
+      "held_days": 22
+    },
+    {
+      "name": "모더나",
+      "mkt": "US",
+      "closed": "2026-08-20",
+      "pct": 146.6,
+      "held_days": 77
+    },
+    {
+      "name": "에코스타",
+      "mkt": "US",
+      "closed": "2026-08-20",
+      "pct": -6.8,
+      "held_days": 51
+    },
+    {
+      "name": "버티브 홀딩스",
+      "mkt": "US",
+      "closed": "2026-08-20",
+      "pct": 8.4,
+      "held_days": 22
+    },
+    {
+      "name": "다비타",
+      "mkt": "US",
+      "closed": "2026-08-20",
+      "pct": -26.8,
+      "held_days": 22
+    },
+    {
+      "name": "대덕전자",
+      "mkt": "KR",
+      "closed": "2026-07-31",
+      "pct": 8.2,
+      "held_days": 2
+    },
+    {
+      "name": "타르가 리소시스",
+      "mkt": "US",
+      "closed": "2026-07-31",
+      "pct": 0.5,
+      "held_days": 2
+    },
+    {
+      "name": "스틸 다이내믹스",
+      "mkt": "US",
+      "closed": "2026-07-31",
+      "pct": -4.2,
+      "held_days": 2
+    },
+    {
+      "name": "호스트 호텔스 앤드 리조츠",
+      "mkt": "US",
+      "closed": "2026-07-29",
+      "pct": 2.2,
+      "held_days": 2
+    },
+    {
+      "name": "APA",
+      "mkt": "US",
+      "closed": "2026-07-29",
+      "pct": 1.2,
+      "held_days": 55
+    },
+    {
+      "name": "알버말",
+      "mkt": "US",
+      "closed": "2026-07-29",
+      "pct": -11.1,
+      "held_days": 34
+    },
+    {
+      "name": "제네락 홀딩스",
+      "mkt": "US",
+      "closed": "2026-07-29",
+      "pct": -5.3,
+      "held_days": 9
+    },
+    {
+      "name": "뉴코",
+      "mkt": "US",
+      "closed": "2026-07-27",
+      "pct": 6.5,
+      "held_days": 7
+    },
+    {
+      "name": "스틸 다이내믹스",
+      "mkt": "US",
+      "closed": "2026-07-27",
+      "pct": 6.1,
+      "held_days": 7
+    },
+    {
+      "name": "다비타",
+      "mkt": "US",
+      "closed": "2026-07-27",
+      "pct": -0.3,
+      "held_days": 7
+    },
+    {
+      "name": "코리아써키트",
+      "mkt": "KR",
+      "closed": "2026-07-20",
+      "pct": -4.3,
+      "held_days": 14
+    },
+    {
+      "name": "대덕전자",
+      "mkt": "KR",
+      "closed": "2026-07-20",
+      "pct": -4.1,
+      "held_days": 20
+    },
+    {
+      "name": "할리버턴",
+      "mkt": "US",
+      "closed": "2026-07-20",
+      "pct": -8.5,
+      "held_days": 46
+    },
+    {
+      "name": "인터랙티브 브로커스 그룹",
+      "mkt": "US",
+      "closed": "2026-07-20",
+      "pct": -2.6,
+      "held_days": 6
+    },
+    {
+      "name": "호스트 호텔스 앤드 리조츠",
+      "mkt": "US",
+      "closed": "2026-07-14",
+      "pct": -0.2,
+      "held_days": 8
+    },
+    {
+      "name": "아처 대니얼스 미들랜드",
+      "mkt": "US",
+      "closed": "2026-07-06",
+      "pct": -0.5,
+      "held_days": 6
+    },
+    {
+      "name": "뉴몬트",
+      "mkt": "US",
+      "closed": "2026-07-06",
+      "pct": 6.1,
+      "held_days": 6
+    },
+    {
+      "name": "모더나",
+      "mkt": "US",
+      "closed": "2026-07-02",
+      "pct": 50.2,
+      "held_days": 28
+    },
+    {
+      "name": "슐럼버거",
+      "mkt": "US",
+      "closed": "2026-06-30",
+      "pct": -2.8,
+      "held_days": 8
+    },
+    {
+      "name": "대우건설",
+      "mkt": "KR",
+      "closed": "2026-06-26",
+      "pct": -11.6,
+      "held_days": 21
+    },
+    {
+      "name": "코리아써키트",
+      "mkt": "KR",
+      "closed": "2026-06-26",
+      "pct": -18.4,
+      "held_days": 4
+    },
+    {
+      "name": "코리아써키트",
+      "mkt": "KR",
+      "closed": "2026-06-15",
+      "pct": 18.0,
+      "held_days": 5
+    },
+    {
+      "name": "다우",
+      "mkt": "US",
+      "closed": "2026-06-10",
+      "pct": -5.1,
+      "held_days": 6
     }
   ]
 }
